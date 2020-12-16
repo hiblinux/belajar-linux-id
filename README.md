@@ -1,37 +1,36 @@
 # Cara berkontribusi
 
-1. Kontak mas Rendy untuk akses ke repo ini.
+1. Kontak mas Leon untuk akses ke repo ini.
 2. Konfigurasi SSH Key pada repo ini, merujuk ke artikel [Konfigurasi SSH Key Pada Gitlab](https://ngulik-addict.cyou/post/Konfigurasi-SSH-Key-Pada-Gitlab.html)
-3. Lalu clone repo https://gitlab.com/rendyuwu/ngulik-addict
+3. Lalu clone repo menggunakan opsi SSH : https://gitlab.com/hiblinux/belajar-linux-id
 4. Jalankan command `./inisiate.sh` 
 5. Mulai berkontribusi ~
 
 ## Catatan Penting
 
-[Ngulik Addict](https://ngulik-addict.cyou/) merupakan website statis menggunakan Jekyll, yang perlu diketahui adalah struktur direktori dari Jekyll, silakan untuk membaca terlebih dahulu halaman [berikut.](https://jekyllrb.com/docs/structure/)
+[Belajar Linux](https://belajarlinux.id/) merupakan website statis menggunakan Jekyll, yang perlu diketahui adalah struktur direktori dari Jekyll, silakan untuk membaca terlebih dahulu halaman [berikut.](https://jekyllrb.com/docs/structure/)
 
 ## Path File
 
-- `~/ngulik-addict/_config.yml`: Secara default pengaturan dari Jekyll ada pada file `_config.yml`, disini tempat untuk melakukan konfigurasi dasar pada website.
-- `~/ngulik-addict/_posts/`: Disini tempat Anda meletakan file berformat `.md` yang nantinya akan menjadi konten pada website, kita memiliki struktur agar konten memiliiki keselarasan, berikut detailnya:
+- `~/belajar-linux-id/_config.yml`: Secara default pengaturan dari Jekyll ada pada file `_config.yml`, disini tempat untuk melakukan konfigurasi dasar pada website.
+- `~/belajar-linux-id/_posts/`: Disini tempat Anda meletakan file berformat `.md` yang nantinya akan menjadi konten pada website, kita memiliki struktur agar konten memiliiki keselarasan, berikut detailnya:
 	- Nama File : yyyy-mm-dd-judul-post-mu.md
 	- Header : 
 ```
 ---
 title: Judul Mu
+description: "Tulis deskripsi postingan"
 lang: id_ID
 layout: post
 date: yyyy-mm-dd HH:MM +0700
 author: Nama-Mu
-categories:
-    - nama-kategori
-tags:
-    - nama-tag
+image: https://s3-kita-com/gambar.png
+categories: [ Jekyll, tutorial ]
 ---
 ```
 
-- `~/ngulik-addict/_drafts/`: Disini adalah tempat Anda menaruh file postingan yang belum sepenuhnya jadi, apabila post telah jadi maka perlu dipindahkan ke folder `_posts/`
-- `~/ngulik-addict/tools`: Disini adalah tempat dimana tools pendukung telah Admin siapkan.
+- `~/belajar-linux-id/_drafts/`: Disini adalah tempat Anda menaruh file postingan yang belum sepenuhnya jadi, apabila post telah jadi maka perlu dipindahkan ke folder `_posts/`
+- `~/belajar-linux-id/tools`: Disini adalah tempat dimana tools pendukung telah Admin siapkan.
 
 ## Tool Pendukung
 
@@ -50,7 +49,7 @@ Terdapat 2 tool yang telah saya buat menggunakan Bash, yang pertama adalah `push
 ## Alur Penulisan
 
 1. Jalankan command `new-post` lalu masukan judul file dengan menggunakan tanda `-` sebgai penghubung. Anda tidak perlu menambahkan ekstensi `.md` pada bagian ini.
-2. Buka file yang sudah dibuat pada `/xx/xx/ngulik-addict/_drafts/file-anda.md`
+2. Buka file yang sudah dibuat pada `/xx/xx/belajar-linux-id/_drafts/file-anda.md`
 3. Sesuaikan header agar sesuai dengan tema konten Anda.
 4. Jalankan command `push` apabila telah selesai.
 5. Masukan commit sesuai dengan perubahan yang dilakukan.
