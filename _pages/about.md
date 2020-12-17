@@ -8,16 +8,22 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>test about</p>
+<p>Belajar Linux ID merupakan sebuah website tutorial belajar Sistem Operasi Linux Server semua distro. Tidak hanya Linux saja Belajar Linux ID juga mengulas tentang teknologi terbarukan seperti Virtualisasi, Cloud Computing, Container dan masih banyak lagi lainnya</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
+<h4>Profile Author</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<ul>
+  <li>Nur Hamim [ <a href="https://nurhamim.net">https://nurhamim.net</a> ]</li>
+  <li>Leonardus Kristaris Sastra [ <a href="https://leonsastra.my.id/">https://leonsastra.my.id</a> ]</li>
+  <li>Imron Rosyadi [ <a href="https://imron.my.id">https://imron.my.id</a> ]</li>
+</ul>
 
-<h4>Questions or bug reports?</h4>
+<!-- <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p> -->
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<h4>Hubungi Kami</h4>
+
+<p>Bagi Anda yang ingin bergabung menjadi `contributor` atau `author` Belajar Linux ID, silahkan menghubungi kami<a href="https://t.me/hamimaja">Klik DISINI</a>!</p>
 
 </div>
 
