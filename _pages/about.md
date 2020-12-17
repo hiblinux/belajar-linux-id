@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Belajar Linux ID salah satu wadah atau tempat tutorial-tutorial yang membahas seputar Linux Server dari berbagai distro Linux, tidak hanya Linux saja Belajar Linux ID juga mengulas tentang teknologi terbarukan seperti Cloud Computing, Container dan masih banyak lagi lainnya</p>
+<p>test about</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>
