@@ -22,7 +22,7 @@ build_env:
   only:
     - master
   tags:
-    - ruby
+    - ruby-stagging
 
 # Dimatikan agar lebih cepat
 #testing:
@@ -54,4 +54,4 @@ start_deploy:
   only:
     - master
   tags:
-    - alpine
+    - alpine-stagging
