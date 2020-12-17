@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi Moodle Menggunakan Nginx di CentOS 8
 featured: true
 date: '2020-08-26 12:14:12'
-tags:
+categories:
 - centos
 - cms
 - framework

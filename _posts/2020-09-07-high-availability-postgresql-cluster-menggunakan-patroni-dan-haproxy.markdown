@@ -3,7 +3,7 @@ layout: post
 title: High Availability PostgreSQL Cluster Menggunakan Patroni dan HAProxy
 featured: true
 date: '2020-09-07 22:03:38'
-tags:
+categories:
 - centos
 - database
 - load-balancer
@@ -256,7 +256,7 @@ Berikut full konfigurasinya
           username: postgres
           password: postgrespassword
     
-    tags:
+    categories:
         nofailover: false
         noloadbalance: false
         clonefrom: false

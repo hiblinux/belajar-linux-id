@@ -3,7 +3,7 @@ layout: post
 title: Cara Membuat Server Block Nginx di CentOS 8
 featured: true
 date: '2020-08-21 08:39:44'
-tags:
+categories:
 - centos
 - nginx
 ---

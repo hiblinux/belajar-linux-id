@@ -3,7 +3,7 @@ layout: post
 title: 'Linux: Cara Menggunakan Curl'
 featured: true
 date: '2020-11-14 10:59:51'
-tags:
+categories:
 - linux
 - centos
 - ubuntu

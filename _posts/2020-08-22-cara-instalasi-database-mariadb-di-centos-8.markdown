@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi Database MariaDB di CentOS 8
 featured: true
 date: '2020-08-22 07:24:02'
-tags:
+categories:
 - centos
 - database
 ---

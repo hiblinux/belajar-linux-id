@@ -3,7 +3,7 @@ layout: post
 title: Membuat Koneksi PHP ke MariaDB MaxScale
 featured: true
 date: '2020-09-01 21:24:52'
-tags:
+categories:
 - centos
 - cms
 - database

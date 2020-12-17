@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi SSL + Proxy CloudFlare di Nginx pada CentOS 8
 featured: true
 date: '2020-08-26 23:15:38'
-tags:
+categories:
 - centos
 - nginx
 - ssl

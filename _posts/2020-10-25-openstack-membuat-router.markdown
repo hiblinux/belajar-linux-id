@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Membuat Router'
 featured: true
 date: '2020-10-25 18:40:49'
-tags:
+categories:
 - openstack
 ---
 

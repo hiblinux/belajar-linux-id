@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi SSL Letsencrypt pada Laravel Menggunakan Nginx di CentOS 8
 featured: true
 date: '2020-08-26 14:15:44'
-tags:
+categories:
 - centos
 - ssl
 ---

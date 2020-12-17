@@ -3,7 +3,7 @@ layout: post
 title: 'CentOS: Cara Install PHP 8 di CentOS 8'
 featured: true
 date: '2020-11-28 02:08:20'
-tags:
+categories:
 - centos
 - linux
 - php

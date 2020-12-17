@@ -3,7 +3,7 @@ layout: post
 title: Cara Install SSL Let's Encrypt di iRedMail
 featured: true
 date: '2020-09-09 20:30:00'
-tags:
+categories:
 - centos
 - mail-server
 - ssl

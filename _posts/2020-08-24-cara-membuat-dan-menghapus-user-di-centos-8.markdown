@@ -3,7 +3,7 @@ layout: post
 title: Cara Membuat dan Menghapus User di CentOS 8
 featured: true
 date: '2020-08-24 09:28:45'
-tags:
+categories:
 - centos
 - linux
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Cara Mengatur Hostname Pada VM CentOS
 featured: true
 date: '2020-08-20 18:46:48'
-tags:
+categories:
 - centos
 ---
 

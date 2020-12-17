@@ -3,7 +3,7 @@ layout: post
 title: 'Linux: Cara Menggunakan TMUX'
 featured: true
 date: '2020-11-14 02:57:06'
-tags:
+categories:
 - ubuntu
 - centos
 - linux

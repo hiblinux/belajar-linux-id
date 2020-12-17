@@ -3,7 +3,7 @@ layout: post
 title: Tags
 featured: true
 date: '2020-11-05 16:27:51'
-tags:
+categories:
 - apache
 - centos
 - cloud-computing

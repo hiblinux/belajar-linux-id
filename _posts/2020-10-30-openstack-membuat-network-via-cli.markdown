@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Membuat Network via CLI'
 featured: true
 date: '2020-10-30 02:02:26'
-tags:
+categories:
 - openstack
 ---
 
@@ -82,7 +82,7 @@ Selanjutnya kami akan membuat internal network dengan nama network _net-internal
     | shared | False |
     | status | ACTIVE |
     | subnets | |
-    | tags | |
+    | categories | |
     | updated_at | 2020-09-24T11:19:11Z |
     +---------------------------+--------------------------------------+
     [root@hamim-controller ~(keystone_admin)]#
@@ -138,7 +138,7 @@ Saat ini network sudah berhasil dibuat, namun belum memiliki subnet untuk membua
     | revision_number | 0 |
     | service_types | |
     | subnetpool_id | |
-    | tags | |
+    | categories | |
     | tenant_id | 99f200eba89b49a9b89a981ec76813e1 |
     | updated_at | 2020-09-24T11:24:04Z |
     +-------------------+----------------------------------------------------+

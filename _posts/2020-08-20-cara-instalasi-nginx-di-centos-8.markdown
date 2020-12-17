@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi Nginx Di CentOS 8
 featured: true
 date: '2020-08-20 22:54:56'
-tags:
+categories:
 - centos
 - nginx
 ---

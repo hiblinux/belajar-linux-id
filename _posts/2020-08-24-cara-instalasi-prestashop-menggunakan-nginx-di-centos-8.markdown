@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi Prestashop Menggunakan Nginx di CentOS 8
 featured: true
 date: '2020-08-24 22:01:54'
-tags:
+categories:
 - centos
 - cms
 ---

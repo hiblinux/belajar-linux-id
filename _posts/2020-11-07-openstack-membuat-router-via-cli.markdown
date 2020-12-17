@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Membuat Router via CLI'
 featured: true
 date: '2020-11-07 09:36:11'
-tags:
+categories:
 - openstack
 ---
 
@@ -54,7 +54,7 @@ Selanjutnya kita akan membuat router dengan nama `router1`
     | revision_number | 1 |
     | routes | |
     | status | ACTIVE |
-    | tags | |
+    | categories | |
     | tenant_id | 99f200eba89b49a9b89a981ec76813e1 |
     | updated_at | 2020-09-24T11:27:22Z |
     +-------------------------+--------------------------------------+

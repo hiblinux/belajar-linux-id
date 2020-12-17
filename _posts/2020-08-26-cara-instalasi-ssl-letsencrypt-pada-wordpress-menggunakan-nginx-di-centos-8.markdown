@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi SSL Letsencrypt pada WordPress Menggunakan Nginx di CentOS 8
 featured: true
 date: '2020-08-26 15:19:21'
-tags:
+categories:
 - centos
 - ssl
 ---

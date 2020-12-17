@@ -3,7 +3,7 @@ layout: post
 title: Cara Install pgAdmin4 di CentOS 8
 featured: true
 date: '2020-09-06 04:12:56'
-tags:
+categories:
 - centos
 - database
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Install Openstack Queens Multi-Node Part 2'
 featured: true
 date: '2020-10-24 20:48:23'
-tags:
+categories:
 - openstack
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Cara Menggunakan Load Balancer Nginx di CentOS 8
 featured: true
 date: '2020-08-28 23:37:55'
-tags:
+categories:
 - centos
 - load-balancer
 - nginx

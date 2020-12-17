@@ -3,7 +3,7 @@ layout: post
 title: 'Ubuntu: Install SSL Let''s Encrypt untuk Apache di Ubuntu Server 20.04 TLS.'
 featured: true
 date: '2020-11-22 13:19:06'
-tags:
+categories:
 - apache
 - linux
 - ssl

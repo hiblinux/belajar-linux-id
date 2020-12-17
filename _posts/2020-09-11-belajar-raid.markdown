@@ -3,7 +3,7 @@ layout: post
 title: Belajar RAID
 featured: true
 date: '2020-09-11 23:51:59'
-tags:
+categories:
 - centos
 - raid
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Membuat Mail Server Menggunakan iRedMail di CentOS 8
 featured: true
 date: '2020-09-08 19:51:14'
-tags:
+categories:
 - centos
 - mail-server
 ---

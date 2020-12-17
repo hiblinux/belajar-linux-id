@@ -3,7 +3,7 @@ layout: post
 title: Benchmark Disk/Volume Menggunakan FIO
 featured: true
 date: '2020-09-27 22:03:50'
-tags:
+categories:
 - centos
 - raid
 - volume

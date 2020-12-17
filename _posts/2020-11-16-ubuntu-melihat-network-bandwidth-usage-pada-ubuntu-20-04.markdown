@@ -3,7 +3,7 @@ layout: post
 title: 'Ubuntu: Melihat Penggunaan Network Usage Pada Ubuntu 20.04'
 featured: true
 date: '2020-11-16 08:18:09'
-tags:
+categories:
 - ubuntu
 - linux
 ---

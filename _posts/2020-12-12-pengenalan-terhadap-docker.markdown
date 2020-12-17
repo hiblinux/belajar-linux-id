@@ -3,7 +3,7 @@ layout: post
 title: 'Docker: Pengenalan Terhadap Docker'
 featured: true
 date: '2020-12-12 08:03:38'
-tags:
+categories:
 - ubuntu
 - docker
 - linux

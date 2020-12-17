@@ -3,7 +3,7 @@ layout: post
 title: Cara Konfigurasi Replikasi MariaDB Master - Slave di CentOS 8
 featured: true
 date: '2020-08-30 21:02:23'
-tags:
+categories:
 - centos
 - database
 ---

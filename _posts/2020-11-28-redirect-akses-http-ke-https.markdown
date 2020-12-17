@@ -3,7 +3,7 @@ layout: post
 title: Redirect Akses HTTP ke HTTPS pada Web Server Apache di Ubuntu 20.04 LTS.
 featured: true
 date: '2020-11-28 08:28:41'
-tags:
+categories:
 - apache
 - ubuntu
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'SSH: Copy File dan Folder Menggunakan SSH'
 featured: true
 date: '2020-11-15 08:43:14'
-tags:
+categories:
 - ssh
 - linux
 - centos

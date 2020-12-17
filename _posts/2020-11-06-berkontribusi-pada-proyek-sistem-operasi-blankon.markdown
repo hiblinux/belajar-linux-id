@@ -3,7 +3,7 @@ layout: post
 title: Berkontribusi Pada Proyek Sistem Operasi BlankOn
 featured: true
 date: '2020-11-06 10:22:34'
-tags:
+categories:
 - linux
 - blankon
 ---

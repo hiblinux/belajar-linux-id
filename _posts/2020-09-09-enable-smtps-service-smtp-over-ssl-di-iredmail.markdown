@@ -3,7 +3,7 @@ layout: post
 title: Enable SMTPS service (SMTP over SSL) di iRedMail
 featured: true
 date: '2020-09-09 20:51:23'
-tags:
+categories:
 - centos
 - mail-server
 ---

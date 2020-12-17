@@ -3,7 +3,7 @@ layout: post
 title: 'Cloud Computing: Jenis - Jenis Cloud'
 featured: true
 date: '2020-10-03 19:28:11'
-tags:
+categories:
 - cloud-computing
 ---
 

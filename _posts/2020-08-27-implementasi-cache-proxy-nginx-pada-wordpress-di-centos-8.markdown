@@ -3,7 +3,7 @@ layout: post
 title: Implementasi Cache Proxy Nginx pada WordPress di CentOS 8
 featured: true
 date: '2020-08-27 23:25:19'
-tags:
+categories:
 - centos
 - cms
 - nginx

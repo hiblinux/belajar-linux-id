@@ -3,7 +3,7 @@ layout: post
 title: 'PMG: Relay Email Plesk Panel Menggunakan Proxmox Mail Gateway'
 featured: true
 date: '2020-12-05 06:09:12'
-tags:
+categories:
 - proxmox-mail-gateway
 ---
 

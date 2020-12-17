@@ -3,7 +3,7 @@ layout: post
 title: 'Linux: Cara Resize Disk non LVM'
 featured: true
 date: '2020-11-24 16:33:23'
-tags:
+categories:
 - volume
 ---
 

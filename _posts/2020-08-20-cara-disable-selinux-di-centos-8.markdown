@@ -3,7 +3,7 @@ layout: post
 title: Cara Disable SELinux di CentOS 8
 featured: true
 date: '2020-08-20 22:03:06'
-tags:
+categories:
 - centos
 - linux
 ---

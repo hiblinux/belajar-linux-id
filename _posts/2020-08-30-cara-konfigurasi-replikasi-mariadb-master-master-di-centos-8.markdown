@@ -3,7 +3,7 @@ layout: post
 title: Cara Konfigurasi Replikasi MariaDB Master - Master di CentOS 8
 featured: true
 date: '2020-08-30 04:52:33'
-tags:
+categories:
 - centos
 - database
 ---

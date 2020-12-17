@@ -3,7 +3,7 @@ layout: post
 title: Cara Akses VM (Virtual Machine) Menggunakan PuTTY
 featured: true
 date: '2020-08-20 18:38:36'
-tags:
+categories:
 - centos
 - ssh
 ---

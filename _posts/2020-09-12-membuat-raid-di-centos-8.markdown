@@ -3,7 +3,7 @@ layout: post
 title: Membuat RAID di CentOS 8
 featured: true
 date: '2020-09-12 21:47:15'
-tags:
+categories:
 - centos
 - raid
 ---

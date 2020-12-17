@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Membuat Instance Melalui Horizon'
 featured: true
 date: '2020-10-26 16:34:41'
-tags:
+categories:
 - openstack
 ---
 

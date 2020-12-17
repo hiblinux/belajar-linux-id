@@ -3,7 +3,7 @@ layout: post
 title: 'Linux: Cara Menggunakan Screen'
 featured: true
 date: '2020-11-11 16:29:28'
-tags:
+categories:
 - ubuntu
 - centos
 - linux

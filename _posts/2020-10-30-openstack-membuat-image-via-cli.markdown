@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Membuat Image via CLI'
 featured: true
 date: '2020-10-30 01:44:45'
-tags:
+categories:
 - openstack
 ---
 
@@ -56,7 +56,7 @@ Create image cirros dengan memberi nama image menjadi _cirros1_
     | schema | /v2/schemas/image |
     | size | 16338944 |
     | status | active |
-    | tags | |
+    | categories | |
     | updated_at | 2020-09-24T11:04:48Z |
     | virtual_size | None |
     | visibility | public |
@@ -102,7 +102,7 @@ Buat image CentOS 7, berikut perintahnya:
     | schema | /v2/schemas/image |
     | size | 858783744 |
     | status | active |
-    | tags | |
+    | categories | |
     | updated_at | 2020-09-24T12:05:42Z |
     | virtual_size | None |
     | visibility | public |

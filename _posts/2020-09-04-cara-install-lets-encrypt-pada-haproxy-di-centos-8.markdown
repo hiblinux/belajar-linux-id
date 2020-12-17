@@ -3,7 +3,7 @@ layout: post
 title: Cara Install Let's Encrypt pada HAProxy di CentOS 8
 featured: true
 date: '2020-09-04 03:13:49'
-tags:
+categories:
 - centos
 - haproxy
 - ssl

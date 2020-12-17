@@ -3,7 +3,7 @@ layout: post
 title: 'Linux: Membuat File Dummy'
 featured: true
 date: '2020-11-17 10:46:31'
-tags:
+categories:
 - linux
 - centos
 - ubuntu

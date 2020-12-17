@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi Joomla Menggunakan Nginx di CentOS 8
 featured: true
 date: '2020-08-24 19:33:31'
-tags:
+categories:
 - centos
 - cms
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi dan Konfigurasi MariaDB Galera Cluster di CentOS 8
 featured: true
 date: '2020-08-31 20:38:13'
-tags:
+categories:
 - centos
 - database
 - galera-cluster

@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi WordPress menggunakan Nginx di CentOS 8
 featured: true
 date: '2020-08-24 15:08:01'
-tags:
+categories:
 - centos
 - cms
 ---

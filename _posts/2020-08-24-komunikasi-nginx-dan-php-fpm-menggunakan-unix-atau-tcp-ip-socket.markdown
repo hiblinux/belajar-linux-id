@@ -3,7 +3,7 @@ layout: post
 title: Komunikasi Nginx dan PHP-FPM Menggunakan Unix atau TCP/IP Socket
 featured: true
 date: '2020-08-24 14:12:15'
-tags:
+categories:
 - centos
 - nginx
 - php

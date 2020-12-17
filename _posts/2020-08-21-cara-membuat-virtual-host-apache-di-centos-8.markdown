@@ -3,7 +3,7 @@ layout: post
 title: Cara Membuat Virtual Host Apache di CentOS 8
 featured: true
 date: '2020-08-21 19:06:13'
-tags:
+categories:
 - apache
 - centos
 ---

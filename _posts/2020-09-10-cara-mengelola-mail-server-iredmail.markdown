@@ -3,7 +3,7 @@ layout: post
 title: Cara Mengelola Mail Server iRedMail
 featured: true
 date: '2020-09-10 07:59:54'
-tags:
+categories:
 - centos
 - mail-server
 ---

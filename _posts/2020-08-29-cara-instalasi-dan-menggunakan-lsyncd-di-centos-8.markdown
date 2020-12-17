@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi dan Menggunakan Lsyncd di CentOS 8
 featured: true
 date: '2020-08-29 20:16:56'
-tags:
+categories:
 - centos
 - linux
 ---

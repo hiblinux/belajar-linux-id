@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi CodeIgniter Menggunakan Nginx di CentOS 8
 featured: true
 date: '2020-08-25 23:16:42'
-tags:
+categories:
 - centos
 - framework
 ---

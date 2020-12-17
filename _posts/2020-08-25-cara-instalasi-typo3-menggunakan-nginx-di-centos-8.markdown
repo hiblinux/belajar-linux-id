@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi Typo3 Menggunakan Nginx di CentOS 8
 featured: true
 date: '2020-08-25 15:20:05'
-tags:
+categories:
 - centos
 - cms
 ---

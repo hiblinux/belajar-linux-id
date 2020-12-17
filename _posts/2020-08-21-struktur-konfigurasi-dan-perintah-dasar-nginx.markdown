@@ -3,7 +3,7 @@ layout: post
 title: Struktur Konfigurasi dan Perintah Dasar Nginx di CentOS 8
 featured: true
 date: '2020-08-21 14:18:41'
-tags:
+categories:
 - centos
 - nginx
 ---

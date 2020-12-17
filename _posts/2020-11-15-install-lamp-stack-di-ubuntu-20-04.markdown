@@ -3,7 +3,7 @@ layout: post
 title: 'Ubuntu: Install LAMP Stack di  Ubuntu 20.04'
 featured: true
 date: '2020-11-15 15:12:09'
-tags:
+categories:
 - apache
 - cloud-computing
 - database

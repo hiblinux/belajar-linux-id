@@ -2,7 +2,7 @@
 layout: post
 title: 'SSH: Tunneling Menggunakan SSH'
 date: '2020-11-07 05:43:00'
-tags:
+categories:
 - ssh
 - linux
 - ubuntu

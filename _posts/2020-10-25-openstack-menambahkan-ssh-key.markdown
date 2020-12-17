@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Menambahkan SSH Key'
 featured: true
 date: '2020-10-25 19:44:52'
-tags:
+categories:
 - openstack
 ---
 

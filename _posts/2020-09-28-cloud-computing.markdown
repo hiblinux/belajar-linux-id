@@ -3,7 +3,7 @@ layout: post
 title: 'Cloud Computing: Pengenalan'
 featured: true
 date: '2020-09-28 01:08:55'
-tags:
+categories:
 - cloud-computing
 ---
 

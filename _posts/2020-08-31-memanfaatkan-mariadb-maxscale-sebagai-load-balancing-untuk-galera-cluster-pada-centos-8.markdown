@@ -4,7 +4,7 @@ title: Memanfaatkan MariaDB MaxScale Sebagai Load Balancing Untuk Galera Cluster
   CentOS 8
 featured: true
 date: '2020-08-31 23:43:20'
-tags:
+categories:
 - centos
 - database
 - galera-cluster

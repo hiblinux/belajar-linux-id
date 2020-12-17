@@ -3,7 +3,7 @@ layout: post
 title: 'Ubuntu: Instalasi Webserver Apache di Ubuntu 20.04'
 featured: true
 date: '2020-11-15 06:19:25'
-tags:
+categories:
 - ubuntu
 - apache
 - linux

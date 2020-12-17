@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi XRDP Server (Remote Dekstop) pada CentOS 8
 featured: true
 date: '2020-08-20 19:47:12'
-tags:
+categories:
 - centos
 - linux
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'PMG: Mengenal Apa itu Proxmox Mail Gateway'
 featured: true
 date: '2020-12-03 21:07:42'
-tags:
+categories:
 - proxmox-mail-gateway
 ---
 

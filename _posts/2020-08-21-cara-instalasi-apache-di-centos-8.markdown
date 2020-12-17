@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi Apache di CentOS 8
 featured: true
 date: '2020-08-21 14:42:13'
-tags:
+categories:
 - apache
 - centos
 ---

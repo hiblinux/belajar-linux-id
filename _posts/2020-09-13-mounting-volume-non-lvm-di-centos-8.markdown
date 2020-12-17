@@ -3,7 +3,7 @@ layout: post
 title: Mounting Volume non-LVM di CentOS 8
 featured: true
 date: '2020-09-13 16:28:34'
-tags:
+categories:
 - centos
 - volume
 ---

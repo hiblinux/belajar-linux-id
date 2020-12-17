@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Definisi dan  Arsitektur'
 featured: true
 date: '2020-10-24 18:09:19'
-tags:
+categories:
 - openstack
 ---
 

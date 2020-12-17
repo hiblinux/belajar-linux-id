@@ -3,7 +3,7 @@ layout: post
 title: Cara Install PostgreSQL di CentOS 8
 featured: true
 date: '2020-09-05 01:55:56'
-tags:
+categories:
 - centos
 - database
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Membuat Network'
 featured: true
 date: '2020-10-25 17:53:29'
-tags:
+categories:
 - openstack
 ---
 

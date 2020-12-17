@@ -3,7 +3,7 @@ layout: post
 title: Cara Enable Gzip Compression pada Nginx di CentOS 8
 featured: true
 date: '2020-08-27 13:17:49'
-tags:
+categories:
 - centos
 - linux
 - nginx

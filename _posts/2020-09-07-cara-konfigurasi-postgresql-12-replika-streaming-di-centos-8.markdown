@@ -3,7 +3,7 @@ layout: post
 title: Cara Konfigurasi PostgreSQL 12 Replika Streaming di CentOS 8
 featured: true
 date: '2020-09-07 20:03:38'
-tags:
+categories:
 - centos
 - database
 ---

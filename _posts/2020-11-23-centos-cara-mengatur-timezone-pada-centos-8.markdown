@@ -3,7 +3,7 @@ layout: post
 title: 'CentOS: Cara Mengatur Timezone Pada CentOS 8'
 featured: true
 date: '2020-11-23 10:32:12'
-tags:
+categories:
 - centos
 ---
 

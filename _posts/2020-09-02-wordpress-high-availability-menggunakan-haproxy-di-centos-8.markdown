@@ -3,7 +3,7 @@ layout: post
 title: WordPress High Availability Menggunakan Haproxy di CentOS 8
 featured: true
 date: '2020-09-02 21:58:23'
-tags:
+categories:
 - centos
 - cms
 - database

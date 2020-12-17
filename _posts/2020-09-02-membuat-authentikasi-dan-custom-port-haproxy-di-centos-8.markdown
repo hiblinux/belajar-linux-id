@@ -3,7 +3,7 @@ layout: post
 title: Membuat Authentikasi dan Custom Port HAProxy di CentOS 8
 featured: true
 date: '2020-09-02 23:00:06'
-tags:
+categories:
 - centos
 - haproxy
 ---

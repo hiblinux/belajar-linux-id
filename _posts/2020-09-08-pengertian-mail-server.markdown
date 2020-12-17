@@ -3,7 +3,7 @@ layout: post
 title: Pengertian Mail Server
 featured: true
 date: '2020-09-08 19:12:13'
-tags:
+categories:
 - centos
 - mail-server
 ---

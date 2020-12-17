@@ -3,7 +3,7 @@ layout: post
 title: Memahami Cara Kerja Nginx Reverse Proxy
 featured: true
 date: '2020-08-23 20:23:13'
-tags:
+categories:
 - apache
 - centos
 - nginx

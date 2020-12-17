@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Floating IP via CLI'
 featured: true
 date: '2020-11-07 11:05:37'
-tags:
+categories:
 - openstack
 ---
 

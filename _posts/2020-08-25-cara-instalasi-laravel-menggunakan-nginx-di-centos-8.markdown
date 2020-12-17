@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi Laravel Menggunakan Nginx di CentOS 8
 featured: true
 date: '2020-08-25 20:34:52'
-tags:
+categories:
 - centos
 - framework
 ---

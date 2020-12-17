@@ -3,7 +3,7 @@ layout: post
 title: "[SOLVED] MariaDB Galera Cluster not starting (failed to open channel)"
 featured: true
 date: '2020-09-03 22:29:54'
-tags:
+categories:
 - centos
 - database
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 'Linux: Menggunakan Perintah Du (Disk Usage)'
 featured: true
 date: '2020-11-17 10:30:59'
-tags:
+categories:
 - linux
 - centos
 - ubuntu

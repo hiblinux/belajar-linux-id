@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Cara Rescue Instance'
 featured: true
 date: '2020-11-11 07:21:41'
-tags:
+categories:
 - openstack
 ---
 

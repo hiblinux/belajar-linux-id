@@ -3,7 +3,7 @@ layout: post
 title: Cara Menjalankan Apache dan Nginx Secara Bersama di CentOS 8
 featured: true
 date: '2020-08-22 06:49:47'
-tags:
+categories:
 - apache
 - centos
 - nginx

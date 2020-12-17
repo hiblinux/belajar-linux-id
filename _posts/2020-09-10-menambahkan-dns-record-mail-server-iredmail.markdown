@@ -3,7 +3,7 @@ layout: post
 title: Menambahkan DNS Record Mail Server iRedMail
 featured: true
 date: '2020-09-10 06:59:19'
-tags:
+categories:
 - centos
 - dns
 - mail-server

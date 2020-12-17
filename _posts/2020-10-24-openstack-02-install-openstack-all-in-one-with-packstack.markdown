@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Install Openstack All-in-One with Packstack'
 featured: true
 date: '2020-10-24 18:53:18'
-tags:
+categories:
 - openstack
 ---
 

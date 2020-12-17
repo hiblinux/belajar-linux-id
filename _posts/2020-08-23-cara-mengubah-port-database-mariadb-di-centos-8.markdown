@@ -3,7 +3,7 @@ layout: post
 title: Cara Mengubah Port Database MariaDB di CentOS 8
 featured: true
 date: '2020-08-23 11:17:48'
-tags:
+categories:
 - centos
 - database
 ---

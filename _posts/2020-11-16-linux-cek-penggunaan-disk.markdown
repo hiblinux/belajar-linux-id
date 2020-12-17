@@ -3,7 +3,7 @@ layout: post
 title: 'Linux: Cek Penggunaan Disk'
 featured: true
 date: '2020-11-16 10:37:49'
-tags:
+categories:
 - linux
 ---
 

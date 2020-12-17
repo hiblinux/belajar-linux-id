@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Membuat Security Group via CLI'
 featured: true
 date: '2020-11-07 10:19:43'
-tags:
+categories:
 - openstack
 ---
 

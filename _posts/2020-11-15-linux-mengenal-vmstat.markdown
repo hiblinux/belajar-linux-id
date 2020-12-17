@@ -3,7 +3,7 @@ layout: post
 title: 'Linux: Mengenal vmstat'
 featured: true
 date: '2020-11-15 01:39:44'
-tags:
+categories:
 - linux
 - ubuntu
 - centos

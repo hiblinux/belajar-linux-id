@@ -3,7 +3,7 @@ layout: post
 title: 'Linux: Cara Install dan Konfigurasi NFS Server di CentOS 8'
 featured: true
 date: '2020-11-26 13:35:29'
-tags:
+categories:
 - volume
 - centos
 ---

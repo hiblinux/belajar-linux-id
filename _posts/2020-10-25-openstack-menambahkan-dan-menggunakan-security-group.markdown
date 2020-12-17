@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Menambah dan Menggunakan Security Group'
 featured: true
 date: '2020-10-25 20:52:36'
-tags:
+categories:
 - openstack
 ---
 

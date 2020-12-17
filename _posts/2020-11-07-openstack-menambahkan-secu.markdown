@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Membuat SSH Key via CLI'
 featured: true
 date: '2020-11-07 10:09:57'
-tags:
+categories:
 - openstack
 ---
 

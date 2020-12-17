@@ -3,7 +3,7 @@ layout: post
 title: 'Linux: Melihat Penggunaan RAM'
 featured: true
 date: '2020-11-15 00:41:35'
-tags:
+categories:
 - linux
 - ubuntu
 - centos

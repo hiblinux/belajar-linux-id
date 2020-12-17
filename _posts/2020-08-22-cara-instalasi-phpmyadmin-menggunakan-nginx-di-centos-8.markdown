@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi phpMyAdmin Menggunakan Nginx di CentOS 8
 featured: true
 date: '2020-08-22 19:22:36'
-tags:
+categories:
 - centos
 - database
 ---

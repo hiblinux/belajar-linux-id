@@ -3,7 +3,7 @@ layout: post
 title: 'CentOS: Membuat Basic Auth Pada HAProxy'
 featured: true
 date: '2020-12-13 10:13:52'
-tags:
+categories:
 - centos
 - haproxy
 ---

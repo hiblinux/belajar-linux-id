@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi Database MySQL di CentOS 8
 featured: true
 date: '2020-08-22 11:34:08'
-tags:
+categories:
 - centos
 - database
 ---

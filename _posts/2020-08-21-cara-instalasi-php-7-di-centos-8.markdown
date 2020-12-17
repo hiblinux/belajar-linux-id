@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi PHP 7 di CentOS 8
 featured: true
 date: '2020-08-21 08:53:50'
-tags:
+categories:
 - centos
 - linux
 - php

@@ -3,7 +3,7 @@ layout: post
 title: Cara Konfigurasi Nginx Reverse Proxy (Standalone)
 featured: true
 date: '2020-08-23 21:53:38'
-tags:
+categories:
 - apache
 - centos
 - nginx

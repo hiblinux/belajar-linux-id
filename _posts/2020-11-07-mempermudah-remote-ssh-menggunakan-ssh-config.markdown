@@ -3,7 +3,7 @@ layout: post
 title: 'SSH: Mempermudah Remote SSH Menggunakan SSH Config'
 featured: true
 date: '2020-11-07 00:47:44'
-tags:
+categories:
 - ssh
 - linux
 - centos

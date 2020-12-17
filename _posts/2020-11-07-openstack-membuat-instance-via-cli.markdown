@@ -3,7 +3,7 @@ layout: post
 title: 'Openstack: Membuat Instance via CLI'
 featured: true
 date: '2020-11-07 10:39:16'
-tags:
+categories:
 - openstack
 ---
 

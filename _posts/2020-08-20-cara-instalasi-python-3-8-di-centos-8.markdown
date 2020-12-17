@@ -3,7 +3,7 @@ layout: post
 title: Cara Instalasi Python 3.8 di CentOS 8
 featured: true
 date: '2020-08-20 21:39:57'
-tags:
+categories:
 - centos
 - linux
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Cara Reset Password Root MariaDB/MySQL di CentOS 8
 featured: true
 date: '2020-08-22 14:04:42'
-tags:
+categories:
 - centos
 - database
 ---
