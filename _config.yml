@@ -1,13 +1,13 @@
 # Site
-name: "Mediumish"
-title: "Stagging"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Belajar Linux ID"
+title: "Belajar Linux ID"
+description: "Belajar Linux ID salah satu wadah atau tempat tutorial-tutorial yang membahas seputar Linux Server dari berbagai distro Linux, tidak hanya Linux saja Belajar Linux ID juga mengulas tentang teknologi terbarukan seperti Cloud Computing, Container dan masih banyak lagi lainnya."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: 'belajarlinuxid'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
@@ -19,8 +19,8 @@ authors:
     gravatar: dd84917a411ef717c000da8f846050df
     email: leonachild@gmail.com
     web: https://leonsastra.my.id
-    twitter: https://twitter.com/leonyonz
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    twitter: https://www.instagram.com/yonzleon_aw/
+    description: "Seorang pemuda yang sangat tertarik untuk mempelajari dunia IT terutama bidang Cloud Computing Sys/Dev/Ops. Bio lengkap saya dapat dilihat pada https://leonsastra.my.id"
   Imron:
     name: campuz.dragon@gmail.com
     display_name: Imron Rosyadi
