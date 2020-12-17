@@ -2,6 +2,7 @@
 author: leon
 layout: post
 title: 'Docker: Pengenalan Terhadap Docker'
+image: 'assets/images/test-template-docker.png'
 featured: true
 date: '2020-12-12 08:03:38'
 categories:
