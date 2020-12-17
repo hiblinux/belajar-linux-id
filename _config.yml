@@ -1,13 +1,13 @@
 # Site
-name: "Belajar Linux ID"
-title: "Belajar Linux ID"
-description: "Belajar Linux ID salah satu wadah atau tempat tutorial-tutorial yang membahas seputar Linux Server dari berbagai distro Linux, tidak hanya Linux saja Belajar Linux ID juga mengulas tentang teknologi terbarukan seperti Cloud Computing, Container dan masih banyak lagi lainnya."
+name: "Mediumish"
+title: "Stagging"
+description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: "/"
 google_analytics: 'UA-46278016-1'
-disqus: 'belajarlinuxid'
-#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: 'demowebsite'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
@@ -20,7 +20,7 @@ authors:
     email: leonachild@gmail.com
     web: https://leonsastra.my.id
     twitter: https://www.instagram.com/yonzleon_aw/
-    description: "Seorang pemuda yang sangat tertarik untuk mempelajari dunia IT terutama bidang Cloud Computing Sys/Dev/Ops. Bio lengkap saya dapat dilihat pada https://leonsastra.my.id"
+    description: "Seorang pemuda yang sangat tertarik untuk mempelajari dunia IT terutama bidang Cloud Computing Sys/Dev/Ops. Bio lengkap saya dapat dilihat pada https://leonsastra.my.id/"
   Imron:
     name: campuz.dragon@gmail.com
     display_name: Imron Rosyadi
@@ -33,7 +33,7 @@ authors:
   nurhamim:
     name: Nur Hamim
     display_name: Nur Hamim
-    avatar: https://imgnurhamimnet.s3-id-jkt-1.kilatstorage.id
+    avatar: 'assets/images/hamim.png'
     email: hamimistimewa@gmail.com
     web: https://nurhamim.net
     description: "Anak desa yang gemar berkomunitas, suka menulis dan mencari hal baru seputar Unix/Linux dan Cloud. Saat ini sedang menempuh pendidikan S1 TI di Unindra dan kebetulan bekerja di PT Biznet GIO Nusantara"
