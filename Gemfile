@@ -17,4 +17,5 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'kramdown'
     gem 'rouge'
+    gem 'sasc', '2.1.0'
 end
