@@ -1,11 +1,10 @@
 ---
-title: Writing a New Post
+title: Nginx itu Mudah
+description: Tulis deskripsi postingan
 lang: id_ID
 layout: post
-date: 2020-12-17 01:40:11 +0700
-author: Leon Sastra
-categories:
-    - nama-kategori
-tags:
-    - nama-tag
+date: 2020-12-17 +0700
+author: Imron Rosyadi
+image: https://s3-kita-com/gambar.png
+categories: [ Jekyll, tutorial ]
 ---
