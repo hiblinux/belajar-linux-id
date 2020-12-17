@@ -3,7 +3,7 @@ name: "Belajar Linux ID"
 title: "Belajar Linux ID"
 description: "Cari tutorial Linux? Disini tempat nya 😁"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo-blinux.png'
+favicon: 'assets/images/logo-blinux.jpg'
 baseurl: ""
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
