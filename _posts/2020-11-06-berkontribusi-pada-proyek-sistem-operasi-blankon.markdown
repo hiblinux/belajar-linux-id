@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Berkontribusi Pada Proyek Sistem Operasi BlankOn
 featured: true

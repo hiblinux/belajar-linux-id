@@ -1,4 +1,5 @@
 ---
+author: leon
 layout: post
 title: 'SSH: Mempermudah Remote SSH Menggunakan SSH Config'
 featured: true

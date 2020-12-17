@@ -1,4 +1,5 @@
 ---
+author: leon
 layout: post
 title: 'Ubuntu: Melihat Penggunaan Network Usage Pada Ubuntu 20.04'
 featured: true

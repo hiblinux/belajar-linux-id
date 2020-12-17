@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: 'Openstack: Membuat Image via CLI'
 featured: true

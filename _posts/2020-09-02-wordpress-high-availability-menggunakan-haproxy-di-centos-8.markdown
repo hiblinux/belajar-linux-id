@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: WordPress High Availability Menggunakan Haproxy di CentOS 8
 featured: true

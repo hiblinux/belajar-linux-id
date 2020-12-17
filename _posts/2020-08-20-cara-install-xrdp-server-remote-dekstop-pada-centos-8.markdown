@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Cara Instalasi XRDP Server (Remote Dekstop) pada CentOS 8
 featured: true

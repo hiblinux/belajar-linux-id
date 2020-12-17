@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Belajar RAID
 featured: true

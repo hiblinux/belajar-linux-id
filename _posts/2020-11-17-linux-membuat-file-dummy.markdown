@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: 'Linux: Membuat File Dummy'
 featured: true

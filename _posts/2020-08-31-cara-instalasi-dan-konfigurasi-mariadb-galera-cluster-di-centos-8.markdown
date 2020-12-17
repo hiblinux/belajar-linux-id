@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Cara Instalasi dan Konfigurasi MariaDB Galera Cluster di CentOS 8
 featured: true

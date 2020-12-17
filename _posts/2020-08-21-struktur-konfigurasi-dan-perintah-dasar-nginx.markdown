@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Struktur Konfigurasi dan Perintah Dasar Nginx di CentOS 8
 featured: true

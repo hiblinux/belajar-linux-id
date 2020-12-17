@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: 'Linux: Cara Resize Disk non LVM'
 featured: true

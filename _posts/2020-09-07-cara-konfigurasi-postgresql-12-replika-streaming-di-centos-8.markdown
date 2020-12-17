@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Cara Konfigurasi PostgreSQL 12 Replika Streaming di CentOS 8
 featured: true

@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Cara Instalasi Laravel Menggunakan Nginx di CentOS 8
 featured: true

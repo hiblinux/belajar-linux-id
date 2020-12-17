@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: 'Openstack: Install Openstack Queens Multi-Node Part 2'
 featured: true

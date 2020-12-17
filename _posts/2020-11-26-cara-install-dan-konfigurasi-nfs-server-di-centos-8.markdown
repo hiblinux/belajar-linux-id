@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: 'Linux: Cara Install dan Konfigurasi NFS Server di CentOS 8'
 featured: true

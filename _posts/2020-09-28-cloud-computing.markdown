@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: 'Cloud Computing: Pengenalan'
 featured: true

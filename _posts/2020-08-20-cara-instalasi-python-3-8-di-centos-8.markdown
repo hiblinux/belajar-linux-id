@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Cara Instalasi Python 3.8 di CentOS 8
 featured: true

@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: 'Openstack: Membuat Instance via CLI'
 featured: true

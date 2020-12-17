@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: 'Linux: Menggunakan Perintah Du (Disk Usage)'
 featured: true

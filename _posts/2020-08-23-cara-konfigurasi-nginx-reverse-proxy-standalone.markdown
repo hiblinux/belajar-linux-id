@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Cara Konfigurasi Nginx Reverse Proxy (Standalone)
 featured: true

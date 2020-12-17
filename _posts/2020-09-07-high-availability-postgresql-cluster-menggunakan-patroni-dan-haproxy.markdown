@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: High Availability PostgreSQL Cluster Menggunakan Patroni dan HAProxy
 featured: true

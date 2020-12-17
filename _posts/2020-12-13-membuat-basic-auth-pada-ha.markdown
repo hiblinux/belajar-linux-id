@@ -1,4 +1,5 @@
 ---
+author: leon
 layout: post
 title: 'CentOS: Membuat Basic Auth Pada HAProxy'
 featured: true

@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Cara Instalasi phpMyAdmin Menggunakan Nginx di CentOS 8
 featured: true

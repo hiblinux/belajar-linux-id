@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Memahami Cara Kerja Nginx Reverse Proxy
 featured: true

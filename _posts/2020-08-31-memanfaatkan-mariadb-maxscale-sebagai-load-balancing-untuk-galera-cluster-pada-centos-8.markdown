@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Memanfaatkan MariaDB MaxScale Sebagai Load Balancing Untuk Galera Cluster pada
   CentOS 8

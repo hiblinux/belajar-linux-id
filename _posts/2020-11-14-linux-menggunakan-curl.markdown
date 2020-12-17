@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: 'Linux: Cara Menggunakan Curl'
 featured: true

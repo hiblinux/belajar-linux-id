@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Membuat Koneksi PHP ke MariaDB MaxScale
 featured: true

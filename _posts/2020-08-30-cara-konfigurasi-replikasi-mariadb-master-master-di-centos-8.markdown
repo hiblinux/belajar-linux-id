@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Cara Konfigurasi Replikasi MariaDB Master - Master di CentOS 8
 featured: true

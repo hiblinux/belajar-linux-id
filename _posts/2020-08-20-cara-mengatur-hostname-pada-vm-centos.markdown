@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Cara Mengatur Hostname Pada VM CentOS
 featured: true

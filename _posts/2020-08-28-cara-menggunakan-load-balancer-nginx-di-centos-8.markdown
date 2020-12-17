@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Cara Menggunakan Load Balancer Nginx di CentOS 8
 featured: true

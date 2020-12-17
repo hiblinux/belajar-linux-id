@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: 'Linux: Melihat Penggunaan RAM'
 featured: true

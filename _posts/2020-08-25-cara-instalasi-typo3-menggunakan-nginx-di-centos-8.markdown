@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Cara Instalasi Typo3 Menggunakan Nginx di CentOS 8
 featured: true

@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Membuat RAID di CentOS 8
 featured: true

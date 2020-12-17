@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Cara Instalasi dan Menggunakan Lsyncd di CentOS 8
 featured: true

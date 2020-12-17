@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Cara Membuat Server Block Nginx di CentOS 8
 featured: true

@@ -1,4 +1,5 @@
 ---
+author: nurhamim
 layout: post
 title: Implementasi Cache Proxy Nginx pada WordPress di CentOS 8
 featured: true
