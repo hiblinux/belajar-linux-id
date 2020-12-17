@@ -23,7 +23,7 @@ comments: true
 
 <h4>Hubungi Kami</h4>
 
-<p>Bagi Anda yang ingin bergabung menjadi `contributor` atau `author` Belajar Linux ID, silahkan menghubungi kami<a href="https://t.me/hamimaja">Klik DISINI</a>!</p>
+<p>Bagi Anda yang ingin bergabung menjadi contributor atau author Belajar Linux ID, silahkan menghubungi kami <a href="https://t.me/hamimaja">Klik DISINI</a>!</p>
 
 </div>
 
