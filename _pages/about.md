@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Belajar Linux ID
+title: Tentang Kami
 permalink: /about
 comments: true
 ---
