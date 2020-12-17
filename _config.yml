@@ -30,6 +30,14 @@ authors:
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
+  nurhamim:
+    name: Nur Hamim
+    display_name: Nur Hamim
+    avatar: 'assets/images/hamim.png'
+    email: hamimistimewa@gmail.com
+    web: https://nurhamim.net
+    description: "Anak desa yang gemar berkomunitas, suka menulis dan mencari hal baru seputar Unix/Linux dan Cloud. Saat ini sedang menempuh pendidikan S1 TI di Unindra dan kebetulan bekerja di PT Biznet GIO Nusantara"
+
 # Plugins
 plugins:
   - jekyll-paginate
