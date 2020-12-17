@@ -1,11 +1,15 @@
 ---
-title: Perbedaan Markdown HTML JS PHP
-description: Hanya percobaan saja
-date: '2020-12-18 02:54:38'
 author: nurhamim
+layout: post
+title: 'Perbedaan HTML JS PHP'
 image: 'assets/images/test-template-docker.png'
+description: 'coba saja'
 featured: true
-categories: [ centos, ubuntu ]
+date: '2020-12-14 02:10:36'
+categories:
+  - docker
+  - ubuntu
+  - centos
 ---
 
 Menggunakan JS
