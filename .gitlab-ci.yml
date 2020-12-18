@@ -4,7 +4,7 @@ stages:
   - deploy
 
     #image: ruby:2.6
-image:jekyll/builder
+image: jekyll/builder
 cache:
   paths:
   - vendor/
