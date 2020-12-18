@@ -3,17 +3,16 @@ stages:
 #  - test
   - deploy
 
-    #image: ruby:2.6
-image: jekyll/builder
+image: ruby:2.6
 cache:
   paths:
   - vendor/
 
 build_env:
   stage: build
-  #  before_script:
-  #    - gem install bundler
-  #    - bundle install
+  before_script:
+    - gem install bundler
+    - bundle install
   script:
     - bundle exec jekyll build
   artifacts:
