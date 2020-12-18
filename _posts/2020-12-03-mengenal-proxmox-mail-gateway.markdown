@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'PMG: Mengenal Apa itu Proxmox Mail Gateway'
+image: 'assets/images/proxmox.png'
 featured: true
 date: '2020-12-03 21:07:42'
 categories:

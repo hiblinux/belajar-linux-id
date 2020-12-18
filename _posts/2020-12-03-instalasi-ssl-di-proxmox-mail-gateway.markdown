@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: PMG - Instalasi SSL di Proxmox Mail Gateway
+image: 'assets/images/proxmox.png'
 date: '2020-12-03 22:25:37'
 categories:
 - proxmox-mail-gateway

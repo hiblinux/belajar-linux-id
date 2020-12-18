@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'PMG: Konfigurasi Cluster Proxmox Mail Gateway'
+image: 'assets/images/proxmox.png'
 featured: true
 date: '2020-12-06 02:02:58'
 categories:
