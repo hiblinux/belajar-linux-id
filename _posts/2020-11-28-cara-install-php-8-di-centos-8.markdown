@@ -2,6 +2,7 @@
 author: leon
 layout: post
 title: 'CentOS: Cara Install PHP 8 di CentOS 8'
+image: 'assets/images/centos8.png'
 featured: true
 date: '2020-11-28 02:08:20'
 categories:
