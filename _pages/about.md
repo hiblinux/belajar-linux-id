@@ -30,11 +30,11 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Belikan aku kopi 😁</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Terima kasih atas dukungan Anda selama ini! Bantuan Anda sangat membantu kami dalam mengembangkan situs <a target="_blank" href="https://belajarlinux.id">BelajarLinux ID <i class="fa fa-linux"></i></a>.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://www.buymeacoffee.com/hblinuxid" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://www.academia.edu/40424321/CentOS_7_Linux_Administration_Pada_Cloud_Computing" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
