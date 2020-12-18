@@ -2,8 +2,13 @@
 author: Imron
 layout: post
 title: Install PHP 8 pada Ubuntu Server 20.04 LTS
+image: 'assets/images/logo-centos.jpg'
+description: 'Pada kali ini Belajar Linux ID ingin berbagi tutorial tentang Cara Instalasi PHP 8 pada Ubuntu Server 20.04 LTS.'
 featured: true
 date: '2020-12-13 16:11:05'
+categories:
+  - PHP
+  - ubuntu
 ---
 
 PHP merupakan salah satu bahasa pemrograman server-side yang paling banyak digunakan. Banyak CMS yang populer yang menggunakan PHP dalam bahasa pemrogramannya termasuk WordPress, Magento dan Laravel.

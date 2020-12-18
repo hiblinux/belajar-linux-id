@@ -2,6 +2,7 @@
 author: leon
 layout: post
 title: 'CentOS: Membuat Basic Auth Pada HAProxy'
+image: 'assets/images/logo-centos2.jpg'
 featured: true
 date: '2020-12-13 10:13:52'
 categories:
