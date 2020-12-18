@@ -1,11 +1,11 @@
 ---
 title: Percobaan Post
-description: Ini hanya coba-coba
+description: 'Ini hanya coba-coba'
 lang: id_ID
 layout: post
 date: 2020-12-18 20:16:35 +0700
 author: nurhamim
-image: /assets/asep.png
+image: 'assets/images/base.jpg'
 categories:
     - linux
 ---
