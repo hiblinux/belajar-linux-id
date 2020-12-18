@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Linux: Menggunakan Perintah Du (Disk Usage)'
+image: 'assets/images/linux.png'
 featured: true
 date: '2020-11-17 10:30:59'
 categories:
