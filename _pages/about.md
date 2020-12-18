@@ -34,7 +34,7 @@ comments: true
 
 <p>Terima kasih atas dukungan Anda selama ini! Bantuan Anda sangat membantu kami dalam mengembangkan situs <a target="_blank" href="https://belajarlinux.id">BelajarLinux ID <i class="fab fa-linux"></i></a>.</p>
 
-<a target="_blank" href="https://www.buymeacoffee.com/hblinuxid" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://www.academia.edu/40424321/CentOS_7_Linux_Administration_Pada_Cloud_Computing" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://www.buymeacoffee.com/hblinuxid" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://www.academia.edu/40424321/CentOS_7_Linux_Administration_Pada_Cloud_Computing" class="btn btn-warning">Download eBook CentOS Server</a>
 
 </div>
 </div>
