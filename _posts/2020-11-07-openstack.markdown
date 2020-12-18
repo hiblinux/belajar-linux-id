@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Floating IP via CLI'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-11-07 11:05:37'
 categories:
