@@ -14,7 +14,7 @@ build_env:
       - gem install bundler
       - bundle install
   script:
-    - jekyll build
+      - jekyll build
   artifacts:
     paths:
       - _site
