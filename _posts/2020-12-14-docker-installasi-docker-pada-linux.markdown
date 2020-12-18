@@ -3,7 +3,6 @@ author: leon
 layout: post
 title: 'Docker: Cara Instalasi Docker Pada Linux'
 image: 'assets/images/base.jpg'
-description: 'Pada kali ini Belajar Linux ID ingin berbagi tutorial tentang cara Cara Instalasi Docker Pada Linux (Ubuntu, CentOS, Debian).'
 featured: true
 date: '2020-12-14 15:21:36'
 categories:
