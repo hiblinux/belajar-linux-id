@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Menambahkan SSH Key'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-10-25 19:44:52'
 categories:

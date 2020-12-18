@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Definisi dan  Arsitektur'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-10-24 18:09:19'
 categories:

@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Install Openstack All-in-One with Packstack'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-10-24 18:53:18'
 categories:

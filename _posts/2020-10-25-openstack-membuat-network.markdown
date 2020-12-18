@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Membuat Network'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-10-25 17:53:29'
 categories:

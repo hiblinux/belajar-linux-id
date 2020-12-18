@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Membuat SSH Key via CLI'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-11-07 10:09:57'
 categories:

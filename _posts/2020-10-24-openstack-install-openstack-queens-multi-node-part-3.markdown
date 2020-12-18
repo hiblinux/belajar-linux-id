@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Install Openstack Queens Multi-Node Part 3'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-10-24 21:21:35'
 categories:

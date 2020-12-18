@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Membuat Router'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-10-25 18:40:49'
 categories:

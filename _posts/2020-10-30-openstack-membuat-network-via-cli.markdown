@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Membuat Network via CLI'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-10-30 02:02:26'
 categories:

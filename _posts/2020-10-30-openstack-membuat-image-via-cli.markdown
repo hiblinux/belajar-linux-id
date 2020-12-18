@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Membuat Image via CLI'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-10-30 01:44:45'
 categories:

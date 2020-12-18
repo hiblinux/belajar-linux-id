@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Menambah dan Menggunakan Security Group'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-10-25 20:52:36'
 categories:

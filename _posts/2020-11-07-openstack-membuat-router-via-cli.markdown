@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Membuat Router via CLI'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-11-07 09:36:11'
 categories:

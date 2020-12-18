@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Membuat Instance via CLI'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-11-07 10:39:16'
 categories:

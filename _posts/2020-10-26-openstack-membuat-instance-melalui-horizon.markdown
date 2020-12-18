@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Membuat Instance Melalui Horizon'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-10-26 16:34:41'
 categories:

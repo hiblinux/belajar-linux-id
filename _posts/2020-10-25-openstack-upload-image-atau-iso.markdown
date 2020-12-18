@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Upload Image atau ISO'
+image: 'assets/images/openstack.png'
 featured: true
 date: '2020-10-25 17:06:29'
 categories:
