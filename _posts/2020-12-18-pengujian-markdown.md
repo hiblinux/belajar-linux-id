@@ -4,7 +4,7 @@ lang: id_ID
 layout: post
 date: 2020-12-18 17:26:35 +0700
 author: leon
-image: https://archive.floss.my.id/jadwal.jpg
+image: /assets/asep.png
 categories:
     - linux
 ---
