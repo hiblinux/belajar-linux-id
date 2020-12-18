@@ -3,6 +3,7 @@ author: leon
 layout: post
 title: 'Docker: Cara Instalasi Docker Pada Linux'
 image: 'assets/images/base.jpg'
+description: 'Belajar Linux ID ingin berbagi tutorial tentang cara'
 featured: true
 date: '2020-12-14 15:21:36'
 categories:

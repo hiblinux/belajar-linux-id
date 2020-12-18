@@ -4,6 +4,7 @@ layout: post
 title: Install PHP 8 pada Ubuntu Server 20.04 LTS
 image: 'assets/images/linux.png'
 featured: true
+description: 'Belajar Linux ID ingin berbagi tutorial tentang Cara Instalasi PHP 8 pada Ubuntu Server 20.04 LTS'
 date: '2020-12-13 16:11:05'
 categories:
   - PHP
