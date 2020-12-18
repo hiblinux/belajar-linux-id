@@ -30,7 +30,7 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Belikan aku kopi 😁</h5>
+<h5>Traktir aku kopi 😁</h5>
 
 <p>Terima kasih atas dukungan Anda selama ini! Bantuan Anda sangat membantu kami dalam mengembangkan situs <a target="_blank" href="https://belajarlinux.id">BelajarLinux ID <i class="fa fa-linux"></i></a>.</p>
 
