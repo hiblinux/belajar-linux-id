@@ -153,3 +153,40 @@ B --> D{Rhombus}
 C --> D
 ```
 
+```bash
+for db in $i
+export
+fi
+if
+```
+
+```html
+<html>
+<head>
+<h1> <h1>
+</head>
+</html>
+```
+
+```js
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search'),
+  resultsContainer: document.getElementById('results-container'),
+  searchResultTemplate: `<div class="article">
+  <a class="clearlink" href="{url}">
+    <h1>{title}</h1>
+    <div class="a-content">
+      <div class="a-content-text">
+        <p>{description}</p>
+      </div>
+    </div>
+  </a>
+  <div class="read-more clearfix">
+    <div class="more-left left">
+      <a href="{url}">Read more</a>&nbsp;&nbsp;
+    </div>
+  </div>
+</div>`,
+  json: '/json/search.json'
+})
+```
