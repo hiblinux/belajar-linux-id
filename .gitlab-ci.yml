@@ -3,7 +3,7 @@ stages:
 #  - test
   - deploy
 
-image: blinuxid/jekyll-medium:1.3
+image: blinuxid/jekyll-medium:1.4
 cache:
   paths:
   - vendor/
