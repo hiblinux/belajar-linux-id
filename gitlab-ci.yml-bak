@@ -3,16 +3,16 @@ stages:
 #  - test
   - deploy
 
-image: blinuxid/jekyll-medium:1.1
+image: ruby:2.6
 cache:
   paths:
   - vendor/
 
 build_env:
   stage: build
-  #    before_script:
-  #      - gem install bundler
-  #      - bundle install
+    before_script:
+      - gem install bundler
+      - bundle install
   script:
     - jekyll build
   artifacts:
