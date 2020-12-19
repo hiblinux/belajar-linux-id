@@ -743,7 +743,6 @@ img {
     color: #eaeaea;
 }
 
-/*
 .bottompagination span.navigation i {
     display: inline-block;
 }
@@ -754,49 +753,26 @@ span.navigation {
     font-weight: 700;
     text-align: center;
 }
-*/
 
-/* Tambah Tombol Navigasi Next/Prev CSS [Hamim] */
-.page-navigation {
-    height:20px;
-    margin:18px 0;
+/* Navigation CSS Hamim */
+.PageNavigation {
+    font-size: 16px;
     display: block;
-    text-align: center;
-}
-.page-navigation ul {
-    padding:0;
-    display: inline-block;
-    margin:0;
-    border:1px solid #ddd;
-    border:1px solid rgba(0,0,0,0.15);
-    border-radius:3px;
-    box-shadow:0 1px 2px rgba(0,0,0,0.05);
-    text-align: center;
-
-}
-
-.page-navigation li {
-    display:inline
-}
-.page-navigation a {
-    float:left;
-    padding:0 14px;
-    line-height:34px;
-    border-right:1px solid;
-    border-right-color:#ddd;
-    border-right-color:rgba(0,0,0,.15)
-}
-.page-navigation a:hover {
-    background-color:#eee
-}
-.page-navigation .disabled a,.page-navigation .disabled a:hover {
-    background-color:transparent;
-    color:#968896
-}
-.page-navigation .next a {
-    border:0
-}
-/* End Tombol Navigasi Next/Prev CSS [Hamim] */
+    width: auto;
+    overflow: hidden;
+    }
+ 
+  .PageNavigation a {
+    display: block;
+    width: 50%;
+    float: left;
+    margin: 1em 0;
+    }
+ 
+  .PageNavigation .next {
+    text-align: right;
+    }
+/* End Navigation CSS Hamim */
 
 .pagination {
     display: block;
