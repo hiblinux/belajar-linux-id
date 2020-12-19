@@ -743,6 +743,7 @@ img {
     color: #eaeaea;
 }
 
+/*
 .bottompagination span.navigation i {
     display: inline-block;
 }
@@ -753,6 +754,7 @@ span.navigation {
     font-weight: 700;
     text-align: center;
 }
+*/
 
 /* Tambah Tombol Navigasi Next/Prev CSS [Hamim] */
 .page-navigation {
