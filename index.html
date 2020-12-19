@@ -7,7 +7,7 @@ layout: default
 
 <!-- Featured
 ================================================== -->
-<section class="featured-posts">
+<!-- <section class="featured-posts">
     <div class="section-title">
         <h2><span>Post Favorit</span></h2>
     </div>
@@ -15,7 +15,7 @@ layout: default
 
     {% for post in site.posts limit:4 %}
 
-        {% if post.featured == false %}
+        {% if post.featured == true %}
 
             {% include featuredbox.html %}
 
@@ -27,14 +27,14 @@ layout: default
 </section>
 
 {% endif %}
-
+-->
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
 
     <div class="section-title">
 
-        <h2><span>Semua Post</span></h2>
+        <!--<h2><span>Semua Post</span></h2>-->
 
     </div>
 
