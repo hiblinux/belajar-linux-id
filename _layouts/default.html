@@ -100,10 +100,10 @@ ga('send', 'pageview');
 <!-- Site Title
 ================================================== -->
 <div class="mainheading">
-   <img src="/assets/images/logo-fiks.png" width="100px" style="float:left"> <h1 class="sitetitle">{{ site.name }}</h1>
+	<a href="{{site.baseurl}}"><img src="/assets/images/logo-fiks.png" width="100px" style="float:left"> <h1 class="sitetitle">{{ site.name }}</h1>
     <p class="lead">
         {{ site.description }}
-    </p>
+    </p></a>
 </div>
 
 <!-- Content
@@ -179,7 +179,7 @@ ga('send', 'pageview');
 <!--Tombol Back To Top-->
 <script src="https://unpkg.com/vanilla-back-to-top@7.2.0/dist/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
-  diameter: 60,
+  diameter: 50,
   backgroundColor: 'rgb(255, 82, 82)',
   textColor: '#fff'
 })</script>
