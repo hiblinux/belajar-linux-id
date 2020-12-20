@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: Cara Konfigurasi PostgreSQL 12 Replika Streaming di CentOS 8
+description: 'PostgreSQL mempunyai beberapa solusi replikasi untuk support dan bangun aplikasi yang high-availability, scalable, fault-tolerant application, dan salah satunya Write Ahead Log (WAL) Shipping'
 featured: true
 date: '2020-09-07 20:03:38'
 categories:
@@ -415,15 +416,3 @@ Langkah terakhir reload postgresql
     [root@pg1 ~]#
 
 Selamat mencoba 😁
-
-Please follow and like us:
-
-[![error](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](https://api.follow.it/widgets/icon/VHc3d1lpVGdwRnE5QnV0eERCNUx5RCtvTTVoUkNYS3NNRmd5eVhlQW9tNXRHS3VTbGh6Y0NybkRJRS8zSGpjRDVZb1ZGMlNTSEpJYUpuZzZqNzdnd3VSN3dwM2VlQTF6ejJEaGV5UGRUbnlEcHFNd3luYTV4ZTZtUGowVWI2Q2x8M2kzdnBEeUIrUk5xOFI5TXZ3cHF3bFNQRkRJSGhUNGdrRFd0TlNtdE1OWT0=/OA==/)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbelajarlinux.id%2F%3Fp%3D470%26ghostexport%3Dtrue%26submit%3DDownload+Ghost+File)
-
-[![Tweet](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=Cara+Konfigurasi+PostgreSQL+12+Replika+Streaming+di+CentOS+8+https://belajarlinux.id/?p=470&ghostexport=true&submit=Download Ghost File)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
-
-<!--kg-card-end: html-->

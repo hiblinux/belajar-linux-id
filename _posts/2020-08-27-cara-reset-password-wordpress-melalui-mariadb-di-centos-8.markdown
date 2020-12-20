@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: Cara Reset Password WordPress Melalui MariaDB di CentOS 8
+description: ' Jika Anda mempunyai WordPress yang diinstall menggunakan mariadb server dan Anda lupa akan password login ke WP Admin WordPress Anda, janganlah khawatir karena password WP dapat Anda reset ulang melalui phpMyAdmin ataupun CLI MariaDB'
 featured: true
 date: '2020-08-27 13:37:41'
 categories:
@@ -142,15 +143,3 @@ Pastikan sudah sesuai, jika berhasil maka Anda akan diarahkan ke Dashboard WP Ad
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="551" src="/content/images/wordpress/2020/08/image-101-1024x551.png" alt="" class="wp-image-352" srcset="/content/images/wordpress/2020/08/image-101-1024x551.png 1024w, /content/images/wordpress/2020/08/image-101-300x161.png 300w, /content/images/wordpress/2020/08/image-101-768x413.png 768w, /content/images/wordpress/2020/08/image-101.png 1355w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
 
 Selamat mencoba 😁
-
-Please follow and like us:
-
-[![error](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](https://api.follow.it/widgets/icon/VHc3d1lpVGdwRnE5QnV0eERCNUx5RCtvTTVoUkNYS3NNRmd5eVhlQW9tNXRHS3VTbGh6Y0NybkRJRS8zSGpjRDVZb1ZGMlNTSEpJYUpuZzZqNzdnd3VSN3dwM2VlQTF6ejJEaGV5UGRUbnlEcHFNd3luYTV4ZTZtUGowVWI2Q2x8M2kzdnBEeUIrUk5xOFI5TXZ3cHF3bFNQRkRJSGhUNGdrRFd0TlNtdE1OWT0=/OA==/)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbelajarlinux.id%2F%3Fp%3D349%26ghostexport%3Dtrue%26submit%3DDownload+Ghost+File)
-
-[![Tweet](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=Cara+Reset+Password+WordPress+Melalui+MariaDB+di+CentOS+8+https://belajarlinux.id/?p=349&ghostexport=true&submit=Download Ghost File)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
-
-<!--kg-card-end: html-->

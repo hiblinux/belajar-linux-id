@@ -1,7 +1,8 @@
 ---
 author: nurhamim
 layout: post
-title: Cara Instalasi Drupal Menggunakan Nginx di CentOS 8
+title: Cara Instalasi Drupal Menggunakan Nginx di CentOS 
+description: 'Drupal salah satu dari sekian banyak nya CMS (content management system) yang open source (bebas) digunakan, dikembangkan dan di customisasi sesuai kebutuhan. Drupal di tulis menggunakan PHP dan didistribusikan di bawah GNU General Public License'
 featured: true
 date: '2020-08-25 14:54:53'
 categories:
@@ -192,15 +193,3 @@ Selamat CMS Drupal sudah berhasil terinstall, berikut tampilan default dari Drup
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="578" src="/content/images/wordpress/2020/08/9-1024x578.png" alt="" class="wp-image-267" srcset="/content/images/wordpress/2020/08/9-1024x578.png 1024w, /content/images/wordpress/2020/08/9-300x169.png 300w, /content/images/wordpress/2020/08/9-768x434.png 768w, /content/images/wordpress/2020/08/9.png 1061w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
 
 Selamat mencoba 😁
-
-Please follow and like us:
-
-[![error](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](https://api.follow.it/widgets/icon/VHc3d1lpVGdwRnE5QnV0eERCNUx5RCtvTTVoUkNYS3NNRmd5eVhlQW9tNXRHS3VTbGh6Y0NybkRJRS8zSGpjRDVZb1ZGMlNTSEpJYUpuZzZqNzdnd3VSN3dwM2VlQTF6ejJEaGV5UGRUbnlEcHFNd3luYTV4ZTZtUGowVWI2Q2x8M2kzdnBEeUIrUk5xOFI5TXZ3cHF3bFNQRkRJSGhUNGdrRFd0TlNtdE1OWT0=/OA==/)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbelajarlinux.id%2F%3Fp%3D258%26ghostexport%3Dtrue%26submit%3DDownload+Ghost+File)
-
-[![Tweet](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=Cara+Instalasi+Drupal+Menggunakan+Nginx+di+CentOS+8+https://belajarlinux.id/?p=258&ghostexport=true&submit=Download Ghost File)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
-
-<!--kg-card-end: html-->

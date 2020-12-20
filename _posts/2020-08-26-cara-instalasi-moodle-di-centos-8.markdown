@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: Cara Instalasi Moodle Menggunakan Nginx di CentOS 8
+description: 'Moodle salah satu platform yang biasa digunakan untuk membangun Learning Management System (LMS), moodle cukup power full dan bahkan saat ini sangat banyak institusi pendidikan yang menggunakan moodle sebagai platform belajar mengajar secara daring'
 featured: true
 date: '2020-08-26 12:14:12'
 categories:
@@ -222,15 +223,3 @@ Dan Berikut contoh home page login moodle
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="388" src="/content/images/wordpress/2020/08/16-1024x388.png" alt="" class="wp-image-316" srcset="/content/images/wordpress/2020/08/16-1024x388.png 1024w, /content/images/wordpress/2020/08/16-300x114.png 300w, /content/images/wordpress/2020/08/16-768x291.png 768w, /content/images/wordpress/2020/08/16.png 1357w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
 
 Selamat mencoba 😁
-
-Please follow and like us:
-
-[![error](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](https://api.follow.it/widgets/icon/VHc3d1lpVGdwRnE5QnV0eERCNUx5RCtvTTVoUkNYS3NNRmd5eVhlQW9tNXRHS3VTbGh6Y0NybkRJRS8zSGpjRDVZb1ZGMlNTSEpJYUpuZzZqNzdnd3VSN3dwM2VlQTF6ejJEaGV5UGRUbnlEcHFNd3luYTV4ZTZtUGowVWI2Q2x8M2kzdnBEeUIrUk5xOFI5TXZ3cHF3bFNQRkRJSGhUNGdrRFd0TlNtdE1OWT0=/OA==/)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbelajarlinux.id%2F%3Fp%3D299%26ghostexport%3Dtrue%26submit%3DDownload+Ghost+File)
-
-[![Tweet](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=Cara+Instalasi+Moodle+Menggunakan+Nginx+di+CentOS+8+https://belajarlinux.id/?p=299&ghostexport=true&submit=Download Ghost File)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
-
-<!--kg-card-end: html-->

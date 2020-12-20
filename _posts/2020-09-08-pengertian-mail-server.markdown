@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: Pengertian Mail Server
+description: 'Mail Server sebuah server yang memungkinkan user/pengguna untuk dapat mengirim dan menerima sebuah surat elektronik atau sering dibilang dengan email antara satu dengan yang lain menggunakan media jaringan lokal maupun internet'
 featured: true
 date: '2020-09-08 19:12:13'
 categories:
@@ -41,15 +42,3 @@ _MUA membaca email dari MDA. MUA mengirim email melalui MTA. Bentuk dari MUA sen
 Oke itu saja dulu ya jika ada pertanyaan silakan comment di kolom komentara.   
   
 Selamat belajar wahai kaum rebahan 😁
-
-Please follow and like us:
-
-[![error](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](https://api.follow.it/widgets/icon/VHc3d1lpVGdwRnE5QnV0eERCNUx5RCtvTTVoUkNYS3NNRmd5eVhlQW9tNXRHS3VTbGh6Y0NybkRJRS8zSGpjRDVZb1ZGMlNTSEpJYUpuZzZqNzdnd3VSN3dwM2VlQTF6ejJEaGV5UGRUbnlEcHFNd3luYTV4ZTZtUGowVWI2Q2x8M2kzdnBEeUIrUk5xOFI5TXZ3cHF3bFNQRkRJSGhUNGdrRFd0TlNtdE1OWT0=/OA==/)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbelajarlinux.id%2F%3Fp%3D496%26ghostexport%3Dtrue%26submit%3DDownload+Ghost+File)
-
-[![Tweet](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=Pengertian+Mail+Server+https://belajarlinux.id/?p=496&ghostexport=true&submit=Download Ghost File)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
-
-<!--kg-card-end: html-->

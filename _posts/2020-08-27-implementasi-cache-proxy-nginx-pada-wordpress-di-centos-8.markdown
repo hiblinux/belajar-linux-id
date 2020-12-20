@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: Implementasi Cache Proxy Nginx pada WordPress di CentOS 8
+description: 'Tutorial kali ini kami akan megimplementasikan cache proxy nginx pada WordPress'
 featured: true
 date: '2020-08-27 23:25:19'
 categories:
@@ -226,15 +227,3 @@ Jika sudah silakan di curl jika hasilnya seperti berikut menandakan cache WordPr
 <figure class="wp-block-image size-large"><img loading="lazy" width="816" height="505" src="/content/images/wordpress/2020/08/5-4.png" alt="" class="wp-image-359" srcset="/content/images/wordpress/2020/08/5-4.png 816w, /content/images/wordpress/2020/08/5-4-300x186.png 300w, /content/images/wordpress/2020/08/5-4-768x475.png 768w" sizes="(max-width: 816px) 100vw, 816px"></figure>
 
 Selamat mencoba 😁
-
-Please follow and like us:
-
-[![error](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](https://api.follow.it/widgets/icon/VHc3d1lpVGdwRnE5QnV0eERCNUx5RCtvTTVoUkNYS3NNRmd5eVhlQW9tNXRHS3VTbGh6Y0NybkRJRS8zSGpjRDVZb1ZGMlNTSEpJYUpuZzZqNzdnd3VSN3dwM2VlQTF6ejJEaGV5UGRUbnlEcHFNd3luYTV4ZTZtUGowVWI2Q2x8M2kzdnBEeUIrUk5xOFI5TXZ3cHF3bFNQRkRJSGhUNGdrRFd0TlNtdE1OWT0=/OA==/)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbelajarlinux.id%2F%3Fp%3D354%26ghostexport%3Dtrue%26submit%3DDownload+Ghost+File)
-
-[![Tweet](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=Implementasi+Cache+Proxy+Nginx+pada+WordPress+di+CentOS+8+https://belajarlinux.id/?p=354&ghostexport=true&submit=Download Ghost File)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
-
-<!--kg-card-end: html-->

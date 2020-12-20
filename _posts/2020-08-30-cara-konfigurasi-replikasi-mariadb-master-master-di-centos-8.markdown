@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: Cara Konfigurasi Replikasi MariaDB Master - Master di CentOS 8
+description: 'MariaDB adalah sistem manajemen database relasional yang dikembangkan dari MySQL. MariaDB dikembangkan oleh komunitas pengembang yang sebelumnya berkontribusi untuk database MySQL'
 featured: true
 date: '2020-08-30 04:52:33'
 categories:
@@ -387,15 +388,3 @@ Sebaliknya sekarang kita coba buat database di apps02 pastikan di apps01 ada ata
 <figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="538" src="/content/images/wordpress/2020/08/app02-to-apps01-1024x538.png" alt="" class="wp-image-372" srcset="/content/images/wordpress/2020/08/app02-to-apps01-1024x538.png 1024w, /content/images/wordpress/2020/08/app02-to-apps01-300x158.png 300w, /content/images/wordpress/2020/08/app02-to-apps01-768x404.png 768w, /content/images/wordpress/2020/08/app02-to-apps01-1536x808.png 1536w, /content/images/wordpress/2020/08/app02-to-apps01.png 1917w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
 
 Selamat mencoba 😁
-
-Please follow and like us:
-
-[![error](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](https://api.follow.it/widgets/icon/VHc3d1lpVGdwRnE5QnV0eERCNUx5RCtvTTVoUkNYS3NNRmd5eVhlQW9tNXRHS3VTbGh6Y0NybkRJRS8zSGpjRDVZb1ZGMlNTSEpJYUpuZzZqNzdnd3VSN3dwM2VlQTF6ejJEaGV5UGRUbnlEcHFNd3luYTV4ZTZtUGowVWI2Q2x8M2kzdnBEeUIrUk5xOFI5TXZ3cHF3bFNQRkRJSGhUNGdrRFd0TlNtdE1OWT0=/OA==/)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbelajarlinux.id%2F%3Fp%3D369%26ghostexport%3Dtrue%26submit%3DDownload+Ghost+File)
-
-[![Tweet](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=Cara+Konfigurasi+Replikasi+MariaDB+Master+%26%238211%3B+Master+di+CentOS+8+https://belajarlinux.id/?p=369&ghostexport=true&submit=Download Ghost File)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
-
-<!--kg-card-end: html-->

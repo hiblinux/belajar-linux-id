@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: Enable SMTPS service (SMTP over SSL) di iRedMail
+description: 'Send Mail Transfer Protokol atau sering disebut dengan SMTP secara default untuk SMPT sudah enable di iRedMail namun untuk SMTPS secara default di disable dengan alasan deprecated sesuai informasi dari wikipedia.org'
 featured: true
 date: '2020-09-09 20:51:23'
 categories:
@@ -86,15 +87,3 @@ Test port 465 sudah allow public dengan menggunakan cara telnet ke IP atau host 
 <figure class="wp-block-image size-large"><img loading="lazy" width="719" height="129" src="/content/images/wordpress/2020/09/test.png" alt="" class="wp-image-521" srcset="/content/images/wordpress/2020/09/test.png 719w, /content/images/wordpress/2020/09/test-300x54.png 300w" sizes="(max-width: 719px) 100vw, 719px"></figure>
 
 Selamat mencoba 😁
-
-Please follow and like us:
-
-[![error](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](https://api.follow.it/widgets/icon/VHc3d1lpVGdwRnE5QnV0eERCNUx5RCtvTTVoUkNYS3NNRmd5eVhlQW9tNXRHS3VTbGh6Y0NybkRJRS8zSGpjRDVZb1ZGMlNTSEpJYUpuZzZqNzdnd3VSN3dwM2VlQTF6ejJEaGV5UGRUbnlEcHFNd3luYTV4ZTZtUGowVWI2Q2x8M2kzdnBEeUIrUk5xOFI5TXZ3cHF3bFNQRkRJSGhUNGdrRFd0TlNtdE1OWT0=/OA==/)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbelajarlinux.id%2F%3Fp%3D520%26ghostexport%3Dtrue%26submit%3DDownload+Ghost+File)
-
-[![Tweet](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=Enable+SMTPS+service+%28SMTP+over+SSL%29+di+iRedMail+https://belajarlinux.id/?p=520&ghostexport=true&submit=Download Ghost File)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
-
-<!--kg-card-end: html-->
