@@ -2,7 +2,7 @@
 author: leon
 layout: post
 title: 'Docker: Cara Instalasi Docker Pada Linux'
-image: 'assets/images/cover-art(ubuntu).jpg'
+image: 'assets/images/Cover-art(ubuntu).jpg'
 description: 'Docker adalah salah satu platform yang dibangun berdasarkan teknologi container. Docker merupakan sebuah project open-source yang menyediakan platform terbuka untuk developer maupun sysadmin untuk dapat membangun, mengemas, dan menjalankan aplikasi dimanapun sebagai sebuah wadah (container) yang ringan'
 featured: true
 date: '2020-12-14 15:21:36'

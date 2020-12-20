@@ -5,7 +5,7 @@ layout: post
 date: 2020-12-18 20:16:35 +0700
 author: nurhamim
 featured: true
-image: 'assets/images/base.jpg'
+image: 'assets/images/Cover-art(centos).jpg'
 categories:
     - linux
 ---
