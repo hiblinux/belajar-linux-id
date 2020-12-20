@@ -1,7 +1,7 @@
 ---
 author: Imron
 layout: post
-title: 'Ubuntu: Install SSL Let''s Encrypt untuk Apache di Ubuntu Server 20.04 TLS.'
+title: 'Ubuntu: Install SSL Lets Encrypt untuk Apache di Ubuntu Server 20.04 TLS.'
 description: 'Let's Encrypt merupakan otoritas sertifikat yang dibuat oleh Internet Security Research Group (ISRG)'
 featured: true
 date: '2020-11-22 13:19:06'
