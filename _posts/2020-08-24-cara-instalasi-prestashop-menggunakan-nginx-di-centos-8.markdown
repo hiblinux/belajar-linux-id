@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: Cara Instalasi Prestashop Menggunakan Nginx di CentOS 8
+description: 'Prestashop adalah sebuah CMS yang diperuntukan untuk e-commerce, prestashop sendiri open source (bebas) dalam artian semua orang dapat menggunakan, mengembangkan dan berpartisipasi sehingga CMS ini tetap up to date'
 featured: true
 date: '2020-08-24 22:01:54'
 categories:
@@ -231,15 +232,3 @@ Langkah terakhir sesuaikan permission sesuai informasi diawal dan reload nginx
 Selamat, instalasi prestashop sudah selesai dilakukan.
 
 Selamat mencoba 😁
-
-Please follow and like us:
-
-[![error](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](https://api.follow.it/widgets/icon/VHc3d1lpVGdwRnE5QnV0eERCNUx5RCtvTTVoUkNYS3NNRmd5eVhlQW9tNXRHS3VTbGh6Y0NybkRJRS8zSGpjRDVZb1ZGMlNTSEpJYUpuZzZqNzdnd3VSN3dwM2VlQTF6ejJEaGV5UGRUbnlEcHFNd3luYTV4ZTZtUGowVWI2Q2x8M2kzdnBEeUIrUk5xOFI5TXZ3cHF3bFNQRkRJSGhUNGdrRFd0TlNtdE1OWT0=/OA==/)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbelajarlinux.id%2F%3Fp%3D240%26ghostexport%3Dtrue%26submit%3DDownload+Ghost+File)
-
-[![Tweet](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=Cara+Instalasi+Prestashop+Menggunakan+Nginx+di+CentOS+8+https://belajarlinux.id/?p=240&ghostexport=true&submit=Download Ghost File)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
-
-<!--kg-card-end: html-->

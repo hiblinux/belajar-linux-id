@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: Memahami Cara Kerja Nginx Reverse Proxy
+description: 'Reverse Proxy adalah salah satu jenis dari proxy, biasanya reverse proxy digunakan sebagai perantara antara client dengan web server'
 featured: true
 date: '2020-08-23 20:23:13'
 categories:
@@ -75,16 +76,6 @@ _Referensi:_
 - **_[Setting up an Nginx Reverse Proxy](https://www.keycdn.com/support/nginx-reverse-proxy)_**
 - **_[What Is a Reverse Proxy Server?](https://www.nginx.com/resources/glossary/reverse-proxy-server/)_**
 
-Itulah beberapa rangkuman singkat mengenai _Reverse Proxy Nginx_ semoga bermanfaat bagi kita semua 😊.
+Itulah beberapa rangkuman singkat mengenai _Reverse Proxy Nginx_ semoga bermanfaat bagi kita semua.
 
-Please follow and like us:
-
-[![error](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](https://api.follow.it/widgets/icon/VHc3d1lpVGdwRnE5QnV0eERCNUx5RCtvTTVoUkNYS3NNRmd5eVhlQW9tNXRHS3VTbGh6Y0NybkRJRS8zSGpjRDVZb1ZGMlNTSEpJYUpuZzZqNzdnd3VSN3dwM2VlQTF6ejJEaGV5UGRUbnlEcHFNd3luYTV4ZTZtUGowVWI2Q2x8M2kzdnBEeUIrUk5xOFI5TXZ3cHF3bFNQRkRJSGhUNGdrRFd0TlNtdE1OWT0=/OA==/)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbelajarlinux.id%2F%3Fp%3D183%26ghostexport%3Dtrue%26submit%3DDownload+Ghost+File)
-
-[![Tweet](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=Memahami+Cara+Kerja+Nginx+Reverse+Proxy+https://belajarlinux.id/?p=183&ghostexport=true&submit=Download Ghost File)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
-
-<!--kg-card-end: html-->
+Selamat mencoba 😊.

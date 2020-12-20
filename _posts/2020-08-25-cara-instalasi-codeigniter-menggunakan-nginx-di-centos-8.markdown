@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: Cara Instalasi CodeIgniter Menggunakan Nginx di CentOS 8
+description: 'CodeIgniter merupakan sebuah framework yang dapat Anda gunakan secara bebas karena framework ini open source. CodeIgniter dapat Anda gunakan untuk membangun aplikasi web berbasis PHP'
 featured: true
 date: '2020-08-25 23:16:42'
 categories:
@@ -211,15 +212,3 @@ Akses subdomain atau domain Anda melalui browser
 Selamat Anda telah berhasil melakukan instalasi codeigniter di CentOS 8.
 
 Selamat mencoba 😁
-
-Please follow and like us:
-
-[![error](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](https://api.follow.it/widgets/icon/VHc3d1lpVGdwRnE5QnV0eERCNUx5RCtvTTVoUkNYS3NNRmd5eVhlQW9tNXRHS3VTbGh6Y0NybkRJRS8zSGpjRDVZb1ZGMlNTSEpJYUpuZzZqNzdnd3VSN3dwM2VlQTF6ejJEaGV5UGRUbnlEcHFNd3luYTV4ZTZtUGowVWI2Q2x8M2kzdnBEeUIrUk5xOFI5TXZ3cHF3bFNQRkRJSGhUNGdrRFd0TlNtdE1OWT0=/OA==/)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbelajarlinux.id%2F%3Fp%3D290%26ghostexport%3Dtrue%26submit%3DDownload+Ghost+File)
-
-[![Tweet](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=Cara+Instalasi+CodeIgniter+Menggunakan+Nginx+di+CentOS+8+https://belajarlinux.id/?p=290&ghostexport=true&submit=Download Ghost File)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
-
-<!--kg-card-end: html-->
