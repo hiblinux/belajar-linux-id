@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Linux: Menggunakan Perintah Du (Disk Usage)'
+description: 'Perintah du merupakan kependekan dari disk usage dimana dapat kita gunakna untuk melihat jumlah ruang disk yang digunakan oleh file atau direktori tertentu'
 image: 'assets/images/linux.png'
 featured: true
 date: '2020-11-17 10:30:59'

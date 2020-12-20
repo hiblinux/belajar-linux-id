@@ -2,9 +2,9 @@
 author: leon
 layout: post
 title: 'CentOS: Membuat Basic Auth Pada HAProxy'
+description: 'cara sederhana bagaimana membuat authentikasi login pada halaman Frontend HAProxy menggunakan username dan password, sehingga halaman yang tampil akan menunjukan pop up authentikasi terlebih dahulu sebelum dapat diakses'
 image: 'assets/images/base.jpg'
 featured: true
-description: 'Pada tutorial kali ini kami akan memberikan cara sederhana'
 date: '2020-12-13 10:13:52'
 categories:
 - centos

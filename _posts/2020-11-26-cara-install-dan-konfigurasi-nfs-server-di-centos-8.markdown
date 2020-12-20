@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Linux: Cara Install dan Konfigurasi NFS Server di CentOS 8'
+description: 'NFS sebuah protokol file sistem terdistribusi yang memungkinkan Anda berbagi direktori baik local ataupun remote (jarak jauh) melalui jaringan'
 featured: true
 date: '2020-11-26 13:35:29'
 categories:

@@ -2,12 +2,11 @@
 author: nurhamim
 layout: post
 title: 'Linux: Membuat File Dummy'
+description: 'Biasanya ada waktu dimana kita membutuhkan file berukuran besar buat testing misalnya ingin melakukan speed test IO write and read dimana membutuhkan direktori atau folder atau ingin melakukan uji coba benchmark terhadap disk dalam keadaan disk full dengan file - file besar misalnya dapat di lakukan dengan cara membuat file dummy'
 featured: true
 date: '2020-11-17 10:46:31'
 categories:
 - linux
-- centos
-- ubuntu
 ---
 
 [Belajar Linux ID](/) - Tutorial kali ini kita akan mencoba membuat file dummy. Biasanya ada waktu dimana kita membutuhkan file berukuran besar buat testing misalnya ingin melakukan speed test IO write and read dimana membutuhkan direktori atau folder atau ingin melakukan uji coba benchmark terhadap disk dalam keadaan disk full dengan file - file besar misalnya dapat di lakukan dengan cara membuat file dummy.

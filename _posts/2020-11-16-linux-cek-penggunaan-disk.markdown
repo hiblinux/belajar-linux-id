@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Linux: Cek Penggunaan Disk'
+description: 'Untuk melakukan pengecekan disk dapat menggunakan perintah `df` dengan perintah ini kita dapat melihat secara detail report disk usage yang digunakan'
 featured: true
 date: '2020-11-16 10:37:49'
 categories:

@@ -2,12 +2,11 @@
 author: nurhamim
 layout: post
 title: 'Linux: Melihat Penggunaan RAM'
+description: 'RAM adalah sebuah perangkat keras (hardwar) yang berada di komputer, laptop, server etc, yang berfungsi sebagai penyimpanan data sementara dan berbagai intruksi program'
 featured: true
 date: '2020-11-15 00:41:35'
 categories:
 - linux
-- ubuntu
-- centos
 ---
 
 [Belajar Linux ID](/) - Menurut wikipedia _Random-access Memory_ atau sering disingkat dengan _RAM_ adalah sebuah tipe [penyimpanan komputer](https://id.wikipedia.org/wiki/Penyimpanan_komputer) yang isinya dapat diakses dalam waktu yang tetap tidak memperdulikan letak data tersebut dalam memori.

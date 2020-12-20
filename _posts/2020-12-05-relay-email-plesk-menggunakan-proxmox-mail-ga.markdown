@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'PMG: Relay Email Plesk Panel Menggunakan Proxmox Mail Gateway'
+description: 'Proxmox Mail Gateway merupakan solusi keamanan email sumber terbuka (open source) terkemuka yang dapat membantu Anda melindungi server email Anda dari semua ancaman email'
 image: 'assets/images/proxmox.png'
 featured: true
 date: '2020-12-05 06:09:12'

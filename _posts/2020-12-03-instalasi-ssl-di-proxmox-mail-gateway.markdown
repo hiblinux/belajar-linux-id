@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: PMG - Instalasi SSL di Proxmox Mail Gateway
+description: 'Proxmox Mail Gateway merupakan solusi keamanan email sumber terbuka (open source) terkemuka yang dapat membantu Anda melindungi server email Anda dari semua ancaman email'
 image: 'assets/images/proxmox.png'
 date: '2020-12-03 22:25:37'
 categories:

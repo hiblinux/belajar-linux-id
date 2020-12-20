@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'CentOS: Cara Install PHP 8 di CentOS 7'
+description: 'Dikutip dari laman berita PHP per tanggal 26 November 2020 PHP resmi merilis versi PHP 8 yang dapat Anda coba versi stabil 8.0.0'
 date: '2020-11-28 03:33:12'
 categories:
 - centos

@@ -2,9 +2,9 @@
 author: Imron
 layout: post
 title: Install PHP 8 pada Ubuntu Server 20.04 LTS
+description: 'Dikutip dari laman berita PHP per tanggal 26 November 2020 PHP resmi merilis versi PHP 8 yang dapat Anda coba versi stabil 8.0.0'
 image: 'assets/images/linux.png'
 featured: true
-description: 'Belajar Linux ID ingin berbagi tutorial tentang Cara Instalasi PHP 8 pada Ubuntu Server 20.04 LTS'
 date: '2020-12-13 16:11:05'
 categories:
   - PHP

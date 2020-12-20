@@ -2,12 +2,11 @@
 author: nurhamim
 layout: post
 title: 'Linux: Mengenal vmstat'
+description: 'Sebenarnya sangat banyak aplikasi yang dapat Anda pilih dan gunakan untuk melihat penggunaan ram, namun kali ini kita akan mencoba menggunakan vmstat'
 featured: true
 date: '2020-11-15 01:39:44'
 categories:
 - linux
-- ubuntu
-- centos
 ---
 
 [Belajar Linux ID](/) - Tutorial kali ini kita akan mencoba aplikasi alternatif dari `free` untuk mengetahui penggunaan memori di Linux. Sebenarnya sangat banyak aplikasi yang dapat Anda pilih dan gunakan untuk melihat penggunaan ram, namun kali ini kita akan mencoba menggunakan `vmstat`.
