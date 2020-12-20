@@ -9,13 +9,13 @@ layout: default
 ================================================== -->
 <section class="featured-posts">
     <div class="section-title">
-        <!-- <h2><span>Post Favorit</span></h2>-->
+        <h2><span>Post Favorit</span></h2>
     </div>
     <div class="row">
 
     {% for post in site.posts limit:4 %}
 
-        {% if post.featured == false %}
+        {% if post.featured == true %}
 
             {% include featuredbox.html %}
 
@@ -34,7 +34,7 @@ layout: default
 
     <div class="section-title">
 
-        <!--<h2><span>Semua Post</span></h2>-->
+        <h2><span>Semua Post</span></h2>
 
     </div>
 
