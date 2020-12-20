@@ -2,11 +2,10 @@
 author: nurhamim
 layout: post
 title: 'Linux: Cara Menggunakan TMUX'
+description: 'Tmux adalah terminal multiplexer, sebuah aplikasi atau bisa dibilang sebagai alat tempur sysadmin, sangat cocok digunakan untuk multi tasking di terminal Linux, dengan `tmux` kita dapat membuat, membagi dan memindahkan jendela linux bahkan dapat melakukan sinkronisasi task di dalam terminal Linux'
 featured: true
 date: '2020-11-14 02:57:06'
 categories:
-- ubuntu
-- centos
 - linux
 ---
 

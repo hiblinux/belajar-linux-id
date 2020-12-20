@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: 'Openstack: Install Openstack All-in-One with Packstack'
 image: 'assets/images/openstack.png'
+description: 'Packstack merupakan utilitas yang menggunakan modul puppet untuk menyebarkan berbagai layanan dari Openstack pada server secara otomatis melalui SSH'
 featured: true
 date: '2020-10-24 18:53:18'
 categories:
@@ -189,15 +190,3 @@ Berikut contoh overview dari atau menu yang ada di openstack Horizon
 Jika terdapat pertanyaan silakan tulis di kolom komentar ya \*-\*
 
 Selamat mencoba&nbsp;😁
-
-Please follow and like us:
-
-[![error](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](https://api.follow.it/widgets/icon/VHc3d1lpVGdwRnE5QnV0eERCNUx5RCtvTTVoUkNYS3NNRmd5eVhlQW9tNXRHS3VTbGh6Y0NybkRJRS8zSGpjRDVZb1ZGMlNTSEpJYUpuZzZqNzdnd3VSN3dwM2VlQTF6ejJEaGV5UGRUbnlEcHFNd3luYTV4ZTZtUGowVWI2Q2x8M2kzdnBEeUIrUk5xOFI5TXZ3cHF3bFNQRkRJSGhUNGdrRFd0TlNtdE1OWT0=/OA==/)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbelajarlinux.id%2F%3Fp%3D667%26ghostexport%3Dtrue%26submit%3DDownload+Ghost+File)
-
-[![Tweet](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=Openstack%3A+Install+Openstack+All-in-One+with+Packstack+https://belajarlinux.id/?p=667&ghostexport=true&submit=Download Ghost File)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
-
-<!--kg-card-end: html-->

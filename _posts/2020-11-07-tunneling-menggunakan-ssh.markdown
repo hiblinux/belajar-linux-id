@@ -2,6 +2,7 @@
 author: leon
 layout: post
 title: 'SSH: Tunneling Menggunakan SSH'
+description: 'Tunneling Menggunakan SSH biasanya tunneling SSH ini digunakan apabila kita ingin mencoba melihat hasil aplikasi yang berjalan pada spesifik port yang tidak dapat diakses secara langsung dari device lokal kita'
 date: '2020-11-07 05:43:00'
 categories:
 - ssh

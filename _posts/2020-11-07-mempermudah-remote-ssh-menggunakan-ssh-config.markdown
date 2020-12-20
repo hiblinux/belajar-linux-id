@@ -2,6 +2,7 @@
 author: leon
 layout: post
 title: 'SSH: Mempermudah Remote SSH Menggunakan SSH Config'
+description: 'SSH Config adalah file konfigurasi yang biasanya diletakan pada folder ~/.ssh/config, file config ini biasanya berisi konfigurasi pintasan untuk mendefinisikan variable ataupun flag untuk command ssh client'
 featured: true
 date: '2020-11-07 00:47:44'
 categories:

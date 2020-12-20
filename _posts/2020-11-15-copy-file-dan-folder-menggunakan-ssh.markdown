@@ -2,13 +2,12 @@
 author: leon
 layout: post
 title: 'SSH: Copy File dan Folder Menggunakan SSH'
+description: 'SCP ini merupakan sarana untuk melakukan penyalinan file dari lokal device ke remote device ataupun server yang menggunakan protokol SSH sebagai media komunikasinya'
 featured: true
 date: '2020-11-15 08:43:14'
 categories:
 - ssh
 - linux
-- centos
-- ubuntu
 ---
 
 Pada post ini saya ingin berbagi informasi seputar **Cara Copy File dan Folder Menggunakan SSH.** Untuk tool yang akan digunakan pada post kali ini adalah [SCP](https://en.wikipedia.org/wiki/Secure_copy_protocol) (Secure Copy Protocol) sehingga untuk mengikuti post ini Anda perlu memiliki akses ke terminal ataupun console untuk menjalankannya karena tool ini bersifat CLI.

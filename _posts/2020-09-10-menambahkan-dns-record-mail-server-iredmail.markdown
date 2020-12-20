@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: Menambahkan DNS Record Mail Server iRedMail
+description: 'iRedMail sebuah mail server yang bersifat open source, dengan iRedMail Anda dapat dapat membangun mail server sendiri di VPS atau VM. Namun untuk mempunyai email server kita butuh yang namanya DNS Record untuk mail server'
 featured: true
 date: '2020-09-10 06:59:19'
 categories:
@@ -141,15 +142,3 @@ Sekarang kita akan coba mengirimkan email dari @nurhamim.my.id ke @gmail.com dan
 <figure class="wp-block-image size-large"><img loading="lazy" width="1007" height="508" src="/content/images/wordpress/2020/09/yahoo-diterima.png" alt="" class="wp-image-543" srcset="/content/images/wordpress/2020/09/yahoo-diterima.png 1007w, /content/images/wordpress/2020/09/yahoo-diterima-300x151.png 300w, /content/images/wordpress/2020/09/yahoo-diterima-768x387.png 768w" sizes="(max-width: 1007px) 100vw, 1007px"></figure>
 
 Selamat mencoba 😁
-
-Please follow and like us:
-
-[![error](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](https://api.follow.it/widgets/icon/VHc3d1lpVGdwRnE5QnV0eERCNUx5RCtvTTVoUkNYS3NNRmd5eVhlQW9tNXRHS3VTbGh6Y0NybkRJRS8zSGpjRDVZb1ZGMlNTSEpJYUpuZzZqNzdnd3VSN3dwM2VlQTF6ejJEaGV5UGRUbnlEcHFNd3luYTV4ZTZtUGowVWI2Q2x8M2kzdnBEeUIrUk5xOFI5TXZ3cHF3bFNQRkRJSGhUNGdrRFd0TlNtdE1OWT0=/OA==/)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbelajarlinux.id%2F%3Fp%3D526%26ghostexport%3Dtrue%26submit%3DDownload+Ghost+File)
-
-[![Tweet](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=Menambahkan+DNS+Record+Mail+Server+iRedMail+https://belajarlinux.id/?p=526&ghostexport=true&submit=Download Ghost File)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
-
-<!--kg-card-end: html-->

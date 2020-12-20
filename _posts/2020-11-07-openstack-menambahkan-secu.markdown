@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Membuat SSH Key via CLI'
+description: 'Openstack adalah sebuah platform cloud yang terdiri dari software open source untuk menjalankan Cloud IaaS (Infrastructure as a Service), baik untuk private ataupun public Cloud'
 image: 'assets/images/openstack.png'
 featured: true
 date: '2020-11-07 10:09:57'

@@ -2,6 +2,7 @@
 author: nurhamim
 layout: post
 title: Belajar RAID
+description: 'RAID adalah teknologi yang digunakan untuk meningkatkan kinerja dan / keandalan _(reability) dari sebuah penyimpanan data (storage). RAID singkatan dari Redundant Array of Independent Drives atau Redundant Array of Inexpensive Disk'
 featured: true
 date: '2020-09-11 23:51:59'
 categories:
@@ -164,15 +165,3 @@ Semua tingkatan atau level RAID kecuali RAID 0 menawarkan perlindungan dari kega
 - Alasan terpenting untuk melakukan backuup beberapa generasi data adalah kesalahan dari sisi pengguna (user). Jika seseorang secara tidak sengaja menghapus beberapa data penting dan ini tidak diketahui selama beberapa jam, hari, atau minggu, kumpulan backup yang baik memastikan Anda masih dapat mengambil file tersebut.
 
 Itulah beberapa hal terkait RAID, jika terdapat pertanyaan silakan commend di kolom komentar ya 😁
-
-Please follow and like us:
-
-[![error](/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png)](https://api.follow.it/widgets/icon/VHc3d1lpVGdwRnE5QnV0eERCNUx5RCtvTTVoUkNYS3NNRmd5eVhlQW9tNXRHS3VTbGh6Y0NybkRJRS8zSGpjRDVZb1ZGMlNTSEpJYUpuZzZqNzdnd3VSN3dwM2VlQTF6ejJEaGV5UGRUbnlEcHFNd3luYTV4ZTZtUGowVWI2Q2x8M2kzdnBEeUIrUk5xOFI5TXZ3cHF3bFNQRkRJSGhUNGdrRFd0TlNtdE1OWT0=/OA==/)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png "Facebook Share")](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbelajarlinux.id%2F%3Fp%3D589%26ghostexport%3Dtrue%26submit%3DDownload+Ghost+File)
-
-[![Tweet](/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg "Tweet")](https://twitter.com/intent/tweet?text=Belajar+RAID+https://belajarlinux.id/?p=589&ghostexport=true&submit=Download Ghost File)
-
-[![fb-share-icon](/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg "Pin Share")](#)
-
-<!--kg-card-end: html-->

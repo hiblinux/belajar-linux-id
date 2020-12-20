@@ -2,12 +2,11 @@
 author: nurhamim
 layout: post
 title: 'Linux: Cara Menggunakan Curl'
+description: 'Curl adalah command-line atau utility yang tersedia di Linux. Curl sendiri singkatan dari Client URL'
 featured: true
 date: '2020-11-14 10:59:51'
 categories:
 - linux
-- centos
-- ubuntu
 ---
 
 [Belajar Linux ID](/) - `Curl` adalah command-line atau utility yang tersedia di Linux. `Curl` sendiri singkatan dari `Client URL`. Biasanya `curl` digunakna untuk test koneksi ke `URL` serta dapat digunakan sebagai tool transfer data. Selain protokol `HTTP`, `curl` juga dapat digunakan pada protokol `FTP, IMAP, Telnet, SMTP`.

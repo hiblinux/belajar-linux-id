@@ -2,11 +2,10 @@
 author: nurhamim
 layout: post
 title: 'Linux: Cara Menggunakan Screen'
+description: 'Screen salah service atau utility yang dapat kita gunakan untuk melanjutkan sesi jika koneksi kita ke server putus'
 featured: true
 date: '2020-11-11 16:29:28'
 categories:
-- ubuntu
-- centos
 - linux
 ---
 
