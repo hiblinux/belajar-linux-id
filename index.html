@@ -13,11 +13,11 @@ layout: default
     </div>
     <div class="row">
 
-    {% for post in site.posts limit:4 %}
+    {% for post in site.posts limit:2 %}
 
         {% if post.featured == true %}
 
-            {% include featuredbox.html %}
+	     {% include featuredbox.html %} 
 
         {% endif %}
 

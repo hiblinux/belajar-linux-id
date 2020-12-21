@@ -32,7 +32,13 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Traktir aku kopi 😁</h5>
 
+<<<<<<< HEAD
 <p>Terima kasih atas dukungan Anda selama ini! Bantuan Anda sangat membantu kami dalam mengembangkan situs <a target="_blank" href="https://belajarlinux.id">BelajarLinux ID <i class="fab fa-linux"></i></a>.</p> <a target="_blank" href="https://www.buymeacoffee.com/hblinuxid" class="btn btn-danger">Buy me a coffee</a><a target="_blank" href="https://www.academia.edu/40424321/CentOS_7_Linux_Administration_Pada_Cloud_Computing" class="btn btn-warning">Unduh eBook CentOS 7 Server</a>
+=======
+<p>Terima kasih atas dukungan Anda selama ini! Bantuan Anda sangat membantu kami dalam mengembangkan situs <a target="_blank" href="https://belajarlinux.id">BelajarLinux ID <i class="fab fa-linux"></i></a>.</p>
+
+<a target="_blank" href="https://www.buymeacoffee.com/hblinuxid" class="btn btn-danger">Trakir aku kopi</a> <a target="_blank" href="https://www.academia.edu/40424321/CentOS_7_Linux_Administration_Pada_Cloud_Computing" class="btn btn-warning">Unduh eBook CentOS 7 Server</a>
+>>>>>>> 08fe74073071349622426725ca38c92b41a16525
 
 </div>
 </div>

@@ -4,7 +4,8 @@ lang: id_ID
 layout: post
 date: 2020-12-18 20:16:35 +0700
 author: nurhamim
-image: 'assets/images/base.jpg'
+featured: true
+image: 'assets/images/test1.png'
 categories:
     - linux
 ---
