@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Membuat Authentikasi dan Custom Port HAProxy di CentOS 8
 description: 'Membuat authentikasi login ke HAProxy menggunakan username dan password selain itu untuk login ke HAProxy nantinya kita akan mencoba custom menggunakan port tujuan utama nya supaya lebih secure dan hanya Anda yang mengetahui URL login ke sisi HAProxy Anda'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c6.png'
 featured: true
 date: '2020-09-02 23:00:06'
 categories:

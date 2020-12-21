@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Enable SMTPS service (SMTP over SSL) di iRedMail
 description: 'Send Mail Transfer Protokol atau sering disebut dengan SMTP secara default untuk SMPT sudah enable di iRedMail namun untuk SMTPS secara default di disable dengan alasan deprecated sesuai informasi dari wikipedia.org'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c16.png'
 featured: true
 date: '2020-09-09 20:51:23'
 categories:

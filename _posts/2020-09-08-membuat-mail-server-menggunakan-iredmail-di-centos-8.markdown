@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Membuat Mail Server Menggunakan iRedMail di CentOS 8
 description: 'iRedMail salah satu solusi yang tepat bagi Anda yang ingin membangun sebuah mail server dengan instan, mudah, dan powerfull tentunya. iRedmail merupakan aplikasi mail server (Collaboration Suite) yang bersifat open source (free/bebas) namun ada juga yang versi berbayar'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c14.png'
 featured: true
 date: '2020-09-08 19:51:14'
 categories:

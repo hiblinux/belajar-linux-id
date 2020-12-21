@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Install pgAdmin4 di CentOS 8
 description: 'pgAdmin adalah sebuah proyek open source yang dapat digunakan secara gtratis yang dirilis dibawah lisensi PostgreSQL/Artistic licence'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c10.png'
 featured: true
 date: '2020-09-06 04:12:56'
 categories:

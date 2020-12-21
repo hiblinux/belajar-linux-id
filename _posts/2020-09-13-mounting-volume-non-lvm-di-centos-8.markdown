@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Mounting Volume non-LVM di CentOS 8
 description: 'cara melakukan mounting sebuah volume atau bisa dikatakan sebagai disk atau drive tambahan pada instance atau VM atau VPS'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c21.png'
 featured: true
 date: '2020-09-13 16:28:34'
 categories:

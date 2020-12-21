@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Membuat Koneksi PHP ke MariaDB MaxScale
 description: 'PHP singkatan dari Hypertext Preprocessor. PHP sebuah bahasa pemrograman server-side biasanya digunakan bersama dengan CSS dan HTML'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c4.png'
 featured: true
 date: '2020-09-01 21:24:52'
 categories:

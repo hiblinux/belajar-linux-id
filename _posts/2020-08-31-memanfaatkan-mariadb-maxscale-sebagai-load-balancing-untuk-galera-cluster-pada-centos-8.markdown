@@ -4,6 +4,7 @@ layout: post
 title: Memanfaatkan MariaDB MaxScale Sebagai Load Balancing Untuk Galera Cluster pada
   CentOS 8
 description: 'MariaDB MaxScale merupakan sebuah proxy yang duduk diantara database server dan client lalu meneruskan request client ke database server'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c3.png'
 featured: true
 date: '2020-08-31 23:43:20'
 categories:

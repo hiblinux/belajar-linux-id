@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: 'Cloud Computing: Pengenalan'
 description: 'Cloud Computing yang biasa dibilang dengan komputasi awan merupakan sebuah layanan komputer yang bisa kita gunakan dan kita akses dengan memanfaatkan media internet'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c23.png'
 featured: true
 date: '2020-09-28 01:08:55'
 categories:

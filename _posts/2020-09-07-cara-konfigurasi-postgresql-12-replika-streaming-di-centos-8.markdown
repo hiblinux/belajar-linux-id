@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Konfigurasi PostgreSQL 12 Replika Streaming di CentOS 8
 description: 'PostgreSQL mempunyai beberapa solusi replikasi untuk support dan bangun aplikasi yang high-availability, scalable, fault-tolerant application, dan salah satunya Write Ahead Log (WAL) Shipping'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c11.png'
 featured: true
 date: '2020-09-07 20:03:38'
 categories:

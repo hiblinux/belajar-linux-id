@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi dan Konfigurasi MariaDB Galera Cluster di CentOS 8
 description: 'MariaDB Galera Cluster adalah salah satu DBMS (Database Management system) yang open source artinya dapat digunakan secara bebas dan tentunya sangat populer serta mempunyai mekanisme replikasi'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c2.png'
 featured: true
 date: '2020-08-31 20:38:13'
 categories:

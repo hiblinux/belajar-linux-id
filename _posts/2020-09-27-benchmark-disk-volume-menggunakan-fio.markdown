@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Benchmark Disk/Volume Menggunakan FIO
 description: 'cara bagaimana untuk mengetahui Input/output IOPS pada disk menggunakan aplikasi FIO'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c22.png'
 featured: true
 date: '2020-09-27 22:03:50'
 categories:

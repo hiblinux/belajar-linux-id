@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Pengertian Mail Server
 description: 'Mail Server sebuah server yang memungkinkan user/pengguna untuk dapat mengirim dan menerima sebuah surat elektronik atau sering dibilang dengan email antara satu dengan yang lain menggunakan media jaringan lokal maupun internet'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c13.png'
 featured: true
 date: '2020-09-08 19:12:13'
 categories:

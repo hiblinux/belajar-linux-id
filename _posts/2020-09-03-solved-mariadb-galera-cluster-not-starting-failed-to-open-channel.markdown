@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: "[SOLVED] MariaDB Galera Cluster not starting (failed to open channel)"
 description: '[SOLVED] MariaDB Galera Cluster not starting (failed to open channel)'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c7.png'
 featured: true
 date: '2020-09-03 22:29:54'
 categories:

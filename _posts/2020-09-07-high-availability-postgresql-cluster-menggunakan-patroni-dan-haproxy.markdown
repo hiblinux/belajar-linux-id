@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: High Availability PostgreSQL Cluster Menggunakan Patroni dan HAProxy
 description: 'Membuat cluster postgresql tujuannya untuk high availability dan menunjang kebutuhan aplikasi dengan koneksi database yang tinggi tentunya'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c12.png'
 featured: true
 date: '2020-09-07 22:03:38'
 categories:
