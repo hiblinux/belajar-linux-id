@@ -3,6 +3,7 @@ author: Imron
 layout: post
 title: Redirect Akses HTTP ke HTTPS pada Web Server Apache di Ubuntu 20.04 LTS.
 description: 'Jika Anda memiliki kebutuhan akses website menggunakan protokol HTTPS, maka Anda dapat melakukan instalasi sertifikat SSL terlebih dahulu pada web server Anda. Untuk menginstall sertifikat SSL pada web server Apache menggunakan sistem operasi Ubuntu 20.04'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/5.png'
 featured: true
 date: '2020-11-28 08:28:41'
 categories:

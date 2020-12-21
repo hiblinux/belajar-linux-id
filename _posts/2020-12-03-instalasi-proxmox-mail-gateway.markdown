@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: 'PMG: Instalasi Proxmox Mail Gateway'
 description: 'Proxmox Mail Gateway merupakan solusi keamanan email sumber terbuka (open source) terkemuka yang dapat membantu Anda melindungi server email Anda dari semua ancaman email'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/3.png'
 date: '2020-12-03 21:43:10'
 categories:
 - proxmox-mail-gateway
