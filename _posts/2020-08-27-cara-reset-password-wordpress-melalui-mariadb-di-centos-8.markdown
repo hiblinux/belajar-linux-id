@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Reset Password WordPress Melalui MariaDB di CentOS 8
 description: ' Jika Anda mempunyai WordPress yang diinstall menggunakan mariadb server dan Anda lupa akan password login ke WP Admin WordPress Anda, janganlah khawatir karena password WP dapat Anda reset ulang melalui phpMyAdmin ataupun CLI MariaDB'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b16.png'
 featured: true
 date: '2020-08-27 13:37:41'
 categories:

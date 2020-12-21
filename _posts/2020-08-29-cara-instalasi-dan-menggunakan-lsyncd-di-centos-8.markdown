@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi dan Menggunakan Lsyncd di CentOS 8
 description: 'Lsyncd singkatan dari “Live Syncing Daemon”, sebuah service yang digunakan untuk sinkronisasi atau mereplikasi file dan direktori secara lokal dan remote sesuai waktu tertentu menggunakan rsync dan ssh di backend untuk authentication'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b19.png'
 featured: true
 date: '2020-08-29 20:16:56'
 categories:

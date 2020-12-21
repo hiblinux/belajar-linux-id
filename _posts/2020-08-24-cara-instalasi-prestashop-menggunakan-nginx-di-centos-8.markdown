@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi Prestashop Menggunakan Nginx di CentOS 8
 description: 'Prestashop adalah sebuah CMS yang diperuntukan untuk e-commerce, prestashop sendiri open source (bebas) dalam artian semua orang dapat menggunakan, mengembangkan dan berpartisipasi sehingga CMS ini tetap up to date'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b6.png'
 featured: true
 date: '2020-08-24 22:01:54'
 categories:

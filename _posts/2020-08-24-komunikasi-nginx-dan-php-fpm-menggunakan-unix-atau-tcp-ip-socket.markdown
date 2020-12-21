@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Komunikasi Nginx dan PHP-FPM Menggunakan Unix atau TCP/IP Socket
 description: 'Tutorial kali ini akan dijelaskan bagaimana cara menghubungkan Nginx dan PHP-FPM menggunakan Unix atau TCP/IP Socket'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b3.png'
 featured: true
 date: '2020-08-24 14:12:15'
 categories:

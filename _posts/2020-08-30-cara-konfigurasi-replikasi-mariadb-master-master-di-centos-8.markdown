@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Konfigurasi Replikasi MariaDB Master - Master di CentOS 8
 description: 'MariaDB adalah sistem manajemen database relasional yang dikembangkan dari MySQL. MariaDB dikembangkan oleh komunitas pengembang yang sebelumnya berkontribusi untuk database MySQL'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b20.png'
 featured: true
 date: '2020-08-30 04:52:33'
 categories:

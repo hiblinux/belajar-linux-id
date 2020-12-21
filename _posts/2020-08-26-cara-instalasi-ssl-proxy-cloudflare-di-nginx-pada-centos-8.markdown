@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi SSL + Proxy CloudFlare di Nginx pada CentOS 8
 description: 'Menurut Wikipedia Cloudflare, Inc adalah perusahaan infrastruktur web dan keamanan situs web yang menyediakan layanan CDN (Content Delivery Network), DDoS mitigation, Internet security, dan DNS manajemen domain'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b14.png'
 featured: true
 date: '2020-08-26 23:15:38'
 categories:
