@@ -7,7 +7,7 @@ favicon: 'assets/images/logo2.png'
 baseurl: ""
 url: "http://dev.belajarlinux.id"
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: 'blinuxid'
 mailchimp-list: 'https://belajarlinux.us7.list-manage.com/subscribe?u=61d306c597c61df486f3deb61&id=b13aca407c'
 include: ["_pages"]
 permalink: /:title/
