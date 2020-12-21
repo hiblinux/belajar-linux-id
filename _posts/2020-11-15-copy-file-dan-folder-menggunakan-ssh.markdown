@@ -3,6 +3,7 @@ author: leon
 layout: post
 title: 'SSH: Copy File dan Folder Menggunakan SSH'
 description: 'SCP ini merupakan sarana untuk melakukan penyalinan file dari lokal device ke remote device ataupun server yang menggunakan protokol SSH sebagai media komunikasinya'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/1.png'
 featured: true
 date: '2020-11-15 08:43:14'
 categories:
