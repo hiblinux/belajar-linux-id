@@ -4,7 +4,7 @@ layout: post
 title: 'CentOS: Cara Mengatur Timezone Pada CentOS 8'
 description: 'Mengatur timezone atau zona waktu sangat penting pada server, terlebih lagi apabila server yang digunakan memiliki cluster karena apabila zona waktu yang digunakan tidak sinkron dengan server lainnya akan menyebabkan masalah pada server kedepannya'
 featured: true
-image: 'http://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/Cara-Mengatur-Timezone-Pada-CentOS%208.png'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/Cara-Mengatur-Timezone-Pada-CentOS%208.png'
 date: '2020-11-23 10:32:12'
 categories:
 - centos
