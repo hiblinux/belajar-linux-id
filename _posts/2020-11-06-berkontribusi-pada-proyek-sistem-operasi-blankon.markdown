@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Berkontribusi Pada Proyek Sistem Operasi BlankOn
 description: 'BlankOn merupakan proyek open source yang bertujuan untuk mengembangkan salah satu distribusi GNU/Linux yang berisikan perangkat lunak (software) yang dapat digunakan untuk keperluan desktop, laptop, dan workstation'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/d14.png'
 featured: true
 date: '2020-11-06 10:22:34'
 categories:

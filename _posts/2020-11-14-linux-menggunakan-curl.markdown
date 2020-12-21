@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: 'Linux: Cara Menggunakan Curl'
 description: 'Curl adalah command-line atau utility yang tersedia di Linux. Curl sendiri singkatan dari Client URL'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/d23.png'
 featured: true
 date: '2020-11-14 10:59:51'
 categories:

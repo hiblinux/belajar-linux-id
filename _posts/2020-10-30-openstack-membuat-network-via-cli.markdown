@@ -3,7 +3,7 @@ author: nurhamim
 layout: post
 title: 'Openstack: Membuat Network via CLI'
 description: 'Openstack adalah sebuah platform cloud yang terdiri dari software open source untuk menjalankan Cloud IaaS (Infrastructure as a Service), baik untuk private ataupun public Cloud'
-image: 'assets/images/openstack.png'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/d13.png'
 featured: true
 date: '2020-10-30 02:02:26'
 categories:

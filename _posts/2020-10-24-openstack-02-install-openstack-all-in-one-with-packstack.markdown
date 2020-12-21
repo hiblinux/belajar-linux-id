@@ -2,8 +2,8 @@
 author: nurhamim
 layout: post
 title: 'Openstack: Install Openstack All-in-One with Packstack'
-image: 'assets/images/openstack.png'
 description: 'Packstack merupakan utilitas yang menggunakan modul puppet untuk menyebarkan berbagai layanan dari Openstack pada server secara otomatis melalui SSH'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/d2.png'
 featured: true
 date: '2020-10-24 18:53:18'
 categories:

@@ -2,7 +2,7 @@
 author: nurhamim
 layout: post
 title: Belajar RAID
-description: 'RAID adalah teknologi yang digunakan untuk meningkatkan kinerja dan / keandalan _(reability) dari sebuah penyimpanan data (storage). RAID singkatan dari Redundant Array of Independent Drives atau Redundant Array of Inexpensive Disk'
+description: 'RAID adalah teknologi yang digunakan untuk meningkatkan kinerja dan / keandalan _(reability) dari sebuah penyimpanan data (storage)'
 image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c19.png'
 featured: true
 date: '2020-09-11 23:51:59'

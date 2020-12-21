@@ -4,6 +4,7 @@ layout: post
 title: 'Linux: Cek Penggunaan Disk'
 description: 'Untuk melakukan pengecekan disk dapat menggunakan perintah `df` dengan perintah ini kita dapat melihat secara detail report disk usage yang digunakan'
 featured: true
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/d29.png'
 date: '2020-11-16 10:37:49'
 categories:
 - linux
