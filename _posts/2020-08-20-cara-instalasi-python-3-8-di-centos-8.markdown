@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi Python 3.8 di CentOS 8
 description: 'Python adalah salah satu bahasa pemrograman yang paling banyak digunakan di dunia'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a4.png'
 featured: true
 date: '2020-08-20 21:39:57'
 categories:

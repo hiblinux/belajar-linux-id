@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Struktur Konfigurasi dan Perintah Dasar Nginx di CentOS 8
 description: 'Memahami struktur konfigurasi sebuah service sangat dibutuhkan dengan kita paham struktur nya, maka akan mempermudah kita dalam penggunaannya'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a9.png'
 featured: true
 date: '2020-08-21 14:18:41'
 categories:

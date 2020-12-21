@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Memahami Cara Kerja Nginx Reverse Proxy
 description: 'Reverse Proxy adalah salah satu jenis dari proxy, biasanya reverse proxy digunakan sebagai perantara antara client dengan web server'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a20.png'
 featured: true
 date: '2020-08-23 20:23:13'
 categories:

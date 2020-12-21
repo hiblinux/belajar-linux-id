@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Akses VM (Virtual Machine) Menggunakan PuTTY
 description: 'PuTTY adalah aplikasi yang dapat Anda gunakan untuk akses sebuah VM (Virtual Machine)'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a1.png'
 featured: true
 date: '2020-08-20 18:38:36'
 categories:

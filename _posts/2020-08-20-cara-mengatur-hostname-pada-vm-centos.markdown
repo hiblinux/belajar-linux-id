@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Mengatur Hostname Pada VM CentOS
 description: 'Hostname merupakan nama dari VM, untuk mengatur hostname di CentOS Anda hanya perlu menjalakan satu bari perintah saja'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a2.png'
 featured: true
 date: '2020-08-20 18:46:48'
 categories:

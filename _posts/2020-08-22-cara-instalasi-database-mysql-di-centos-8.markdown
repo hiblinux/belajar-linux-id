@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi Database MySQL di CentOS 8
 description: 'MySQL adalah Sebuah program database server yang mampu menerima dan mengirimkandatanya sangat cepat, multi user serta menggunakan peintah dasar SQL (Structured Query Language)'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a15.png'
 featured: true
 date: '2020-08-22 11:34:08'
 categories:

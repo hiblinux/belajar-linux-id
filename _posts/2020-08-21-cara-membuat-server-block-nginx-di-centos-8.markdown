@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Membuat Server Block Nginx di CentOS 8
 description: 'Nginx saat ini menjadi salah satu pemilihan yang tepat bagi Anda yang ingin mencoba dan menggunakan web server dengan performa yang bagus, cepat dan handal tentunya'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a7.png'
 featured: true
 date: '2020-08-21 08:39:44'
 categories:

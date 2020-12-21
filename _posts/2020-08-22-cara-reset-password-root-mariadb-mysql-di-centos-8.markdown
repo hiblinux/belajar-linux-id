@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Reset Password Root MariaDB/MySQL di CentOS 8
 description: 'Untuk melakukan reset passowrd root MariaDB/MySQL di CentOS 8 sangatlah mudah'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a16.png'
 featured: true
 date: '2020-08-22 14:04:42'
 categories:
