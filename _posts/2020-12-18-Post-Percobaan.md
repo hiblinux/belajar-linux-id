@@ -5,7 +5,7 @@ layout: post
 date: 2020-12-18 20:16:35 +0700
 author: nurhamim
 featured: true
-image: 'assets/images/test1.png'
+image: 'assets/images/cara-install-dan-konfigurasi-nfs-server-di-centos-8.png'
 categories:
     - linux
 ---
