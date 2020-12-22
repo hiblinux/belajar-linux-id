@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: 'Linux: Cara Resize Disk non LVM'
 description: 'melakukan resize disk non lvm ada baiknya Anda melakukan backup/snapshot terhadap VM atau instance tujuan jika terdapat kesalahan pada saat resize maka Anda dapat revert atau restore kembali menggunakan backup atau snaphost tersebut'
+image: 'http://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/cara-resize-disk-non-lvm.png'
 featured: true
 date: '2020-11-24 16:33:23'
 categories:
