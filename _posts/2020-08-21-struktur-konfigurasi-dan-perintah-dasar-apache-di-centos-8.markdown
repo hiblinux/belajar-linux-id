@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Struktur Konfigurasi dan Perintah Dasar Apache di CentOS 8
 description: 'Apache sebagai web server juga mempunya struktur konfigurasi dan perintah – perintah nya tersendiri'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a11.png'
 featured: true
 date: '2020-08-21 15:02:19'
 categories:

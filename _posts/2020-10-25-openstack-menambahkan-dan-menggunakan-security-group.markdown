@@ -3,7 +3,7 @@ author: nurhamim
 layout: post
 title: 'Openstack: Menambah dan Menggunakan Security Group'
 description: 'Openstack adalah sebuah platform cloud yang terdiri dari software open source untuk menjalankan Cloud IaaS (Infrastructure as a Service), baik untuk private ataupun public Cloud'
-image: 'assets/images/openstack.png'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/d10.png'
 featured: true
 date: '2020-10-25 20:52:36'
 categories:

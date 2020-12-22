@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Menggunakan Load Balancer Nginx di CentOS 8
 description: 'Load Balancer salah satu cara atau mekanisme untuk membagi atau mendistribusikan trafik ke beberapa server dan ini salah satu dari solusi high availability'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b18.png'
 featured: true
 date: '2020-08-28 23:37:55'
 categories:

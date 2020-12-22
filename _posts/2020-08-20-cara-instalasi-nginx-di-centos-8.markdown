@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi Nginx Di CentOS 8
 description: 'Ngix adalah salah satu web server yang powerfull dan berbasis open source (bebas dan Free), dapat Anda gunakan untuk reverse proxy untuk mendukung web server apache serta dapat digunakan sebagai server proxy IMAP/POP3'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a6.png'
 featured: true
 date: '2020-08-20 22:54:56'
 categories:

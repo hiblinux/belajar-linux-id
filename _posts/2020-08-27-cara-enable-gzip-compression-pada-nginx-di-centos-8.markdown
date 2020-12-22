@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Enable Gzip Compression pada Nginx di CentOS 8
 description: 'Gzip compression salah satu cara yang dapat kita gunakan untuk mengoptimalisasi website dynamic ataupun static'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b15.png'
 featured: true
 date: '2020-08-27 13:17:49'
 categories:

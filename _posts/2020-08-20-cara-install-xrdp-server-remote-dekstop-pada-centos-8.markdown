@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi XRDP Server (Remote Dekstop) pada CentOS 8
 description: 'Xrdp adalah implementasi open-source dari Microsoft Remote Desktop Protocol (RDP) yang memungkinkan Anda mengontrol sistem jarak jauh secara grafis'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a3.png'
 featured: true
 date: '2020-08-20 19:47:12'
 categories:

@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi phpMyAdmin Menggunakan Nginx di CentOS 8
 description: 'phpMyAdmin salah satu aplikasi open source (bebas) yang dapat Anda gunakan untuk mengelola database server MariaDB atau MySQL melalui web base. phpMyAdmin ditulis menggunakan PHP'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a17.png'
 featured: true
 date: '2020-08-22 19:22:36'
 categories:

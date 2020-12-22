@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi Drupal Menggunakan Nginx di CentOS 
 description: 'Drupal salah satu dari sekian banyak nya CMS (content management system) yang open source (bebas) digunakan, dikembangkan dan di customisasi sesuai kebutuhan. Drupal di tulis menggunakan PHP dan didistribusikan di bawah GNU General Public License'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b7.png'
 featured: true
 date: '2020-08-25 14:54:53'
 categories:

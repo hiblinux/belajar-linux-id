@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Membuat Virtual Host Apache di CentOS 8
 description: 'Apache salah satu web server yang banyak digunakan karena kecepatan dan yang lainnya. Layaknya di nginx jika kita ingin menjalankan lebih dari satu domain atau sub domain di apache Anda dapat menggunakan virtual host atau sering disebut vhost'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a12.png'
 featured: true
 date: '2020-08-21 19:06:13'
 categories:

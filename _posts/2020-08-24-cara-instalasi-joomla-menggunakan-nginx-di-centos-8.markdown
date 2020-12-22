@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi Joomla Menggunakan Nginx di CentOS 8
 description: 'Joomla  merupakan sebuah CMS (content management system) yang open source (bebas) digunakan untuk kebutuhan website baik untuk pribadi, company profile dan masih banyak lagi lainnya karena joomla sudah mempunyai ribuan extensi dan tema yang dapat Anda gunakan secara free'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b5.png'
 featured: true
 date: '2020-08-24 19:33:31'
 categories:

@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: WordPress High Availability Menggunakan Haproxy di CentOS 8
 description: 'WordPress salah satu CMS yang paling sering dan banyak digunakan untuk website, baik untuk website pribadi ataupun korporasi'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c5.png'
 featured: true
 date: '2020-09-02 21:58:23'
 categories:

@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: 'Linux: Melihat Penggunaan RAM'
 description: 'RAM adalah sebuah perangkat keras (hardwar) yang berada di komputer, laptop, server etc, yang berfungsi sebagai penyimpanan data sementara dan berbagai intruksi program'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/d24.png'
 featured: true
 date: '2020-11-15 00:41:35'
 categories:

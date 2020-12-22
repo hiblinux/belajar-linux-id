@@ -3,6 +3,7 @@ author: Imron
 layout: post
 title: 'Ubuntu: Install LAMP Stack di  Ubuntu 20.04'
 description: 'LAMP merupakan satu paket software yang digunakan untuk mengaktifkan server guna menghosting situs web dinamis dan ditulis dalam bahasa pemrograman PHP'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/d27.png'
 featured: true
 date: '2020-11-15 15:12:09'
 categories:

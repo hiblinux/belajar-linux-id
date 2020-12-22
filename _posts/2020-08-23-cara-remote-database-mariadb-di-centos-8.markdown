@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Remote Database MariaDB di CentOS 8
 description: 'Untuk melakukan remote akses database MariaDB di CentOS 8 itu sangat mudah' 
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a18.png'
 featured: true
 date: '2020-08-23 10:52:29'
 categories:

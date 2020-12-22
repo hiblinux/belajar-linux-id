@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Membuat RAID di CentOS 8
 description: 'Untuk membuat RAID di CentOS 8 sangat mudah dan simple'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c20.png'
 featured: true
 date: '2020-09-12 21:47:15'
 categories:

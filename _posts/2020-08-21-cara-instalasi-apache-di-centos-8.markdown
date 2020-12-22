@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi Apache di CentOS 8
 description: 'Apache merupakan web server yang dapat dijalankan di berbagai macam sistem operasi yang berbeda seperti Unix, BSD, Linux, Windows dan Novell Netware yang bertugas untuk melayani fasilitas web dengan menggunakan protokol http ataupun https'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a10.png'
 featured: true
 date: '2020-08-21 14:42:13'
 categories:

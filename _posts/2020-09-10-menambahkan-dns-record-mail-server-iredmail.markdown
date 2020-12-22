@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Menambahkan DNS Record Mail Server iRedMail
 description: 'iRedMail sebuah mail server yang bersifat open source, dengan iRedMail Anda dapat dapat membangun mail server sendiri di VPS atau VM. Namun untuk mempunyai email server kita butuh yang namanya DNS Record untuk mail server'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c17.png'
 featured: true
 date: '2020-09-10 06:59:19'
 categories:

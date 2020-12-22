@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi Typo3 Menggunakan Nginx di CentOS 8
 description: 'Typo3 salah satu dari sekian banyak CMS (content management system) yang dapat Anda gunakan secara free dalam artian open source (bebas) di kembangkan, di kustomisasi. TYPO3 hampir sama dengan Drupal dirilis dibawah naungan GNU General Public License'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b8.png'
 featured: true
 date: '2020-08-25 15:20:05'
 categories:

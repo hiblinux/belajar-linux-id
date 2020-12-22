@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: 'Linux: Mengenal vmstat'
 description: 'Sebenarnya sangat banyak aplikasi yang dapat Anda pilih dan gunakan untuk melihat penggunaan ram, namun kali ini kita akan mencoba menggunakan vmstat'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/d25.png'
 featured: true
 date: '2020-11-15 01:39:44'
 categories:

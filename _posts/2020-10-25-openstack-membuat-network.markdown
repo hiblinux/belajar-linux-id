@@ -3,7 +3,7 @@ author: nurhamim
 layout: post
 title: 'Openstack: Membuat Network'
 description: 'Openstack adalah sebuah platform cloud yang terdiri dari software open source untuk menjalankan Cloud IaaS (Infrastructure as a Service), baik untuk private ataupun public Cloud'
-image: 'assets/images/openstack.png'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/d7.png'
 featured: true
 date: '2020-10-25 17:53:29'
 categories:

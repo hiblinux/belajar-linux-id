@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi PHP 7 di CentOS 8
 description: 'PHP adalah salah satu bahasa pemrograman yang paling banyak digunakan. Banyak CMS dan Frameworks seperti WordPress, Magento, dan lavarel dibangun menggunakan PHP'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a8.png'
 featured: true
 date: '2020-08-21 08:53:50'
 categories:

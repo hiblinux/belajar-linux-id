@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi Moodle Menggunakan Nginx di CentOS 8
 description: 'Moodle salah satu platform yang biasa digunakan untuk membangun Learning Management System (LMS), moodle cukup power full dan bahkan saat ini sangat banyak institusi pendidikan yang menggunakan moodle sebagai platform belajar mengajar secara daring'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b11.png'
 featured: true
 date: '2020-08-26 12:14:12'
 categories:

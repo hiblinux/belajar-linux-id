@@ -3,6 +3,7 @@ author: leon
 layout: post
 title: 'Ubuntu: Melihat Penggunaan Network Usage Pada Ubuntu 20.04'
 description: 'Tool yang digunakan adalah bwm-ng atau Bandwidth Monitoring NG, tool ini bisa kita gunakan untuk melihat penggunaan network pada spesifik interface dan untuk ukuran paketnya pun tidak terlalu besar'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/4.png'
 featured: true
 date: '2020-11-16 08:18:09'
 categories:

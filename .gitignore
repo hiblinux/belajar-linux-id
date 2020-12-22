@@ -13,3 +13,6 @@ _tools
 cache
 vendor/bundle/ruby/2.7.*
 backup
+leon/
+imron/
+hamim/

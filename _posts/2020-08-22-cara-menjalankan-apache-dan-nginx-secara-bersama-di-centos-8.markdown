@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Menjalankan Apache dan Nginx Secara Bersama di CentOS 8
 description: 'Apache dan Nginx sama – sama Web Server dimana ke dua service tersebut berjalan di port 80. Lalu bagaimana cara menjalankan ke dua web server tersebut secara bersamaan?'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a13.png'
 featured: true
 date: '2020-08-22 06:49:47'
 categories:

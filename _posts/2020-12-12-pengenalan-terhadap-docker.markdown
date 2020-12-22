@@ -3,7 +3,7 @@ author: leon
 layout: post
 title: 'Docker: Pengenalan Terhadap Docker'
 description: 'Docker adalah salah satu platform yang dibangun berdasarkan teknologi container. Docker merupakan sebuah project open-source yang menyediakan platform terbuka untuk developer maupun sysadmin untuk dapat membangun, mengemas, dan menjalankan aplikasi dimanapun sebagai sebuah wadah (container) yang ringan'
-image: 'assets/images/pengenalan-docker.png'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/pengenalan-docker.png'
 featured: true
 date: '2020-12-12 08:03:38'
 categories:

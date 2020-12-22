@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Membuat dan Menghapus User di CentOS 8
 description: 'CentOS dan semua distribusi Linux lainnya adalah sistem operasi multi-pengguna. Setiap pengguna dapat memliki tingkat izin yang berbeda – beda dan pengaturan khusus baik di CLI ataupun GUI'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b1.png'
 featured: true
 date: '2020-08-24 09:28:45'
 categories:

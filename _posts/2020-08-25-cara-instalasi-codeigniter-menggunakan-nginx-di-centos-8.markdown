@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi CodeIgniter Menggunakan Nginx di CentOS 8
 description: 'CodeIgniter merupakan sebuah framework yang dapat Anda gunakan secara bebas karena framework ini open source. CodeIgniter dapat Anda gunakan untuk membangun aplikasi web berbasis PHP'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b10.png'
 featured: true
 date: '2020-08-25 23:16:42'
 categories:

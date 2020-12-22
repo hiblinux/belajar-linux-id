@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Konfigurasi Replikasi MariaDB Master - Slave di CentOS 8
 description: 'MariaDB adalah sistem manajemen database relasional yang bersifat open source artinya dapat Anda gunakan secara bebas untuk kebutuhan database server'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c1.png'
 featured: true
 date: '2020-08-30 21:02:23'
 categories:

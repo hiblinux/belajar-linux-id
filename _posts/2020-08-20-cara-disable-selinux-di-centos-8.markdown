@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Disable SELinux di CentOS 8
 description: 'Security Enhanced Linux atau SELinux adalah mekanisme keamanan yang dibangun di dalam kernel Linux yang digunakan oleh distribusi berbasis RHEL'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a5.png'
 featured: true
 date: '2020-08-20 22:03:06'
 categories:

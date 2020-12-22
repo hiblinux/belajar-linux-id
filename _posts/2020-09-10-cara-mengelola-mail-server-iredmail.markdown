@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Mengelola Mail Server iRedMail
 description: 'cara pengelolaan mail server di iRedMail sepertihalnya penambahan user, alokasi size user, menentukan user administrator dan bagaimana cara melihat monitoring netdata yang telah tersedia secara default di iRedMail'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c18.png'
 featured: true
 date: '2020-09-10 07:59:54'
 categories:

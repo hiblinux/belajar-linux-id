@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Instalasi Laravel Menggunakan Nginx di CentOS 8
 description: 'Laravel merupakan salah satu framework PHP yang sangat populer dan bisa di bilang terbaik. Sudah sangat banyak para web developer menggunakan framework ini. Laravel sendiri open source dimana Anda dapat menggunakannya secara bebas'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b9.png'
 featured: true
 date: '2020-08-25 20:34:52'
 categories:

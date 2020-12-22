@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Implementasi Cache Proxy Nginx pada WordPress di CentOS 8
 description: 'Tutorial kali ini kami akan megimplementasikan cache proxy nginx pada WordPress'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/b17.png'
 featured: true
 date: '2020-08-27 23:25:19'
 categories:

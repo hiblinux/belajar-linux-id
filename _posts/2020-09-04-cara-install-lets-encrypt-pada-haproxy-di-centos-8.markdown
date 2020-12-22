@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Install Let's Encrypt pada HAProxy di CentOS 8
 description: 'Letsencrypt salah satu SSL (Secure Sockets Layer) free yang dapat Anda gunakan Letsencrypt dapat Anda install di berbagai sistem operasi, dan web server. Untuk instalasi letsencrypt dapat menggunakan Certbot'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/c8.png'
 featured: true
 date: '2020-09-04 03:13:49'
 categories:

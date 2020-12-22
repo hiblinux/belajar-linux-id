@@ -3,6 +3,7 @@ author: nurhamim
 layout: post
 title: Cara Mengubah Port Database MariaDB di CentOS 8
 description: 'Tutorial kali ini membahas bagaimana cara custome atau mengubah port database MariaDB'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/a19.png'
 featured: true
 date: '2020-08-23 11:17:48'
 categories:
