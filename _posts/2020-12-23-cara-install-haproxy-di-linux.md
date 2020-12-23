@@ -3,9 +3,8 @@ author: nurhamim
 layout: post
 title: 'Cara Install HAProxy di Linux'
 image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/haproxy.png'
-description: 'High Availability Proxy adalah kepanjangan dari HAProxy sebuah perangkat lunak open source dibawah GPLv2 license. HAProxy digunakan untuk membagi beban request atau load balancer TCP/HTTP dan solusi proxy yang dapat dijalankan di sistem operasi Linux, Solaris, dan FreeBSD'
-featured: true
-date: '2020-12-24 00:22:36'
+description: 'High Availability Proxy adalah kepanjangan dari HAProxy sebuah perangkat lunak open source dibawah GPLv2 license'
+date: '2020-12-24 12:26:26'
 categories:
   - haproxy
   - ubuntu
