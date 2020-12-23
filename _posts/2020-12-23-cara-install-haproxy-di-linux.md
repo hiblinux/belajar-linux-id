@@ -13,8 +13,6 @@ categories:
   - linux
 ---
 
-### Pengenalan HAProxy
-
 **High Availability Proxy** adalah kepanjangan dari HAProxy sebuah perangkat lunak open source dibawah GPLv2 license. HAProxy digunakan untuk membagi beban request atau load balancer TCP/HTTP dan solusi proxy yang dapat dijalankan di sistem operasi Linux, Solaris, dan FreeBSD.
 
 Pembagian bebannya pun beragam sesuai dengan algoritma yang ada. HAProxy sudah umum digunakan untuk meningkatkan kinerja dan kehandalan sebuah server dengan mendistribusikan beban kerja dari beberapa server lain seperti web server, database server, smtp server dan yang lainnya.
