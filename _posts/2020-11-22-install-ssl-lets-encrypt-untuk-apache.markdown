@@ -3,7 +3,7 @@ author: Imron
 layout: post
 title: 'Ubuntu: Install SSL Lets Encrypt untuk Apache di Ubuntu Server 20.04 TLS'
 description: 'Lets Encrypt menyediakan sertifikat SSL dengan proses yang lengkap seperti membuat, validasi, instalasi sampai renewal sertifikat SSL'
-image: 'http://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/install-ssl-lets-encrypt-untuk-apache.png'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/install-ssl-lets-encrypt-untuk-apache.png'
 featured: true
 date: '2020-11-22 13:19:06'
 categories:
