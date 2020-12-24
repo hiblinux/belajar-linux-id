@@ -5,7 +5,7 @@ description: "Cari tutorial Linux? Disini tempatnya 😁"
 logo: 'assets/images/logo2.png'
 favicon: 'assets/images/logo2.png'
 baseurl: ""
-url: "belajarlinux.id"
+url: "https://belajarlinux.id"
 google_analytics: 'UA-176039983-1'
 disqus: 'blinuxid'
 mailchimp-list: 'https://belajarlinux.us7.list-manage.com/subscribe?u=61d306c597c61df486f3deb61&id=b13aca407c'
@@ -26,7 +26,6 @@ authors:
     name: campuz.dragon@gmail.com
     display_name: Imron Rosyadi
     avatar: 'assets/images/imonk2.jpg'
-    #gravatar: 9a902418250a11fb157a7142458f8f48
     email: campuz.dragon@gmail.com
     web: https://imron.my.id
     twitter: https://twitter.com/imonks_os
@@ -35,7 +34,7 @@ authors:
   nurhamim:
     name: Nur Hamim
     display_name: Nur Hamim
-    avatar: 'assets/images/hamim.png'
+    avatar: 'assets/images/hamimm.jpg'
     email: hamimistimewa@gmail.com
     web: https://nurhamim.net
     description: "Anak desa yang gemar berkomunitas, suka menulis dan mencari hal baru seputar Unix/Linux dan Cloud. Saat ini sedang menempuh pendidikan S1 TI di Unindra dan kebetulan bekerja di PT Biznet GIO Nusantara"
@@ -78,6 +77,6 @@ adsense-data-ad-client: "ca-pub-1515372853161377"
 adsense-data-ad-slot: "1986938311"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, leon, imron, hamim]

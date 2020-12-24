@@ -3,6 +3,13 @@
 
 #export path=$PWD/tools
 
+# Verification User
+
+if [ "$EUID" -ne 0 ]
+  then echo "Please run as root"
+  exit
+fi
+
 # Remove previous binary
 
 rm -fv /usr/bin/push
