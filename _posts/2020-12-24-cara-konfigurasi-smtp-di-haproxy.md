@@ -25,7 +25,7 @@ Berikut topologi sederhana yang kami gunakan
 Berikut detail dari topologi diatas:
 
 | IP           | Hostname            | Keterangan |
-| :---------:  | :------------------:| :--------: |
+| ----------- | ------------------| --------- |
 | 20.20.20.104 | pmg.nurhamim.my.id  | SMTP 1     |
 | 20.20.20.105 | pmg1.nurhamim.my.id | SMTP 2     |
 | 20.20.20.109 | ha.nurhamim.my.id   | LB         |
@@ -36,7 +36,7 @@ Untuk melakukan konfigurasi SMTP di HAProxy hampir sama dengan konfigurasi proto
 
 Berikut contoh konfigurasi SMTP di HAProxy:
 
-```console
+```bash
 global
         log /dev/log local0
         log /dev/log local1 notice
@@ -81,7 +81,7 @@ backend bk_postfix
 
 Simpan konfigurasi diatas dan verifikasi konfigurasi HAProxy menggunakan perintah berikut:
 
-```console
+```bash
 [root@ha-pmg-belajarlinux ~]#
 [root@ha-pmg-belajarlinux ~]# haproxy -c -f /etc/haproxy/haproxy.cfg
 Configuration file is valid
@@ -90,7 +90,7 @@ Configuration file is valid
 
 Jika sudah valid seperti diatas, silakan restart atau reload service HAProxy Anda
 
-```console
+```bash
 [root@ha-pmg-belajarlinux ~]#
 [root@ha-pmg-belajarlinux ~]# systemctl restart haproxy
 [root@ha-pmg-belajarlinux ~]#
@@ -98,7 +98,7 @@ Jika sudah valid seperti diatas, silakan restart atau reload service HAProxy And
 
 Testing SMTP HAProxy bisa menggunakan telnet ke alamat IP LB disini yaitu 20.20.20.109 seperti berikut
 
-```console
+```bash
 # Percobaan 1
 
 [root@ha-pmg-belajarlinux ~]#
