@@ -25,7 +25,7 @@ Berikut topologi sederhana yang kami gunakan
 Berikut detail dari topologi diatas:
 
 | IP           | Hostname            | Keterangan |
-|--------------|---------------------|------------|
+|:-------------|:-------------------:|-----------:|
 | 20.20.20.104 | pmg.nurhamim.my.id  | SMTP 1     |
 | 20.20.20.105 | pmg1.nurhamim.my.id | SMTP 2     |
 | 20.20.20.109 | ha.nurhamim.my.id   | LB         |
