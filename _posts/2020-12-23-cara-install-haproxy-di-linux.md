@@ -55,10 +55,6 @@ Algoritma Source adalah salah satu metode yang dapat digunakan untuk memastikan 
 
 Untuk melakukan instalasi HAProxy di sistem operasi Linux sangat mudah. Berikut ini merupakan tahapan cara install HAProxy di **Ubuntu**, **Debian** dan **CentOS**:
 
-#### Install HAProxy di Debian
-
-Debian yang kami gunakan yaitu Debian 9 dan Debian 10, sebagai berikut: 
-
 ```console
 # Debian 9
 
