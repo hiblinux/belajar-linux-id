@@ -5,6 +5,7 @@ lang: id_ID
 layout: post
 date: 2020-12-24 12:00 +0700
 author: nurhamim
+featured: true
 image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/lb-smtp.png'
 categories:
   - haproxy
