@@ -3,6 +3,7 @@ title: Cara Konfigurasi Load Balancing Proxmox Mail Gateway Menggunakan HAProxy
 description: 'Proxmox Mail Gateway merupakan solusi keamanan email sumber terbuka (open source) terkemuka yang dapat membantu Anda melindungi server email Anda dari semua ancaman email.'
 lang: id_ID
 layout: post
+date: 2020-12-24 21:42 +0700
 featured: true
 author: nurhamim
 image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/pmg-lb-cover.png'
@@ -65,21 +66,34 @@ Tahapan terakhir yaitu melakukan uji coba send/receive email, domain yang kami g
 
 1. Send/Receive dari pmg@task.my.id ke @gmail.com dan sebaliknya @gmail.com ke pmg@task.my.id
 - Send email dari pmg@task.my.id ke @gmail.com
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/webmail-to-gmail.png)
 
 - Informasi Header email
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/header-webmail-to-gmail.png)
 
 - Send email dari @gmail.com ke pmg@task.my.id
-
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/gmail-to-webmail.png)
 - Informasi Header email
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/header-gmail-to-webmail.png)
 
 2. Send/Receive dari pmg@task.my.id ke @yahoo.com dan sebaliknya @yahoo.com ke pmg@task.my.id
 - Send email dari pmg@task.my.id ke @yahoo.com
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/webmail-to-yahoo.png)
 
 - Informasi Header email
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/header-webmail-to-yahoo.png)
 
 - Send email dari @yahoo.com ke pmg@task.my.id
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/yahoo-to-webmail.png)
 
 - Informasi Header email
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/header-yahoo-to-webmail.png)
+
+Kemudian, Anda juga dapat melihat **Traffice** email baik send/receive selain itu Anda juga dapat melihat tracking email log untuk send/receive, contohnya seperti berikut:
+
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/pmg1.png)
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/log-pmg-to-gmail.png)
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/log-yahoo-to-pmg.png)
 
 Bagi kalian yang mengalami kendala atau kesulitan dalam menerapkan tutorial ini silakan komentar dibawah yah.
 
