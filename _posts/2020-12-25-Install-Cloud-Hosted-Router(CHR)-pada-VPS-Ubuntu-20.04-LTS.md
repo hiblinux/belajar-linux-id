@@ -10,9 +10,6 @@ image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/install-chr-pad
 categories: [ Mikrotik, VPS, Ubuntu ]
 ---
 
-
-# Install CHR pada VPS
-
 Mikrotik merupakan salah satu perangkat jaringan yang paling banyak diminati, dikarenakan konfigurasinya lebih sederhana daripada juniper maupun cisco. 
 Mikrotik sudah disediakan dari kalangan home based maupun enterprise (skala besar), hal ini dikarenakan mikrotik menyediakan RouterOS. 
 
@@ -39,6 +36,7 @@ Lakukan update paket terlebih dahulu dan tunggu proses update hingga selesai.
 ```
 apt update
 ```
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/CHR/1.%20Instal%20CHR.png)
 
 {:start="2"}
 2. Install CHR pada VPS dengan menjalankan perintah sebagai berikut: 
@@ -57,6 +55,8 @@ echo u > /proc/sysrq-trigger && \
 dd if=chr.img bs=1024 of=/dev/vda
 ```
 
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/CHR/2.%20Proses.png)
+
 {:start="3"}
 3. Apabila instalasi berjalan dengan normal dan tidak terdapat pesan error, silakan restart VPS tersebut. 
 
@@ -66,8 +66,12 @@ dd if=chr.img bs=1024 of=/dev/vda
 {:start="5"}
 5. Buka WinBox dan masukkan IP Address VPS, Login dengan user admin dan password dikosongi (default), klik Connect. 
 
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/CHR/3.%20Login.png)
+
 {:start="6"}
 6. Apabila berhasil login, akan muncul tampilan seperti berikut. 
+
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/CHR/4.%20Mikrotik.png)
 
 ## Kesimpulan 
 
