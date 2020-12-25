@@ -10,9 +10,6 @@ image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/install-chr-pad
 categories: [ Mikrotik, VPS, Ubuntu ]
 ---
 
-
-# Install CHR pada VPS
-
 Mikrotik merupakan salah satu perangkat jaringan yang paling banyak diminati, dikarenakan konfigurasinya lebih sederhana daripada juniper maupun cisco. 
 Mikrotik sudah disediakan dari kalangan home based maupun enterprise (skala besar), hal ini dikarenakan mikrotik menyediakan RouterOS. 
 
