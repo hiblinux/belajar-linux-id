@@ -25,10 +25,10 @@ authors:
   Imron:
     name: campuz.dragon@gmail.com
     display_name: Imron Rosyadi
-    gravatar: 9a902418250a11fb157a7142458f8f48
+    avatar: 'assets/images/imonk2.jpg'
     email: campuz.dragon@gmail.com
     web: https://imron.my.id
-    twitter: https://twitter.com/wowthemesnet
+    twitter: https://twitter.com/imonks_os
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
   nurhamim:
