@@ -21,8 +21,9 @@
 title: Judul Mu
 description: "Tulis deskripsi postingan"
 lang: id_ID
-layout: post
 date: yyyy-mm-dd HH:MM +0700
+layout: post
+featured: true
 author: Nama-Mu
 image: https://s3-kita-com/gambar.png
 categories: [ Jekyll, tutorial ]
@@ -45,15 +46,17 @@ Terdapat 2 tool yang telah saya buat menggunakan Bash, yang pertama adalah `push
 
 - `new-post` : Buat nama file draft yang akan dibuat dengan menggunakan command ini, contoh: How-To-Create-a-Post (gunakan '-' sebagai pemisah). Catatan : setelah draft selesai perlu dipindahkan ke folder `_posts`
 - `push` : Apabila post atau perubahan telah selesai, silakan jalankan command ini beserta pesan commit, usahakan tiap pesan commit jelas sesuai dengan action yang dilakukan.
+- `moving` : Digunakan untuk memindahkan file draft yang berada pada direktori _drafts ke folder _posts, perintah ini akan menyesuaikan tanggal pada nama file dan header agar sesuai dengan tanggal saat ini.
 
 ## Alur Penulisan
 
 1. Jalankan command `new-post` lalu masukan judul file dengan menggunakan tanda `-` sebgai penghubung. Anda tidak perlu menambahkan ekstensi `.md` pada bagian ini.
 2. Buka file yang sudah dibuat pada `/xx/xx/belajar-linux-id/_drafts/file-anda.md`
 3. Sesuaikan header agar sesuai dengan tema konten Anda.
-4. Jalankan command `push` apabila telah selesai.
-5. Masukan commit sesuai dengan perubahan yang dilakukan.
-6. Saat terdapat action push, maka secara otomatis akan melakukan trigger ke CI/CD silakan ditunggu hingga proses selesai sebelum konten dapat terlihat di website.
+4. Apabila draft sudah selesai dibuat, jalankan perintah `moving` agar draft dapat dipindahkan secara otomatis ke folder `_posts`
+5. Jalankan command `push` apabila telah selesai.
+6. Masukan commit sesuai dengan perubahan yang dilakukan.
+7. Saat terdapat action push, maka secara otomatis akan melakukan trigger ke CI/CD silakan ditunggu hingga proses selesai sebelum konten dapat terlihat di website.
 
 ## License
 
