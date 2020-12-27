@@ -2,7 +2,7 @@
 title: Administrasi Linux Container Menggunakan LXDUI
 description: 'LXDUI mempunyai fitur yang bisa dibilang lengkap dan simple dan sangat direkomendasikan untuk administrasi linux container dalam 1 host (stand-alone)'
 lang: id_ID
-date: 2020-12-27 06:53 +0700
+date: 2020-12-27 06:57 +0700
 layout: post
 featured: true
 author: nurhamim
