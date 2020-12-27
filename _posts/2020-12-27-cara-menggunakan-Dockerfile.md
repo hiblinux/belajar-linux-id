@@ -112,6 +112,7 @@ root@dockerfile:~/latihan# docker image ls
 ```
 
 ![enter image description here](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/dockerfile4.png)
+
 **6. Buat sebuah container berdasarkan image yang telah dibuat.**
 
 Untuk membuat sebuah container berdasarkan image yang telah dibuat, silakan menjalankan baris perintah berikut ini:
@@ -128,6 +129,7 @@ root@dockerfile:~/latihan# docker container ls -a
 ```
 
 ![enter image description here](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/dockerfile5.png)
+
 **7. Akses nginx dengan cURL**
 
 ```
@@ -136,6 +138,7 @@ root@dockerfile:~/latihan# curl localhost
 ```
 
 ![enter image description here](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/dockerfile6.png)
+
 **Selesai !**
 
 Sekian dulu artikel **Cara Menggunakan Dockerfile Secara Praktis** kali ini, selanjutnya kita akan belajar tentang cara melakukan publikasi image ke repository docker.
