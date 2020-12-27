@@ -2,7 +2,7 @@
 title: Cara Install LXDUI di Ubuntu 20.04 LTS
 description: 'Tutorial kali ini kami akan membahas bagaimana cara melakukan manajemen linux container melalui web interface (web browser).  Linux container yang terinstall secara stand-alone (1 host) dapat dilakukan manajemen melalui web browser menggunakan LXDUI'
 lang: id_ID
-date: 2020-12-28 06:57 +0700
+date: 2020-12-27 19:06 +0700
 layout: post
 featured: true
 author: nurhamim
