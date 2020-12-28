@@ -1,8 +1,8 @@
 ---
 title: Cara Install CMS WordPress di Linux Container (LXD)
-description: 'WordPress merupakan sebuah CMS (content management system) open source yang dapat digunakan secara bebas dan WordPress salah satu CMS yang sangat populer dan banyak digunakan dari berbagai kalangan karena WordPress sangat mudah digunakan bahkan di custom sesuai kebutuhan Anda'
+description: 'WordPress merupakan sebuah CMS (content management system) open source yang dapat digunakan secara bebas'
 lang: id_ID
-date: 2020-12-28 19:32 +0700
+date: 2020-12-28 16:01 +0700
 layout: post
 featured: true
 author: nurhamim
@@ -10,7 +10,6 @@ image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/lxd/wp/cover.p
 categories:
  - LXC/LCD
  - Linux Container
- - cms
 ---
 
 [Belajar Linux ID](https://belajarlinux.id) - WordPress merupakan sebuah CMS (content management system) open source yang dapat digunakan secara bebas dan WordPress salah satu CMS yang sangat populer dan banyak digunakan dari berbagai kalangan karena WordPress sangat mudah digunakan bahkan di custom sesuai kebutuhan Anda. 
