@@ -24,7 +24,7 @@ Berikut merupakan topologi yang digunakan:
 
 - **Terdapat 2 linux container**
 
-  - 1 Linux container (web)
+  - **1 Linux container (web)**
     - *OS: Ubuntu 20.04*
     - *IP: 10.171.248.115*
     - *Service: Apache2, PHP 7.4*
@@ -59,7 +59,7 @@ ubuntu@lxd-belajarlinux:~$ lxc exec database bash
 
 Buat database wordpress dan pastikan user database listen ke IP linux container **web** 
 
-```
+```bash
 [root@database ~]#
 [root@database ~]# mysql -u root -p
 Enter password:
