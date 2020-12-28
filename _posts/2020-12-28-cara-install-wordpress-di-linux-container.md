@@ -207,10 +207,10 @@ Selanjutnya untuk kebutuhan security silakan generate security has random tujuan
 
 Tambahkan di `wp-config.php` seperti berikut
 
-```bash
+```php
 define( 'AUTH_KEY',         'l|qFf&>NN^Pxs$kp+qT]|!Y0Y(pjiMD^.3lW/Eg7)`|{3Xs_|=ItmJ&!JelYdHGE' );
 define( 'SECURE_AUTH_KEY',  '1z1J9#|+xeBacW<`yY$EuyZ_X-HN0l-qt[ukG7bJEJu<,yr0(G|O G#c*@[Rzf8!' );
-define( 'LOGGED_IN_KEY',    'AFTTWX~hr{%>{?s^dd@ eg6;oPS9N(VJF%O-.zi%gg~[_qY.z1MYc.[moe{7/*No' );
+define( 'LOGGED_IN_KEY',    'AFTTWX~hr{/>{?s^dd@ eg6;oPS9N(VJF1O-.zi%gg~[_qY.z1MYc.[moe{7/*No' );
 define( 'NONCE_KEY',        ')raJ{N>Aa]=$fo+IT0g$8$H)Cz(EjX%!_dT5MKw[NK<aRdyO?[Y70`.uAN>wrz,J' );
 define( 'AUTH_SALT',        't>r#H58w5whyxho3iGS6,BRE,97I7_Haa7FTS]0T_8ICe~uM^No;9ltO]h.6ddx<' );
 define( 'SECURE_AUTH_SALT', 'd?*WfC&l(0G<|%u0K0]rR#k~<NR`%ZqA<Hd8!SVUMF(-+q+~|p6`vB{Mz7$kWNwy' );
