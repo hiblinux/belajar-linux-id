@@ -20,7 +20,7 @@ Adapun beberapa syarat yang diperlukan untuk menerapkan VPN Site to Site ini bis
 ![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/VPN%20Site%20to%20Site/Topologi%20Jaringan.png
 )
 
-1. Sediakan tiga buat VPS yang sudah terinstall CHR
+1. Sediakan tiga buah VPS yang sudah terinstall CHR
 2. Koneksi internet 
 3. IP Private masing-masing VPS 
 
