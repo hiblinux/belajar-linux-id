@@ -7,19 +7,12 @@ layout: post
 featured: true
 author: Imron
 image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/install-chr-pada-vps-ubuntu-20-04.png
-categories: [ Mikrotik, VPS, Ubuntu ]
+categories:
+  - mikrotik
+  - chr
+  - ubuntu
+  - vps
 ---
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-1515372853161377"
-     data-ad-slot="4684565489"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Mikrotik merupakan salah satu perangkat jaringan yang paling banyak diminati, dikarenakan konfigurasinya lebih sederhana daripada juniper maupun cisco. 
 Mikrotik sudah disediakan dari kalangan home based maupun enterprise (skala besar), hal ini dikarenakan mikrotik menyediakan RouterOS. 

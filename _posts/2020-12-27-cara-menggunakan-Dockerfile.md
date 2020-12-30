@@ -7,7 +7,9 @@ layout: post
 featured: true
 author: leon
 image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/Dockerfile.png
-categories: [ Docker, Ubuntu ]
+categories:
+  - docker
+  - ubuntu
 ---
 
 Pada kali ini Belajar Linux ID ingin berbagi tutorial tentang **Cara Menggunakan Dockerfile Secara Praktis** (Ubuntu, CentOS, Debian). Apabila kalian belum mengetahui apa itu Docker, maka kalian perlu membaca kembali artikel kami sebelumnya:

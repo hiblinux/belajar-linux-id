@@ -7,7 +7,11 @@ layout: post
 featured: true
 author: Imron
 image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/VPN%20Site%20to%20Site/Cover-art/vpn-site-to-site.png
-categories: [ VPN, Mikrotik, CHR, Site-to-Site ]
+categories:
+  - vpn
+  - mikrotik
+  - chr
+  - site-to-site
 ---
 
 Menghubungkan jaringan antara kantor utama dengan beberapa kantor cabang bisa menggunakan jaringan private sebagai cara untuk menggunakan jaringan yang lebih aman. Banyak perusahaan yang sudah menerapkan VPN Site to Site untuk menggunakan akses trafik jaringan tersebut. 

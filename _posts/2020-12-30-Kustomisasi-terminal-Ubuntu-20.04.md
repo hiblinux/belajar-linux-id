@@ -7,7 +7,11 @@ layout: post
 featured: true
 author: Imron
 image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/Terminal%20Oh-My-Zsh/cover-art.png
-categories: [ Aplikasi, Terminal, Linux, Ubuntu ]
+categories:
+  - aplikasi
+  - terminal
+  - linux
+  - ubuntu
 ---
 
 Pada kesempatan kali ini, saya akan mencoba share cara kustomisasi model terminal/konsol. Tujuan kustomisasi ini untuk memperindah tampilan terminal agar pengguna tidak bosan dan tertarik melakukan setup maupun konfigurasi. 
