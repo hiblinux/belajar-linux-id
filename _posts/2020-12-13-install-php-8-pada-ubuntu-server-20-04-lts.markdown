@@ -7,7 +7,7 @@ image: 'assets/images/install-php-8-pada-ubuntu-server-20-04-lts.png'
 featured: true
 date: '2020-12-13 16:11:05'
 categories:
-  - PHP
+  - php
   - ubuntu
 ---
 
