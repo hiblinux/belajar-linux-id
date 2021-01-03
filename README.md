@@ -1,12 +1,15 @@
 # Cara berkontribusi
 
-1. Kontak mas Leon untuk akses ke repo ini.
-2. Konfigurasi SSH Key pada repo ini, merujuk ke artikel [Konfigurasi SSH Key Pada Gitlab](https://ngulik-addict.cyou/post/Konfigurasi-SSH-Key-Pada-Gitlab.html)
-3. Lalu clone repo menggunakan opsi SSH : https://gitlab.com/hiblinux/belajar-linux-id
-4. Jalankan command `./inisiate.sh` 
-5. Buka file `_config.yml` lalu tambahkan author sesuai dengan data dirimu.
-6. Jika avatar menggunakan gravatar maka kamu perlu membuat akun pada wordpress.org terlebih dahulu.
-7. Mulai berkontribusi ~
+1. Buat akun GitLab pada halaman [GitLab](https://gitlab.com/users/sign_up)
+2. Memiliki teks editor seperti VSCode, Sublime, atau Atom.
+3. Install jekyll pada laptop dengan merujuk ke panduan [ini](https://jekyllrb.com/docs/installation/ubuntu/).
+4. Kontak Author Belajar Linux ID untuk akses ke repo ini.
+5. Konfigurasi SSH Key pada repo ini, merujuk ke artikel [Konfigurasi SSH Key Pada Gitlab](https://ngulik-addict.cyou/post/Konfigurasi-SSH-Key-Pada-Gitlab.html)
+6. Lalu clone repo menggunakan opsi SSH : https://gitlab.com/hiblinux/belajar-linux-id
+7. Jalankan command `./inisiate.sh` 
+8. Buka file `_config.yml` lalu tambahkan author sesuai dengan data dirimu.
+9. Jika avatar menggunakan gravatar maka kamu perlu membuat akun pada wordpress.org terlebih dahulu.
+10. Mulai berkontribusi ~
 
 ## Catatan Penting
 
@@ -28,7 +31,9 @@ layout: post
 featured: true
 author: Nama-Mu
 image: https://s3-kita-com/gambar.png
-categories: [ Jekyll, tutorial ]
+categories:
+  - jekyll
+  - contoh
 ---
 ```
 
@@ -43,6 +48,8 @@ Untuk mempermudah dalam pengembangan website saya sudah menyiapkan environment C
 Untuk management file gambar kita menggunakan S3 Storage yang nantinya berfungsi sebagai CDN guna meringankan beban akses pada server host.
 - **Bash Script**
 Terdapat 4 tool yang telah saya buat menggunakan Bash, yang pertama adalah `push.sh`, `moving.sh`, `blidtools.sh` lalu `new-post.sh`. `Push.sh` digunakan untuk mempermudah dalam melakukan development menggunakan Git, pastikan sebelum mengeksekusi file ini perubahan sudah benar benar fix. Lalu untuk `new-post.sh` digunakan untuk mempermudah membuat file draft yang nantinya akan jadi sebuah konten pada website. Anda perlu **menyesuaikan** path directory pada kedua file tersebut agar dapat berjalan dengan baik.
+- **Canva**
+Segala sesuatu yang berbau desain seperti cover post dan lainnya, tersedia pada akun Canva Belajar Linux ID.
 
 ## Cara Penggunaan
 
@@ -54,7 +61,7 @@ Terdapat 4 tool yang telah saya buat menggunakan Bash, yang pertama adalah `push
 
 1. Jalankan command `new-post` lalu masukan judul file dengan menggunakan tanda `-` sebgai penghubung. Anda tidak perlu menambahkan ekstensi `.md` pada bagian ini.
 2. Buka file yang sudah dibuat pada `/xx/xx/belajar-linux-id/_drafts/file-anda.md`
-3. Sesuaikan header agar sesuai dengan tema konten Anda.
+3. Sesuaikan header agar sesuai dengan tema konten Anda, dan buat cover post pada akun Canva Belajar Linux ID.
 4. Apabila draft sudah selesai dibuat, jalankan perintah `moving` agar draft dapat dipindahkan secara otomatis ke folder `_posts`
 5. Pastikan posting sudah berjalan dengan baik pada device lokal sebelum dilakukan push ke repository
 7. Jalankan command `push` apabila telah selesai.

@@ -14,123 +14,169 @@ categories:
   - ubuntu
 ---
 
-Pada kesempatan kali ini, saya akan mencoba share cara kustomisasi model terminal/konsol. Tujuan kustomisasi ini untuk memperindah tampilan terminal agar pengguna tidak bosan dan tertarik melakukan setup maupun konfigurasi. 
+Pada kesempatan kali ini, saya akan mencoba share cara kustomisasi model WSL. Tujuan kustomisasi ini untuk memperindah tampilan terminal agar pengguna tidak bosan dan tertarik melakukan setup maupun konfigurasi.
 
-Disini saya menggunakan Oh-My-Zsh, karena lebih fleksibel dan menarik. 
+## Prasyarat
+1. Install Windows Subsystem for Linux (WSL) v2.
+2. Menggunakan pilihan distribusi Ubuntu 20.04 LTS
+
+Adapun jika belum memiliki WSL v2, bisa menginstallnya terlebih dahulu dengan mengikuti tautan [berikut](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
+
+Disini saya menggunakan  Oh-My-Zsh, Oh-My-Zsh merupakan suatu framework yang berbasis opensource digunakan untuk mengelola konfigurasi Zsh. Selain itu Oh-My-Zsh memiliki dukungan 275+ plugin dan 150 tema sehingga dapat memudahkan user dalam menggunakan terminal dan terlihat menarik. 
+
+## Instalasi dan Konfigurasi 
 
 1. Langkah yang pertama, update paket terlebih dahulu dengan perintah: 
+
 ```
-sudo apt-get update  
+sudo apt update  
 sudo apt upgrade
 ```
 
 {:start="2"}
-2. Langkah yang kedua, install paket yang dibutuhkan (ZSH, powerline, dan font powerline)
+2. Install font Powerline pada Windows, buka WSL dan jalankan perintah berikut: 
+
 ```
-sudo apt install zsh  
-sudo apt-get install powerline fonts-powerline
+git clone https://github.com/powerline/fonts.git --depth=1
+cd fonts
+./install.sh
 ```
 
 {:start="3"}
-3. Clone repo Oh-My-Zsh
+3. Install Zsh, curl dan git
+
 ```
-git clone https://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
+sudo apt-get install zsh curl git
 ```
 
 {:start="4"}
-4. Buat file konfigurasi ZSH baru 
+4. Install Oh-My-Zsh 
 ```
-cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
 {:start="5"}
-5. Setup tema untuk terminal, Anda bisa menemukan dan memilih tema Oh-My-Zsh yang diinginkan. Bisa melihat referensi [berikut](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
-
-Disini saya menggunakan tema robbyrussell, set pada baris "ZSH_THEME" pada file ".zshrc" seperti berikut:
+5. Ubah tema ke [agnoster](https://github.com/agnoster/agnoster-zsh-theme)
+Secara default tema Oh-My-Zsh yang digunakan adalah **robbyrussell**, oleh karena itu Anda bisa ubah ke tema agnoster untuk memperindah tampilan WSL. 
 
 ```
-# Set name of the theme to load --- if set to "random", it will
-# load a random theme each time oh-my-zsh is loaded, in which case,
-# to know which specific one was loaded, run: echo $RANDOM_THEME
-# See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-
-ZSH_THEME="robbyrussell"
-
-# Set list of themes to pick from when loading at random
-# Setting this variable when ZSH_THEME=random will cause zsh to load
-# a theme from this variable instead of looking in $ZSH/themes/
-# If set to an empty array, this variable will have no effect.
-# ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
+sed -i 's/ZSH_THEME="robbyrussell"/ZSH_THEME="agnoster"/g' ~/.zshrc
 ```
 
 {:start="6"}
-6. Karena default shell yang digunakan adalah "bash", maka Anda bisa mengubahnya ke "zsh". 
+6. Ubah warna prompt direktori 
+Anda juga bisa mengubah warna prompt direktori menjadi lebih cerah (biru), karena secara default warnanya lebih gelap. 
 
 ```
-chsh -s /bin/zsh
+sed -i '0,/blue/{s/blue/39d/}' ~/.oh-my-zsh/themes/agnoster.zsh-theme
 ```
-
-Agar bisa berjalan efektif dan efisien, Anda bisa melakukan resart sistem operasi. 
-Setelah itu, buka kembali terminalnya dan akan muncul tampilan seperti berikut. 
-
-![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/Terminal%20Oh-My-Zsh/1.%20Look-and-feel.png)
-
-Apabila Anda ingin teks terminal terlihat highlight bisa mengilkuti cara berikut (opsional): 
-
-```
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git "$HOME/.zsh-syntax-highlighting" --depth 1
-```
-
-Tambahkan syntax-highlighting pada file konfigurasi .zshrc: 
-```
-echo "source $HOME/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> "$HOME/.zshrc"
-```
-
-Apabila ada yang terlihat error, Anda bisa mengembalikan default shell ke "bash" seperti semula: 
-```
-chsh -s /bin/bash
-```
-
-Apabila Anda seorang scientis bisa menggunakan anaconda pada konfigurasi file .zshrc, tambahkan pada baris paling bawah: 
-
-```
-# >>> conda initialize >>>  
-# !! Contents within this block are managed by ‘conda init’ !!  
-__conda_setup=”$(‘/home/yourusername/anaconda3/bin/conda’ ‘shell.bash’ ‘hook’ 2> /dev/null)”  
-if [ $? -eq 0 ]; then  
- eval “$__conda_setup”  
-else  
- if [ -f “/home/yourusername/anaconda3/etc/profile.d/conda.sh” ]; then  
- . “/home/yourusername/anaconda3/etc/profile.d/conda.sh”  
- else  
- export PATH=”/home/yourusername/anaconda3/bin:$PATH”  
- fi  
-fi  
-unset __conda_setup  
-# <<< conda initialize <<<
-```
-
-**Keterangan**: 
-
-Ganti "yourusername" dengan nama user setelah direktori /home, nantinya akan tampak seperti berikut. 
-
-![](http://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/Terminal%20Oh-My-Zsh/2.%20Anaconda.png)
 
 {:start="7"}
-7. Langkah yang terakhir, silakan update bash shell dengan menjalankan perintah: 
+7. Mengaktifkan teks autokoreksi
 
 ```
-source ./zshrc
+sed -i 's/# ENABLE_CORRECTION="true"/ENABLE_CORRECTION="true"/g' ~/.zshrc
 ```
 
-Itulah beberapa langkah untuk kustomisasi terminal, selanjutnya Anda bisa melakukan kustomisasi secara lebih jauh dengan Oh-My-Zsh. 
+{:start="8"}
+8. Mengaktifkan plugin autosuggestion (opsional)
+Clone plugin autosuggestion terlebih dahulu:
+
+```
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+```
+
+Lalu, edit file `.zshrc` menggunakan teks editor favorit Anda semisal: 
+
+```
+vim ~/.zshrc
+```
+
+Temukan baris plugins seperti berikut:
+
+```
+plugins=(
+    git
+)
+```
+
+Lalu, tambahkan `zsh-autosuggestions` pada bagian `plugins`: 
+
+```
+plugins=(
+    git
+    zsh-autosuggestions
+)
+``` 
+
+Kemudian, tambahkan baris konfigurasi berikut dibawah bagian `plugins` untuk menghindari adanya error “Insecure completion-dependent directories detected”: 
+
+```
+ZSH_DISABLE_COMPFIX=true
+```
+
+Simpan file tersebut dan keluar dari teks editor. 
+
+{:start="9"}
+9. Mengaktifkan sintaks hightlighting (opsional)
+ Clone repo gitnya terlebih dahulu: 
+
+ ```
+ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+ ```
+
+Lalu tambahkan `zsh-syntax-highlighting` pada bagian plugin. 
+
+```
+plugins=(
+    git
+    zsh-autosuggestions
+    zsh-syntax-highlighting
+)
+```
+
+{:start="10"}
+10. Tidak menampilkan nama host pada komputer lokal (opsional)
+Biasanya hal ini dilakukan agar pengguna lain tidak mengetahui nama host secara detail. 
+Edit file `.zshrc`: 
+
+```
+vim ~/.zshrc
+```
+
+Tambahkan baris berikut pada bagian file `.zshrc` paling bawah: 
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/Terminal%20Oh-My-Zsh/7.%20script2.png)
+
+{:start="11"}
+11. Menempatkan kursor (opsional)
+Apabila kursor ingin ditempatkan pada bagian bawah prompt bisa menggunakan baris berikut, tambahkan pada baris paling bawah: 
+
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/Terminal%20Oh-My-Zsh/7.%20script2.png)
+
+Nah, sampai disini ternyata terdapat karakter aneh yang muncul pada prompt. Hal ini bisa diperbaiki dengan mengganti font WSL menjadi **"DejaVu Sans Mono for Powerline"**. Untuk menggantinya, bisa klik kanan tab dan pilih Properties. Pilih font "DejaVu Sans Mono for Powerline". 
+
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/Terminal%20Oh-My-Zsh/3.%20Change%20font1.png) 
+
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/Terminal%20Oh-My-Zsh/3.%20Change%20font1b.png)
+
+
+Lalu restart `zshrc` dengan menjalankan perintah:
+
+```
+source ~/.zshrc
+```
+
+Apabila berhasil akan tampil seperti berikut ini. 
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/Terminal%20Oh-My-Zsh/5.%20Save.png)
+
+## Kesimpulan
+
+Itulah beberapa langkah untuk kustomisasi terminal, selanjutnya Anda bisa melakukan kustomisasi secara lebih jauh dengan Oh-My-Zsh dengan menggunakan [plugin/tema](https://github.com/ohmyzsh/ohmyzsh) yang disediakan. 
+
+Referensi: [Oh-My-Zsh](https://pascalnaber.wordpress.com/2019/10/05/have-a-great-looking-terminal-and-a-more-effective-shell-with-oh-my-zsh-on-wsl-2-using-windows/)
+
+Apabila terdapat kritik. saran, atau masukan silakan komentar dibawah ini ya :) 
 
 Sekian dan terima kasih. 
 
 Semoga bermanfaat dan barokah. 
-
-Apabila terdapat kritik dan saran, silakan komentar dibawah ini ya :) 
-
-
-**Referensi**: 
-https://github.com/ohmyzsh/ohmyzsh
