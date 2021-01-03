@@ -7,7 +7,9 @@ layout: post
 featured: true
 author: nurhamim
 image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/clustering(1).png'
-categories: [ Jekyll, tutorial ]
+categories:
+ - LXC/LCD
+ - Linux Container
 ---
 
 [Belajar Linux ID](https://belajarlinux.id) - Tutorial kali ini kita akan mencoba melakukan instalasi LXDMosaic. LXDMosaic merupakan management linux container berbasis web dimana Anda dapat mengelola linux container melalui web browser. 
