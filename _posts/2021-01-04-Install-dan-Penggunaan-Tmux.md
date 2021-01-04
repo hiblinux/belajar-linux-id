@@ -36,7 +36,7 @@ Cara menggunakan tmux pertama kali dengan mengetikkan `tmux`. Perintah tersebut 
 
 Adapun cheat sheet untuk menggunakan tmux bisa menjalankan perintah `ctrl-b + ?`, lalu akan muncul list atribut yang sudah disediakan. 
 
-![](http://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/Tmux/1.%20Help.png)
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/Tmux/1.%20Help.png)
 
 {:start="2"}
 2. Membuat sesi baru dengan nama sesi 
