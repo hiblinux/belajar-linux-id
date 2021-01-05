@@ -8,9 +8,9 @@ featured: true
 author: Imron
 image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/Tmux/2.%20Cover
 categories: 
- - Terminal
- - Linux
- - Multiplexer
+ - terminal
+ - linux
+ - multiplexer
 ---
 
 Tmux merupakan terminal multiplexer, dimana tmux bisa membuat multi terminal. Dalam artian bisa membuat banyak virtual terminal window dalam satu terminal window. Setiap window terminal sendiri bisa menggunakan satu screen atau menggabungkan panel. 
