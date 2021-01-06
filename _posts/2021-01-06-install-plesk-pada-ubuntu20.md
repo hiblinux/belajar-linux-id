@@ -5,7 +5,7 @@ lang: id_ID
 date: 2021-01-06 23:11 +0700
 layout: post
 featured: true
-author: amar	
+author: amar
 image: 'https://s3-kita-com/post/amar/Cover-Plesk.png'
 categories:
  - Plesk
