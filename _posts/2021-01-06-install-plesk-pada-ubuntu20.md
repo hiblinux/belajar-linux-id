@@ -1,16 +1,17 @@
 ---
-title: Cara install Plesk Panel pada Ubuntu 20
+title: Cara Install Plesk Panel pada Ubuntu 20.04 LTS
 description: 'Plesk Panel merupakan salah satu kontrol panel yang populer dan memudahkan user dalam mangelola server dan website'
 lang: id_ID
 date: 2021-01-06 23:11 +0700
 layout: post
 featured: true
 author: amar
-image: 'https://s3-kita-com/post/amar/Cover-Plesk.png'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/amar/Cover-Plesk.png'
 categories:
- - Plesk
- - Control-Panel
+ - kontrol-panel
+ - plesk
 ---
+
 
 [Belajar Linux ID](https://belajarlinux.id) - Plesk Panel adalah salah satu kontrol panel yang dalamnya tersimpan tools untuk memudahkan Anda mengatur dan me-management server yang ditampilkan melalui GUI.
 
