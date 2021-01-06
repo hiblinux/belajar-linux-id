@@ -6,7 +6,7 @@ date: 2021-01-06 23:11 +0700
 layout: post
 featured: true
 author: amar
-image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/amar/Cover-Plesk.png'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/amar/Cover-Plesk.jpg'
 categories:
  - kontrol-panel
  - plesk
