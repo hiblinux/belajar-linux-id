@@ -27,7 +27,7 @@ Contoh:
 
 ![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/t1.png)
 
-Dalam contoh di atas, `sleep 3` digunakan untuk membuat pekerjaan dummy yang berlangsung selama 3 detik.
+Dalam contoh di atas, `sleep 3` digunakan untuk membuat job dummy yang berlangsung selama 3 detik.
 
 ## Opsi
 
