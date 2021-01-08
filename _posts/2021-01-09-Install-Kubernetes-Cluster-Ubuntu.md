@@ -1,5 +1,5 @@
 ---
-title: Instal Kubernetes Cluster pada Ubuntu Server 20.04 LTS
+title: Install Kubernetes Cluster pada Ubuntu Server 20.04 LTS
 description: Kubernetes merupakan tool orkestrasi kontainer yang berfungsi untuk melakukan deployment, scale up dan mengelola aplikasi berbasis kontainer.
 lang: id_ID
 date: 2021-01-09 03:11 +0700
