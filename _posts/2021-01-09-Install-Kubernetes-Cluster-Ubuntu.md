@@ -16,7 +16,7 @@ categories:
 
 Kubernetes merupakan tool orkestrasi kontainer yang berfungsi untuk melakukan deployment, scale up dan mengelola aplikasi berbasis kontainer. Disini saya akan share cara install kubernetes cluster pada Ubuntu Server 20.04 LTS menggunakan tiga server, dimana satu server berfungsi sebagai master node, dan kedua server berfungsi sebagai worker node. 
 
-Adapun teknologi yang digunakan adalah sebagai berikut: 
+Adapun topologi yang digunakan adalah sebagai berikut: 
 
 ![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/Install%20K8s/Kubernetes.png)
 
