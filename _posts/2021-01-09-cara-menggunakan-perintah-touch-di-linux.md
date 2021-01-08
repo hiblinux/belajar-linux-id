@@ -6,7 +6,7 @@ date: 2021-01-09 05:27 +0700
 layout: post
 featured: true
 author: nurhamim
-image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/touch.png'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/touch1.png'
 categories:
  - linux
 ---
