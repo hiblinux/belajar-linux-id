@@ -1,5 +1,5 @@
 ---
-title: Cara Install cPanel pada Centos 8
+title: Install WHM/cPanel di CentOS 8
 description: 'cPanel merupakan salah satu kontrol panel yang populer dan memudahkan user dalam mangelola server dan website'
 lang: id_ID
 date: 2021-01-11 03:44 +0700
