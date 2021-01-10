@@ -68,6 +68,8 @@ Segala sesuatu yang berbau desain seperti cover post dan lainnya, tersedia pada 
 8. Masukan commit sesuai dengan perubahan yang dilakukan.
 9. Saat terdapat action push, maka secara otomatis akan melakukan trigger ke CI/CD silakan ditunggu hingga proses selesai sebelum konten dapat terlihat di website.
 
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/Workflow-BLID.png)
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
