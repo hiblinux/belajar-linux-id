@@ -26,21 +26,22 @@ Pada kesempatan kali ini, saya akan menjelaskan cara menginstall cPanel pada Cen
 
 Sebelum instalasi dilakukan, ada beberapa hal yang perlu diperhatikan yaitu:
 
- 
+{:start="1"} 
 1. Mengubah nama Hostname menjadi nama FQDN contoh: (server.namadomainAnda.com)
 
   
-
+{:start="2"}
 2. Pastikan VPS/VM dalam keadaan Fresh OS, karena apabila terdapat Web Service yang berjalan pada saat instalasi dilakukan maka proses instalasi akan gagal. Web Service yang dimaksudkan seperti aplikasi Web Server (Apache,Nginx) Mail Server (Postfix,Dovecot)
 
   
-
+{:start="3"}
 3. Pastikan VPS/VM yang digunakan sudah memenuhi System Requirement cPanel yaitu:
 
 - Minimal 1GB RAM
 
 - Minimal 10 GB free disk
 
+{:start="4"}
 4. Pastikan juga OS yang digunakan sudah disupport Oleh cPanel, berikut OS Linux yang sudah support cPanel:
 
 - CentOS 7.x 64-bit
