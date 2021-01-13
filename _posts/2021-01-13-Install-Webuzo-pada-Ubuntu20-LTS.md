@@ -1,5 +1,5 @@
 ---
-title: Install Webuzo di Ubuntu 20 LTS
+title: Install Webuzo di Ubuntu 20.04 LTS
 description: 'Webuzo merupakan salah satu kontrol panel populer yang bersifat Open Source,  dengan beragam fitur yang tidak kalah dengan kontrol panel berbayar seperti Plesk Panel dan cPanel'
 lang: id_ID
 date: 2021-01-13 21:22 +0700
