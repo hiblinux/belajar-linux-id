@@ -2,14 +2,14 @@
 title: Install Webuzo di Ubuntu 20 LTS
 description: 'Webuzo merupakan salah satu kontrol panel populer yang bersifat Open Source,  dengan beragam fitur yang tidak kalah dengan kontrol panel berbayar seperti Plesk Panel dan cPanel'
 lang: id_ID
-date: 2021-01-13 21:20 +0700
+date: 2021-01-13 21:22 +0700
 layout: post
 featured: true
 author: amar
-image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/amar/cover-post-cpanel.png'
+image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/amar/cover-post-webuzo.png'
 categories:
  - kontrol-panel
- - cpanel
+ - webuzo
 ---
 
 [Belajar Linux ID](https://belajarlinux.id) - Webuzo merupakan salah satu kontrol panel populer yang bersifat Open Source,  dengan beragam fitur yang tidak kalah dengan kontrol panel berbayar seperti Plesk Panel dan cPanel.
@@ -84,11 +84,8 @@ Untuk menginstall Webuzo,  Anda dapat menjalankan command sebagai berikut:
   
 
 ```bash
-
 wget -N http://files.webuzo.com/install.sh // Mendownload installer Webuzo
-
 chmod 0755 install.sh  // Merubah permission file installer agar dapat dieksekusi
-
 ./install.sh           // Meng-eksekusi installer Webuzo
 ```
   
