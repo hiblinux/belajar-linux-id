@@ -18,7 +18,7 @@ Pada dasarnya fungsi Webuzo sama dengan kontrol panel Plesk Panel dan cPanel. Na
 
 Namun walaupun Webuzo merupakan kontrol panel gratis, Anda bisa mendeploy aplikasi seperti CMS atau FrameWork dalam satu klik. Karena Webuzo memiliki fitur Softaculous yaitu salah satu aplikasi autoinstaller yang paling banyak digunakan.
 
-Pada kesempatan kali ini, saya akan menjelaskan cara menginstall Webuzo pada Ubuntu 20 LTS.
+Pada kesempatan kali ini, saya akan menjelaskan cara menginstall Webuzo pada Ubuntu 20.04 LTS.
 
 ## Persiapan sebelum Instalasi
 
