@@ -1,5 +1,5 @@
 ---
-title: Install CWP pada Centos7
+title: Install CWP pada Centos 7
 description: 'CWP atau centOS Web Panel merupakan salah satu kontrol panel populer yang bersifat Open Source dan dikhususkan untuk pengguna OS Centos'
 lang: id_ID
 date: 2021-01-20 03:49 +0700
