@@ -1,5 +1,5 @@
 ---
-title: Install HestiaCP Ubuntu 16 LTS
+title: Install HestiaCP Ubuntu 16.04 LTS
 description: 'HestiaCP adalah salah satu control panel yang masih tergolong baru dan HestiaCP dibuat dengan base/core VestaCP.  Dan 
 mempunyai beberapa fitur major yang ditingkatkan dari versi VestaCP'
 date: 2021-02-07 16:40 +0700
@@ -17,7 +17,7 @@ categories:
 
 Untuk melihat informasi fitur utama yang disediakan oleh HestiaCP, Anda bisa membuka tautan berikut [Fitur HestiaCP](https://docs.hestiacp.com/release_notes.html#)
 
-Pada kesempatan kali ini, saya akan menjelaskan cara menginstall HestiaCP pada sistem Operasi Ubuntu 16 LTS.
+Pada kesempatan kali ini, saya akan menjelaskan cara menginstall HestiaCP pada sistem Operasi Ubuntu 16.04 LTS.
 
 ## Persiapan sebelum Instalasi
 Sebelum instalasi dilakukan, ada beberapa hal yang perlu diperhatikan yaitu:
