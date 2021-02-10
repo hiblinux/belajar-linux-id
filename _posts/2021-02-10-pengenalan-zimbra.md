@@ -12,9 +12,7 @@ categories:
  - mail-server
 ---
 
-[Belajar Linux ID](https://belajarlinux.id) - Tutorial kali ini kita akan membahas tentang Mail Server Zimbra. 
-
-Mungkin kita sudah pernah mendengar tentang email seperti gmail, yahoo, yandex mail dan lain sebagainya. Nah kali ini kita akan mengenal lebih dekat tentang aplikasi untuk membuat email server yaitu Zimbra. 
+[Belajar Linux ID](https://belajarlinux.id) - Tutorial kali ini kita akan membahas tentang Mail Server Zimbra. Mungkin kita sudah pernah mendengar tentang email seperti gmail, yahoo, yandex mail dan lain sebagainya. Nah kali ini kita akan mengenal lebih dekat tentang aplikasi untuk membuat email server yaitu Zimbra. 
 
 ## Pengenalan Zimbra
 
