@@ -1,6 +1,6 @@
 ---
 title: Pengenalan Zimbra
-description: Tulis deskripsi postingan
+description: 'Zimbra adalah perangkat lunak open source (terbuka) untuk kolaborasi email yang sering digunakan untuk membangun sebuah mail server dan sangat terkemuka didunia.'
 lang: id_ID
 date: 2021-02-10 08:09 +0700
 layout: post
