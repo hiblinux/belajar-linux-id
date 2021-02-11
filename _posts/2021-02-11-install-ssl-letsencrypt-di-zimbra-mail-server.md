@@ -2,11 +2,11 @@
 title: Install SSL Letsencrypt di Zimbra Mail Server
 description: 'Jika pada tutorial sebelumnya kita telah mengetahui tentang apa itu Zimbra Mail Server dan cara instalasinya, maka pada tutorial kali ini kita akan memasang sertifikat SSL Letsencrypt (gratis) di Zimbra Mail Server'
 lang: id_ID
-date: 2021-01-11 11:59 +0700
+date: 2021-01-12 00:03 +0700
 layout: post
 featured: true
 author: nurhamim
-image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/install ssl.png
+image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/installssl.png
 categories:
  - Zimbra
  - mail-server
