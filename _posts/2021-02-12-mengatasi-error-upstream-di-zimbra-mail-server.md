@@ -1,8 +1,8 @@
 ---
-title: Mengatasi Error Upstream Zimbra Mail Server
+title: Mengatasi Error Upstream di Zimbra Mail Server
 description: 'Zimbra adalah perangkat lunak open source (terbuka) untuk kolaborasi email yang sering digunakan untuk membangun sebuah mail server dan sangat terkemuka didunia.'
 lang: id_ID
-date: 2021-02-12 17:37 +0700
+date: 2021-02-12 17:47 +0700
 layout: post
 featured: true
 author: nurhamim
