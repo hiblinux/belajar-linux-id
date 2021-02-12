@@ -48,11 +48,11 @@ createAccount blinux2@nurhamim.my.id 123456789 sn it2 'Departemen, IT 2' zimbraM
 
 **Keterangan:**
 
-*Account: blinux1@nurhamim.my.id*
-*Password: 123456789*
-*SN: it1*
-*displayName: 'Departemen, IT 1'*
-*zimbraMailHost: mail.nurhamim.my.id*
+- *Account: blinux1@nurhamim.my.id*
+- *Password: 123456789*
+- *SN: it1*
+- *displayName: 'Departemen, IT 1'*
+- *zimbraMailHost: mail.nurhamim.my.id*
 
 Jika sudah silakan simpan dan login ke user zimbra dan pindah ke direktori yang telah dibuat diatas
 
