@@ -17,8 +17,9 @@ categories:
 Untuk mengikuti tutorial ini pastikan Anda sudah melakukan instalasi Zimbra Mail Server. 
 
 *Baca juga:*
-*- [Pengenalan Zimbra](https://belajarlinux.id/pengenalan-zimbra/)*
-*- [Install Zimbra Mail Server di Ubuntu 18.04 LTS](https://belajarlinux.id/install-zimbra-di-ubuntu-18.04/)*
+
+- [Pengenalan Zimbra](https://belajarlinux.id/pengenalan-zimbra/)
+- [Install Zimbra Mail Server di Ubuntu 18.04 LTS](https://belajarlinux.id/install-zimbra-di-ubuntu-18.04/)
 
 SSL Letsencrypt disini menggunakan certbot, oleh karena itu mari install terlebih dahulu certbot, pada tutorial ini kami menggunakan sistem operasi Ubunut 18.04 LTS.
 
