@@ -7,7 +7,7 @@ layout: post
 featured: true
 author: Imron
 image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/imron/KB/Install%20Laravell/install-laravel.png
-categories: [ Laravel, Framework, Ubuntu ]
+categories: [ laravel, framework, ubuntu ]
 ---
 
 Laravel merupakan salah satu framework yang sering digunakan, laravel berbasis framework Symfony yang mengikuti pola arsitektur Model-View-Controller (MVC). 
