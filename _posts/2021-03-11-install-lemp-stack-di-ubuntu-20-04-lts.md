@@ -13,7 +13,7 @@ categories:
  - database
 ---
 
-[Belajar Linux ID](https://belajarlinux.id) - Pada tutorial kali ini kami akan membahas tentang LEMP stack di Ubuntu 20.04 LTS. LEMP stack sendiri sebuah akronis atau gabungan dari (Linux, Nginx (dibaca Engine-X), MariaDB/MySQL dan PHP) dimana sistem operasi yang digunakan Linux, dan web server yang dipakai Nginx, untuk database yang digunakan MariaDB/MySQL dan bahasa pemrograman yang digunakan PHP. 
+[Belajar Linux ID](https://belajarlinux.id) - Pada tutorial kali ini kami akan membahas tentang LEMP stack di Ubuntu 20.04 LTS. LEMP stack sendiri sebuah akronim atau gabungan dari (Linux, Nginx (dibaca Engine-X), MariaDB/MySQL dan PHP) dimana sistem operasi yang digunakan Linux, dan web server yang dipakai Nginx, untuk database yang digunakan MariaDB/MySQL dan bahasa pemrograman yang digunakan PHP. 
 
 Jika Anda memiliki website dinamis seperti CMS WordPress atau Framework Laravel, maka Anda membutuhkan semua service diatas.
 
