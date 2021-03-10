@@ -204,7 +204,7 @@ ubuntu@lemp-belajarlinux:~$ cd /usr/share/nginx/nextcloud/
 
 Jalankan perintah berikut untuk menambahkan indexes ke database nextcloud.
 
-```mysql
+```bash
 ubuntu@lemp-belajarlinux:/usr/share/nginx/nextcloud$ sudo -u www-data php occ db:add-missing-indices
 Check indices of the share table.
 Check indices of the filecache table.
