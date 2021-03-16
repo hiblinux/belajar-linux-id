@@ -10,6 +10,7 @@ image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/runcloud-db.png
 categories:
  - runcloud
  - ubuntu
+ - database
 ---
 
 [Belajar Linux ID](https://belajarlinux.id) - Jika pada tutorial sebelumnya kita sudah bisa membuat web app di runcloud, maka saat ini  kita akan belajar bagaimana membuat database di runcloud. 
