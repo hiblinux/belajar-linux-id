@@ -70,6 +70,15 @@ Segala sesuatu yang berbau desain seperti cover post dan lainnya, tersedia pada 
 
 ![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/hamim/Workflow-BLID.png)
 
+## Spesifikasi Server Belajar Linux ID
+
+```
+CPU : Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz (2vCPU)
+RAM : 4GB
+Disk : GB SSD
+Location : Indonesia
+```
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
