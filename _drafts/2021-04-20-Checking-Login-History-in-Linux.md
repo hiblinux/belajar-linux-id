@@ -1,5 +1,5 @@
 ---
-title: Checking Ligin History in Linux
+title: Checking Login History in Linux
 description: How to check login history in linux
 lang: id_ID
 date: 2021-04-20 19:27 +0700
