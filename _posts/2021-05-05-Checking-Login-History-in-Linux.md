@@ -2,7 +2,7 @@
 title: Checking Login History in Linux
 description: How to check login history in linux
 lang: id_ID
-date: 2021-05-05 10:29 +0700
+date: 2021-05-05 13:18 +0700
 layout: post
 featured: true
 author: leon
