@@ -75,7 +75,7 @@ Segala sesuatu yang berbau desain seperti cover post dan lainnya, tersedia pada 
 ```
 CPU : Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz (2vCPU)
 RAM : 4GB
-Disk : GB SSD
+Disk : 40GB SSD
 Location : Indonesia
 ```
 
