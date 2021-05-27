@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OUR TEAM
+title: Our Team
 permalink: /author
 comments: false
 ---
@@ -18,7 +18,7 @@ comments: false
 <!-- Team -->
 <section id="team" class="pb-5">
     <div class="container">
-        <!-- <h5 class="section-title h1">OUR TEAM</h5> -->
+        <h5 class="section-title h1">OUR TEAM</h5>
         <div class="row">
             <!-- Team member -->
             <div class="col-xs-12 col-sm-6 col-md-4">
