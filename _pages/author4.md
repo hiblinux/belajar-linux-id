@@ -14,7 +14,7 @@ comments: false
   <link href="/assets/css/author3.css" rel="stylesheet">
 </head>
 <body>
-<div class="py-5 team3 bg-light">
+<div class="py-5 team3">
   <div class="container">
     <div class="row justify-content-center mb-4">
       <div class="col-md-7 text-center">
