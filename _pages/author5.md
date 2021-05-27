@@ -22,7 +22,6 @@ comments: false
 <h4>Profile Author</h4>
 
 <section id="team" class="pb-5">
-    <div class="container">
         <!-- <h5 class="section-title h1">OUR TEAM</h5> -->
         <div class="row">
             <!-- Team member -->
@@ -217,8 +216,6 @@ comments: false
                 </div>
             </div>
             <!-- ./Team member -->
-
-        </div>
     </div>
 </section>
 <!-- Team -->
