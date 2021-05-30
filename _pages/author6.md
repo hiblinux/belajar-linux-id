@@ -20,10 +20,6 @@ comments: false
     <div class="row">
       <!-- column  -->
       <div class="col-lg-3 mb-4">
-      </div>
-      <!-- column  -->
-      <!-- column  -->
-      <div class="col-lg-3 mb-4">
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
