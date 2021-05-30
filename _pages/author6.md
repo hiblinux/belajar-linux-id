@@ -19,7 +19,7 @@ comments: false
 <div class="py-5 team4">
     <div class="row">
       <!-- column  -->
-      <div class="col-lg mb-4">
+      <div class="col-lg-3 mb-4">
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
@@ -43,7 +43,7 @@ comments: false
       </div>
       <!-- column  -->
       <!-- column  -->
-      <div class="col-lg mb-4">
+      <div class="col-lg-3 mb-4">
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
@@ -67,7 +67,31 @@ comments: false
       </div>
       <!-- column  -->
       <!-- column  -->
-      <div class="col-lg mb-4">
+      <div class="col-lg-3 mb-4">
+        <!-- Row -->
+        <div class="row">
+          <div class="col-md-12">
+            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t2.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
+          </div>
+          <div class="col-md-12 text-center">
+            <div class="pt-2">
+              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
+              <h6 class="subtitle mb-3">Property Specialist</h6>
+              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
+              <ul class="list-inline">
+                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
+                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
+                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
+                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <!-- Row -->
+      </div>
+      <!-- column  -->
+      <!-- column  -->
+      <div class="col-lg-3 mb-4">
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
@@ -89,57 +113,6 @@ comments: false
         </div>
         <!-- Row -->
       </div>
-    </div>
-    <div class="row">
-      <!-- column  -->
-      <div class="col-lg mb-4">
-        <!-- Row -->
-        <div class="row">
-          <div class="col-md-12">
-            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t2.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
-          </div>
-          <div class="col-md-12 text-center">
-            <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle mb-3">Property Specialist</h6>
-              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
-              <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <!-- Row -->
-      </div>
-      <!-- column  -->
-      <!-- column  -->
-      <div class="col-lg mb-4">
-        <!-- Row -->
-        <div class="row">
-          <div class="col-md-12">
-            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t3.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
-          </div>
-          <div class="col-md-12 text-center">
-            <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle mb-3">Property Specialist</h6>
-              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
-              <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <!-- Row -->
-      </div>
-      <!-- column  -->
-      <!-- column  -->
     </div>
 </div>
 <!-- Team -->
