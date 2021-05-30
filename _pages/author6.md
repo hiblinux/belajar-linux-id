@@ -43,7 +43,7 @@ comments: false
       </div>
       <!-- column  -->
       <!-- column  -->
-      <div class="col-lg-3 mb-4">
+      <div class="col-lg mb-4">
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
@@ -67,7 +67,7 @@ comments: false
       </div>
       <!-- column  -->
       <!-- column  -->
-      <div class="col-lg-3 mb-4">
+      <div class="col-lg mb-4">
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
