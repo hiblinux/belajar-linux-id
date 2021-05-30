@@ -19,7 +19,7 @@ comments: false
 <div class="py-5 team4">
     <div class="row">
       <!-- column  -->
-      <div class="col-lg-3 mb-4">
+      <div class="col-lg mb-4">
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
