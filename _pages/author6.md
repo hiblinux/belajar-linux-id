@@ -19,13 +19,13 @@ comments: false
 <div class="py-5 team4">
     <div class="row d-flex justify-content-center">
       <!-- column  -->
-      <div class="col-lg-3 mb-4">
+      <div class="col-md-3 mb-4">
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
             <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t2.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
-          <div class="col-md-12 text-center">
+          <div class="col-md-12 text-justify">
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
               <h6 class="subtitle mb-3">Property Specialist</h6>
@@ -43,13 +43,13 @@ comments: false
       </div>
       <!-- column  -->
       <!-- column  -->
-      <div class="col-lg-3 mb-4">
+      <div class="col-md-3 mb-4">
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
             <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t3.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
-          <div class="col-md-12 text-center">
+          <div class="col-md-12 text-justify">
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
               <h6 class="subtitle mb-3">Property Specialist</h6>
@@ -67,13 +67,13 @@ comments: false
       </div>
       <!-- column  -->
       <!-- column  -->
-      <div class="col-lg-3 mb-4">
+      <div class="col-md-3 mb-4">
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
             <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t2.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
-          <div class="col-md-12 text-center">
+          <div class="col-md-12 text-justify">
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
               <h6 class="subtitle mb-3">Property Specialist</h6>
@@ -93,13 +93,13 @@ comments: false
     </div>
     <div class="row d-flex justify-content-center">
       <!-- column  -->
-      <div class="col-lg-3 mb-4">
+      <div class="col-md-3 mb-4">
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
             <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t2.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
-          <div class="col-md-12 text-center">
+          <div class="col-md-12 text-justify">
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
               <h6 class="subtitle mb-3">Property Specialist</h6>
@@ -117,13 +117,13 @@ comments: false
       </div>
       <!-- column  -->
       <!-- column  -->
-      <div class="col-lg-3 mb-4">
+      <div class="col-md-3 mb-4">
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
             <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t3.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
-          <div class="col-md-12 text-center">
+          <div class="col-md-12 text-justify">
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
               <h6 class="subtitle mb-3">Property Specialist</h6>
