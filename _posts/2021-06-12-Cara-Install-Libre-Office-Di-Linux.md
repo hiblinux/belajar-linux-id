@@ -1,5 +1,5 @@
 ---
-title: Cara Menginstall dan Update LibreOffice di GNU/Linux
+title: Cara Download dan Update LibreOffice di GNU/Linux
 description: 'LibreOffice adalah salah satu office suite open source di GNU/Linux'
 lang: id_ID
 date: 2021-06-12 22:10 +0700
@@ -18,7 +18,7 @@ Program ini menyediakan Writer untuk menulis dokumen, Calc untuk spreadsheet, Im
 
 Kabar baiknya, anda bisa mendapatkannya secara gratis dan tersedia di Windows, Linux, FreeBSD, dan MacOS.
 
-## Bagaimana cara Mendownload LibreOffice di GNU/Linux?
+## Bagaimana cara download LibreOffice di GNU/Linux?
 Cara mendownload LibreOffice di GNU Linux sangat mudah lewat repository. Disini saya akan mempraktekan di distro Debian GNU/Linux.
 
 ```bash
