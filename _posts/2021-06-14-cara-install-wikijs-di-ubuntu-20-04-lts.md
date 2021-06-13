@@ -1,5 +1,5 @@
 ---
-title: Cara Install Woki JS di Ubuntu 20.04 LTS
+title: Cara Install Wiki.js di Ubuntu 20.04 LTS
 description: 'Dibangun di atas Git, Node.js, dan Markdown, Wiki.js adalah aplikasi wiki open source yang andal yang memungkinkan Anda menulis dan mengelola konten dalam format Markdown (.md) yang mudah digunakan baik untuk orang awam sekalipun'
 lang: id_ID
 date: 2021-06-14 03:53 +0700
