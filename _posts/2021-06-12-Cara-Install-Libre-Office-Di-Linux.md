@@ -29,7 +29,7 @@ Terkadang versi repository tidak secepat versi website, apalagi distro dengan st
 ```bash
 wget https://download.documentfoundation.org/libreoffice/stable/7.1.3/deb/x86_64/LibreOffice_7.1.3_Linux_x86-64_deb.tar.gz
 tar -zxf LibreOffice_7.1.3.Linux_x86-64_deb.tar.gz
-cd LibreOffice_7.1.3.Linux_x86-64_deb/DEBS/
+cd LibreOffice_7.1.3.2.Linux_x86-64_deb/DEBS/
 sudo dpkg -i *.deb
 ```
 
