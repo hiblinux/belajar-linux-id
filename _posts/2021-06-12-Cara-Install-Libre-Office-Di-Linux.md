@@ -12,7 +12,7 @@ categories:
 ---
 
 ## Apa Itu LibreOffice?
-LibreOffice adalah salah satu office suite open source terbaik di GNU/Linux. Distro - distro Linux Mainstream umumnya menjadikan LibreOffice sebagai default office suite.
+[Belajar Linux ID](https://belajarlinux.id) - LibreOffice adalah salah satu office suite open source terbaik di GNU/Linux. Distro - distro Linux Mainstream umumnya menjadikan LibreOffice sebagai default office suite.
 
 Program ini menyediakan Writer untuk menulis dokumen, Calc untuk spreadsheet, Impress untuk presentasi, Math untuk formula, dan Base untuk Database. Bisa dibilang LibreOffice sangat powerfull sebagai alternatif Microsoft Office.
 
