@@ -50,3 +50,7 @@ Jika kita melakukan kesalahan dan ingin menghapus patch, dapat diatasi dengan in
 cd st-0.8.4
 patch -R < /path/to/patch
 ```
+
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/radhitya/2021-06-13_21-48-min.png)
+
+Beginilah antarmuka Suckless terminal, sangat minimalis bukan?
