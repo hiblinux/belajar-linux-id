@@ -24,7 +24,7 @@ Cara mendownload LibreOffice di GNU Linux sangat mudah lewat repository. Disini 
 ```bash
 sudo apt install libreoffice -y
 ```
-Terkadang versi repository tidak secepat versi website, apalagi pengguna distro stabil GNU/Linux. Alamatnya harus mendownload secara manual.
+Terkadang versi repository tidak secepat versi website, apalagi distro dengan stabilitas tinggi seperti Debian GNU/Linux. Alamatnya harus lewat websitenya langsung. Cara ini bersifat opsional.
 
 ```bash
 wget https://download.documentfoundation.org/libreoffice/stable/7.1.3/deb/x86_64/LibreOffice_7.1.3_Linux_x86-64_deb.tar.gz
