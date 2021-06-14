@@ -6,11 +6,12 @@ date: 2021-06-13 21:01 +0700
 layout: post
 featured: true
 author: Radhitya
-image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/radhitya/photo_2021-06-13_21-36-19.jpg'
+image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/radhitya/photo_2021-06-14_11-25-55.jpg
 categories:
 - suckless
 - st
 - linux
+- desktop
 ---
 
 [Belajar Linux ID](https://belajarlinux.id) - ST atau yang biasa disebut Suckless Terminal, adalah terminal buatan komunitas Suckless. Terminal ini berbeda dari yang lain dikarenakan minimalisnya.
