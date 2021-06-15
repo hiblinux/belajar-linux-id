@@ -12,7 +12,7 @@ categories:
 - wpa_supplicant
 ---
 
-Bagi pengguna yang suka install distro GNU/Linux secara netinstall alias manual semua, pasti gak asing dengan program wpa_supplicant. wpa_supplicant adalah daemon jaringan untuk mengelola koneksi yang berjalan di background.
+[Belajar Linux ID](https://belajarlinux.id) - Bagi pengguna yang suka install distro GNU/Linux secara netinstall alias manual semua, pasti gak asing dengan program wpa_supplicant. wpa_supplicant adalah daemon jaringan untuk mengelola koneksi yang berjalan di background.
 
 ## Cara Connect Wifi dengan WPA_Supplicant
 wpa_Supplicant punya 2 cara, yaitu menggunakan wpa_cli atau wpa_passphrase. Tetapi saya lebih memilih wpa_cli karena.
