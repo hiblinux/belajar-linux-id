@@ -17,10 +17,11 @@ Etherpad adalah editor dokumen online yang dapat berkolaborasi antar user lain s
 ## Cara Install Etherpad di Debian GNU/Linux
 Instalasi Etherpad sangat mudah dan cepat. Kali ini kita akan praktek install etherpad di Debian GNU/Linux. Proses pemasangan dilakukan sebagai **root**.
 
+Kita akan download file filenya yang dibutuhkan
 ```bash
 apt install nodejs libssl-dev pkg-config git gcc g++ make build-essential gnupg2 -y
 ```
-Etherpad menggunakan mysql guna menyimpan data.
+Etherpad menggunakan mysql guna menyimpan data, buka mysql.
 ```bash
 mysql
 ```
@@ -93,7 +94,7 @@ Selanjutnya keluar.
 ```bash
 exit
 ```
-Kita akan membuat service systemd untuk systemd
+Kita akan membuat service systemd untuk etherpad
 ```bash
 vi /etc/systemd/system/etherpad.service
 ```
