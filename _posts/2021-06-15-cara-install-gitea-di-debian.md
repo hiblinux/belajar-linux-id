@@ -6,7 +6,7 @@ date: 2021-06-15 08:15 +0700
 layout: post
 featured: true
 author: Radhitya
-image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/radhitya/photo_2021-06-15_08-22-29.jpg
+image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/radhitya/cover-gitea.png
 categories:
 - gitea
 - internet independen
