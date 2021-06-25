@@ -3,11 +3,12 @@
 1. Buat akun GitLab pada halaman [GitLab](https://gitlab.com/users/sign_up)
 2. Memiliki teks editor seperti VSCode, Sublime, atau Atom.
 3. Install jekyll pada laptop dengan merujuk ke panduan [ini](https://jekyllrb.com/docs/installation/ubuntu/).
-4. Kontak Author Belajar Linux ID untuk akses ke repo ini.
-5. Konfigurasi SSH Key pada repo ini, merujuk ke artikel [Konfigurasi SSH Key Pada Gitlab](https://ngulik-addict.cyou/post/Konfigurasi-SSH-Key-Pada-Gitlab.html)
-6. Lalu clone repo menggunakan opsi SSH : https://gitlab.com/hiblinux/belajar-linux-id
-7. Jalankan command `./inisiate.sh` 
-8. Buka file `_config.yml` lalu tambahkan author sesuai dengan data dirimu, contoh:
+4. Kalian juga bisa menggunakan image docker untuk melakukan generate file HTML pada folder `_site` dengan command : `$ docker run --rm -v $PWD:/usr/src/app blinuxid/jekyll-bundle:1.0 sh -c "jekyll build"`
+5. Kontak Author Belajar Linux ID untuk akses ke repo ini.
+6. Konfigurasi SSH Key pada repo ini, merujuk ke artikel [Konfigurasi SSH Key Pada Gitlab](https://ngulik-addict.cyou/post/Konfigurasi-SSH-Key-Pada-Gitlab.html)
+7. Lalu clone repo menggunakan opsi SSH : https://gitlab.com/hiblinux/belajar-linux-id
+8. Jalankan command `./inisiate.sh` 
+9. Buka file `_config.yml` lalu tambahkan author sesuai dengan data dirimu, contoh:
 
 ```
 authors:
@@ -21,8 +22,8 @@ authors:
     description: "Seorang pemuda yang sangat tertarik untuk mempelajari dunia IT terutama bidang Cloud Computing Sys/Dev/Ops. Bio lengkap saya dapat dilihat pada https://leonsastra.my.id/" //Deskripsikan dirimu disini
 ```
 
-9. Jika avatar menggunakan gravatar maka kamu perlu membuat akun pada wordpress.org terlebih dahulu.
-10. Mulai berkontribusi ~
+10. Jika avatar menggunakan gravatar maka kamu perlu membuat akun pada wordpress.org terlebih dahulu.
+11. Mulai berkontribusi ~
 
 ## Catatan Penting
 
