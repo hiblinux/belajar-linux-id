@@ -1,5 +1,5 @@
 ---
-title: Cara Install Parabola GNU/Linux-libre
+title: Cara Install Parabola GNU/Linux-libre OpenRC
 description: Parabola GNU/Linux-libre adalah distro yang diendorse oleh GNU
 lang: id_ID
 date: 2021-06-26 11:27 +0700
@@ -8,7 +8,7 @@ featured: true
 author: Radhitya
 image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/radhitya/photo_2021-06-26_11-25-28.jpg
 categories:
-- Parabola Linux
+- parabola linux
 ---
 
 ## Apa Itu Parabola GNU/Linux-libre
@@ -31,7 +31,7 @@ Anda bisa membaca <a href="https://wiki.parabola.nu/WiFi_devices_known_to_work_w
 Keistimewaan Arch adalah AUR, sebuah repositori yang berisi ribuan program. Sayangnya Parabola GNU/Linux-libre tidak mendukung ini, sebaliknya disini menggunakan PCR alias Parabola Community Repo.
 
 Jika anda masih bersikeras, silahkan gunakan AUR. Pastikan package tidak bermasalah dengan **your freedom**.
-## Cara Install Parabola GNU/Linux-libre
+## Cara Install Parabola GNU/Linux-libre OpenRC
 Pemasangan distro ini sangat mudah dan persis seperti *arch-based* umumnya. Waktu instalasi tergantung koneksi internet.
 
 Saya anggap anda sudah punya ISO Netinstall versi OpenRC. Jika belum, silahkan download di <a href="https://parabola.nu">Parabola GNU/Linux-libre</a>
