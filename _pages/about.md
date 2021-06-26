@@ -18,6 +18,7 @@ comments: false
   <li>Leonardus Kristaris Sastra [ <a href="https://leonsastra.my.id/">https://leonsastra.my.id</a> ]</li>
   <li>Imron Rosyadi [ <a href="https://imron.my.id">https://imron.my.id</a> ]</li>
   <li>Amar Rafly [ <a href="https://zeus.my.id">https://zeus.my.id</a> ]</li>
+  <li>Alif Radhitya [ <a href="https://radhitya.net">Radhitya</a> ] </li>
 </ul>
 
 <!-- <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p> -->
