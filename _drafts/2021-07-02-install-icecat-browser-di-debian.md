@@ -12,7 +12,11 @@ categories:
 ---
 
 ## Apa Itu GNU IceCat
+GNU IceCat adalah peramban firefox versi GNU yang berisi sepenuhnya free software. Alasan mereka membuat ini karena Mozilla Firefox merekomendasikan non-free software sebagai plugin dan addons.
 
+Privasi lebih diperketat disini, mereka menambahkan fitur, seperti LibreJS, Https-Everywhere, SpyBlock, AboutIceCat, dan Fingerprinting countermeasures.
+
+Jadi browser ini cocok jika anda ingin menjaga privasi agar tetap aman.
 ## Cara Install GNU IceCat di Debian GNU/Linux
 
 ### 1. Website GNU
