@@ -2,7 +2,7 @@
 title: Cara Install Openbox Window Manager di Debian GNU/Linux 
 description: Openbox adalah stacking window manager.
 lang: id_ID
-date: yyyy-mm-dd HH:MM +0700
+date: 2021-07-09 17:45 +0700
 layout: post
 featured: true
 author: Radhitya
