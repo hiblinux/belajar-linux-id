@@ -2,10 +2,10 @@
 title: "Docker: Instalasi Docker Compose"
 description: Pada kali ini **Belajar Linux ID** ingin berbagi tutorial tentang **Instalasi Docker Compose** (Ubuntu, CentOS, Debian). Apabila kalian belum mengetahui apa itu **Docker**, maka kalian perlu membaca kembali artikel kami sebelumnya
 lang: id_ID
-date: yyyy-mm-dd HH:MM +0700
+date: 2021-07-17 22:15 +0700
 layout: post
 featured: true
-author: Nama-Mu
+author: leon
 image: http://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/cover-install-docker-compose.png
 categories:
   - docker
