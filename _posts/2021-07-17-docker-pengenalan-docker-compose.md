@@ -1,6 +1,6 @@
 ---
 title: "Docker: Pengenalan Docker Compose"
-description: Pada kali ini **Belajar Linux ID** ingin berbagi tutorial tentang **Pengenalan Docker Compose** (Ubuntu, CentOS, Debian). Apabila kalian belum mengetahui apa itu **Docker**, maka kalian perlu membaca kembali artikel kami sebelumnya:
+description: Pada kali ini **Belajar Linux ID** ingin berbagi tutorial tentang **Pengenalan Docker Compose** (Ubuntu, CentOS, Debian).
 lang: id_ID
 date: 2021-07-17 21:45 +0700
 layout: post
