@@ -28,10 +28,10 @@ Pada pembahasan sebelumnya kita sudah belajar tentang **Pengenalan Docker Compos
 
 ## Sebelum Install
 
-{:start="1")
 1. Pastikan pada mesin sudah terinstall Docker. ( Baca: [Docker: Cara Instalasi Docker Pada Linux](https://belajarlinux.id/docker-installasi-docker-pada-linux/) )
 
 {:start="2"}
+
 2. Koneksi internet stabil untuk menyelesaikan artikel ini.
 
 ## Install Docker Compose 
