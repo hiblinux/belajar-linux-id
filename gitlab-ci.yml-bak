@@ -37,7 +37,7 @@ build_env:
 #  allow_failure: true
 #  tags:
 #    - alpine
-
+#
 start_deploy:
   stage: deploy
   image: alpine:3.11
