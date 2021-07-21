@@ -12,3 +12,31 @@ categories:
 - dwmblocks
 - dwm
 ---
+
+## Apa Itu dwmblocks
+Ada banyak monitor bar yang digunakan untuk dwm, salah satunya dwmblocks. dwmblocks adalah status bar yang ditulis dengan bahasa C. Menurut saya, monitor bar ini paling mudah digunakan dan mirip dengan i3blocks. 
+## Cara Install dwmblocks
+Kita akan melakukan git clone, pastikan package **git** sudah terpasang. Jika belum, lakukan perintah ini.
+```bash
+# apt install git
+```
+Lalu clone repository dwmblocks dengan cara berikut.
+```bash
+$ git clone https://github.com/torrinfail/dwmblocks.git
+```
+Jika sudah change directory ke dwmblocks.
+```bash
+$ cd dwmblocks
+```
+Untuk install dwmblocks, kita harus compile source code dengan command di bawah
+```bash
+$ sudo make install
+```
+Nantinya akan ada proses seperti di bawah
+```bash
+cc  dwmblocks.c -lX11 -o dwmblocks
+mkdir -p /usr/local/bin
+install -m 0755 dwmblocks /usr/local/bin/dwmblocks
+```
+Jika tidak ada masalah, dwmblocks berhasil terpasang.
+## Cara Konfigurasi dwmblocks
