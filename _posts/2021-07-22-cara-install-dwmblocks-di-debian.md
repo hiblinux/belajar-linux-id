@@ -2,11 +2,11 @@
 title: Cara Install dwmblocks di Debian GNU/Linux
 description: dwmblocks adalah status monitor bar untuk dwm
 lang: id_ID
-date: yyyy-mm-dd HH:MM +0700
+date: 2021-07-22 14:12 +0700
 layout: post
 featured: true
 author: Radhitya
-image: https://s3-kita-com/gambar.png
+image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/radhitya/photo_2021-07-22_14-11-44.jpg
 categories:
 - suckless
 - dwmblocks
@@ -39,4 +39,3 @@ mkdir -p /usr/local/bin
 install -m 0755 dwmblocks /usr/local/bin/dwmblocks
 ```
 Jika tidak ada masalah, dwmblocks berhasil terpasang.
-## Cara Konfigurasi dwmblocks
