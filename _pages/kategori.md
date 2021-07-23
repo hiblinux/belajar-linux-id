@@ -11,11 +11,11 @@ permalink: /kategori
     </h2>
   </div>
 </section>
-<section class="blog">
+<section class="">
     {% for cat in site.categories %}
   <nav class="flex flex-wrap items-center">
         {% for inner in cat%} {% if forloop.first == true %}
-          <a class="p-2" href="/categories/{{cat[0]}}">{{cat[0]}}</a></span>
+          <a class="p-2" href="/categories/{{cat[0]}}">{{cat[0]}}</a>
         {% endif %} {% endfor %}
   </nav>
       {% endfor %}
