@@ -4,13 +4,13 @@ title: Categories
 permalink: /categories
 ---
 
-<section class="small-intro">
+<!-- <section class="small-intro">
   <div class="container">
     <h2>
       All categories
     </h2>
   </div>
-</section>
+</section> -->
 <section class="">
   <nav class="flex flex-wrap items-center">
     {% for cat in site.categories %}
