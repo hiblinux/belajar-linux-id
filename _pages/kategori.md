@@ -15,7 +15,7 @@ permalink: /categories
   <nav class="flex flex-wrap items-center">
     {% for cat in site.categories %}
         {% for inner in cat%} {% if forloop.first == true %}
-          <a class="p-2 badge badge-pill badge-dark" href="/categories/{{cat[0]}}">{{cat[0]}} ({{site.categories[inner].size}})</a>
+          <a class="p-4 badge badge-pill badge-dark" href="/categories/{{cat[0]}}">{{cat[0]}} ({{site.categories[inner].size}})</a>
         {% endif %} {% endfor %}
     {% endfor %}
   </nav>
