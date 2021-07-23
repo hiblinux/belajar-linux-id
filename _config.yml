@@ -58,12 +58,12 @@ plugins:
   - jekyll-archives
     
 # Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: categories
-  permalinks:
-    category: '/category/:name/'
+# jekyll-archives:
+#   enabled:
+#     - categories
+#   layout: categories
+#   permalinks:
+#     category: '/category/:name/'
     
 # Pagination 
 paginate: 6

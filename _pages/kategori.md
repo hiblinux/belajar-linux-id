@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Kategori
-permalink: /kategori
+title: Categories
+permalink: /categories
 ---
 
 <section class="small-intro">
@@ -16,6 +16,7 @@ permalink: /kategori
     {% for cat in site.categories %}
         {% for inner in cat%} {% if forloop.first == true %}
           <a class="p-2 text-dark" href="/categories/{{cat[0]}}">{{cat[0]}} ({{site.categories[inner].size}})</a>
-      {% endfor %}
+        {% endif %} {% endfor %}
+    {% endfor %}
   </nav>
 </section>
