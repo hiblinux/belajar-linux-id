@@ -3,13 +3,12 @@ layout: default
 ---
 
 <div class="container">
-    <div style="position: relative;width: 100%;max-width: 780px;max-width: 0 auto;padding-top: 2rem;">
+    <div style="width: 100%;margin: 0 auto;padding-top: 2rem;">
         <h2>
             {{page.category | capitalize}}
         </h2>
         {% for post in site.posts %} {% if post.categories contains page.category %}
-        <article class="hvr-underline-from-center"><a class="text-body hvr-underline-from-center"
-                href="{{ post.url }}">{{
+        <article class="mb-2"><a class="text-body hvr-underline-from-center" href="{{ post.url }}">{{
                 post.title }}</a><span style="float: right;text-align: right; color: #a9a9b3;" class="text-secondary">{{
                 post.date | date_to_string
                 }}</span></article>
