@@ -62,7 +62,7 @@ docker-compose --version
 docker-compose version 1.29.2, build 5becea4c
 ```
 
-![](http://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/docker-compose1.png)
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/docker-compose1.png)
 
 ## Selesai
 Selamat mencoba dan semoga berhasil, apabila terdapat pertanyaan dapat langsung di email ke [Kami](mailto:tech@belajarlinux.id).
