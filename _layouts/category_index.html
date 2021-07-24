@@ -4,9 +4,10 @@ layout: default
 
 <div class="container">
     <div style="width: 100%;margin: 0 auto;padding-top: 2rem;">
-        <h2 class="btn btn-dark btn-lg">
+        <h2 class="font-weight-bold">
             {{page.category | capitalize}}
         </h2>
+        <div class="row justify-content-between"></div>
         {% for post in site.posts %} {% if post.categories contains page.category %}
         <article class="mb-2"><a class="text-body hvr-underline-from-center" href="{{ post.url }}">{{
                 post.title }}</a><span style="float: right;text-align: right; color: #a9a9b3;" class="text-secondary">{{
