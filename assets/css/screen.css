@@ -897,34 +897,3 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
-
-.post-warp {
-    position: relative;
-    width: 100%;
-    max-width: 780px;
-    margin: 0 auto;
-    padding-top: 2rem;
-}
-
-article {
-    display: block;
-}
-
-.archive-item {
-    margin-left: 2rem;
-}
-
-.archive-item-link {
-    display: inline-block;
-    text-decoration: none;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    max-width: 95%;
-}
-
-.archive-item-date {
-    float: right;
-    text-align: right;
-    color: #a9a9b3;
-}
