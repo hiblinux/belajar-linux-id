@@ -2,6 +2,19 @@
 layout: default
 ---
 
+<div class="container">
+    <div class="post-wrap archive">
+        <h2>
+            {{page.category | capitalize}}
+        </h2>
+        {% for post in site.posts %} {% if post.categories contains page.category %}
+        <article class="archive-item-link hvr-underline-from-center"><a class="archive-item-link"
+                href="{{ post.url }}">{{ post.title }}</a><span class="archive-item-date">{{ post.date | date_to_string
+                }}</span></article>
+        {% endif %} {% endfor %}
+    </div>
+</div>
+<!-- 
 <section class="small-intro">
     <div class="container">
         <h2>
@@ -20,4 +33,4 @@ layout: default
         </div>
         {% endif %} {% endfor %}
     </div>
-</section>
+</section> -->
