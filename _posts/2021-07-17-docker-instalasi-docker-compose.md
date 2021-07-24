@@ -6,7 +6,7 @@ date: 2021-07-17 22:15 +0700
 layout: post
 featured: true
 author: leon
-image: http://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/cover-install-docker-compose.png
+image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/cover-install-docker-compose.png
 categories:
   - docker
   - docker-compose
