@@ -3,13 +3,27 @@
 1. Buat akun GitLab pada halaman [GitLab](https://gitlab.com/users/sign_up)
 2. Memiliki teks editor seperti VSCode, Sublime, atau Atom.
 3. Install jekyll pada laptop dengan merujuk ke panduan [ini](https://jekyllrb.com/docs/installation/ubuntu/).
-4. Kontak Author Belajar Linux ID untuk akses ke repo ini.
-5. Konfigurasi SSH Key pada repo ini, merujuk ke artikel [Konfigurasi SSH Key Pada Gitlab](https://ngulik-addict.cyou/post/Konfigurasi-SSH-Key-Pada-Gitlab.html)
-6. Lalu clone repo menggunakan opsi SSH : https://gitlab.com/hiblinux/belajar-linux-id
-7. Jalankan command `./inisiate.sh` 
-8. Buka file `_config.yml` lalu tambahkan author sesuai dengan data dirimu.
-9. Jika avatar menggunakan gravatar maka kamu perlu membuat akun pada wordpress.org terlebih dahulu.
-10. Mulai berkontribusi ~
+4. Kalian juga bisa menggunakan image docker untuk melakukan generate file HTML pada folder `_site` dengan command : `$ docker run --rm -v $PWD:/usr/src/app blinuxid/jekyll-bundle:1.0 sh -c "jekyll build"`
+5. Kontak Author Belajar Linux ID untuk akses ke repo ini.
+6. Konfigurasi SSH Key pada repo ini, merujuk ke artikel [Konfigurasi SSH Key Pada Gitlab](https://ngulik-addict.cyou/post/Konfigurasi-SSH-Key-Pada-Gitlab.html)
+7. Lalu clone repo menggunakan opsi SSH : https://gitlab.com/hiblinux/belajar-linux-id
+8. Jalankan command `./inisiate.sh` 
+9. Buka file `_config.yml` lalu tambahkan author sesuai dengan data dirimu, contoh:
+
+```
+authors:
+  leon: //Nantinya digunakan pada markdown header pada setiap posting.
+    name: leonachild@gmail.com //Email Anda
+    display_name: Leon Sastra //Nama yang akan ditampilkan pada postinganmu
+    gravatar: dd84917a411ef717c000da8f846050df //Jika memiliki akun gravatar, bisa tempel ID disini.
+    email: leonachild@gmail.com
+    web: https://leonsastra.my.id
+    twitter: https://www.instagram.com/yonzleon_aw/ //Sebagai hyperlink pada tombol follow
+    description: "Seorang pemuda yang sangat tertarik untuk mempelajari dunia IT terutama bidang Cloud Computing Sys/Dev/Ops. Bio lengkap saya dapat dilihat pada https://leonsastra.my.id/" //Deskripsikan dirimu disini
+```
+
+10. Jika avatar menggunakan gravatar maka kamu perlu membuat akun pada wordpress.org terlebih dahulu.
+11. Mulai berkontribusi ~
 
 ## Catatan Penting
 
@@ -56,6 +70,7 @@ Segala sesuatu yang berbau desain seperti cover post dan lainnya, tersedia pada 
 - `new-post` : Buat nama file draft yang akan dibuat dengan menggunakan command ini, contoh: How-To-Create-a-Post (gunakan '-' sebagai pemisah). Catatan : setelah draft selesai perlu dipindahkan ke folder `_posts`
 - `push` : Apabila post atau perubahan telah selesai, silakan jalankan command ini beserta pesan commit, usahakan tiap pesan commit jelas sesuai dengan action yang dilakukan.
 - `moving` : Digunakan untuk memindahkan file draft yang berada pada direktori `_drafts` ke folder `_posts`, perintah ini akan menyesuaikan tanggal pada nama file dan header agar sesuai dengan tanggal saat ini.
+- `S3 Storage` : Digunakan untuk melakukan upload gambar seperti cover posting, atau dokumentasi pada posting. Tool ini bisa diakses pada web [Uploader](https://belajarlinux.my.id/uploader/) . **Catatan:** Pastikan nama file yang akan diupload tidak mengandung spasi.
 
 ## Alur Penulisan
 
@@ -75,7 +90,7 @@ Segala sesuatu yang berbau desain seperti cover post dan lainnya, tersedia pada 
 ```
 CPU : Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz (2vCPU)
 RAM : 4GB
-Disk : GB SSD
+Disk : 40GB SSD
 Location : Indonesia
 ```
 
