@@ -47,7 +47,7 @@ start_deploy:
     - eval $(ssh-agent -s)
     - /bin/bash -c 'ssh-add <(echo "$PRIVKEY")'
   script:
-    - scp -P $DEPLOY_PORT -r -o StrictHostKeyChecking=no _site $DEPLOY_USER@$DEPLOY_HOST:/home/rendy/public_html
+    - scp -P $DEPLOY_PORT -r -o StrictHostKeyChecking=no _site $DEPLOY_USER@$DEPLOY_HOST:/var/www/workspace
   dependencies:
     - build_env
   only:
