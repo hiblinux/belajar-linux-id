@@ -2,11 +2,11 @@
 title: Cara Install Balena Etcher di Debian GNU/Linux
 description: Balena Etcher adalah program burning iso terbaik menurut saya
 lang: id_ID
-date: yyyy-mm-dd HH:MM +0700
+date: 2021-07-25 10:55 +0700
 layout: post
 featured: true
-author: Nama-Mu
-image: https://s3-kita-com/gambar.png
+author: Radhitya
+image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/radhitya/photo_2021-07-24_21-17-36.jpg
 categories:
 - linux
 ---
@@ -29,5 +29,6 @@ Install Balena Etcher dengan perintah berikut
 ```bash
 $ sudo apt install balena-etcher-electron
 ```
-
 ## Cara Menggunakan Balena Etcher
+![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/radhitya/photo_2021-07-24_21-19-48.jpg)
+Menggunakan Balena Etcher cukup mudah karena antarmuka nya sederhana sekali. Di kotak warna hijau, ada tombol **Flash from file**, artinya memilih iso yang akan diburn. Lalu di kota warna kuning adalah tombol untuk menentukan drive yang akan digunakan. Terakhir kotak ungu bertujuan untuk memulai flash.
