@@ -1,14 +1,20 @@
 ---
-title: Checking Login History in Linux
-description: How to check login history in linux
+title: Mengecek Login History Pada Linux
+description: ""
 lang: id_ID
 date: 2021-05-05 13:18 +0700
 layout: post
 featured: true
 author: leon
 image: https://s3-kita-com/gambar.png
-categories: [ Linux, tutorial ]
+categories:
+  - linux
+  - tutorial
 ---
+
+Memantau history login pada server sangat lah penting, hal ini bertujuan agar system administrator mengetahui siapa saja yang telah mengakses ke server.
+
+Berikut adalah cara untuk mengecek login history pada linux.
 
 ### 1) Checking login history of all logged users in Linux
 
