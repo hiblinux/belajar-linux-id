@@ -2,7 +2,7 @@
 title: Cara Install dan Build From Source Neovim di Debian GNU/Linux
 description: Neovim adalah fork vim dan salah satu text editor terbaik
 lang: id_ID
-date: yyyy-mm-dd HH:MM +0700
+date: 2021-08-04 18:56 +0700
 layout: post
 featured: true
 author: Radhitya
