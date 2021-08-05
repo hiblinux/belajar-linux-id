@@ -8,6 +8,7 @@ featured: true
 author: Radhitya
 image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/radhitya/photo_2021-07-24_21-17-36.jpg
 categories:
+- debian
 - linux
 ---
 

@@ -8,6 +8,7 @@ featured: true
 author: Radhitya
 image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/radhitya/photo_2021-07-09_17-26-25.jpg
 categories:
+- debian
 - openbox
 - desktop
 ---

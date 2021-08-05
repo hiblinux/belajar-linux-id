@@ -8,6 +8,7 @@ featured: true
 author: Radhitya
 image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/radhitya/cover-gitea.png
 categories:
+- debian
 - gitea
 - internet independen
 ---

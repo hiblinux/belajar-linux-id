@@ -8,6 +8,7 @@ featured: true
 author: Radhitya
 image: 'https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/radhitya/photo_2021-06-13_11-11-04.jpg'
 categories:
+- debian
 - libreoffice
 ---
 

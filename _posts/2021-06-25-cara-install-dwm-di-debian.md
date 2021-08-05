@@ -8,6 +8,7 @@ featured: true
 author: Radhitya
 image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/radhitya/photo_2021-06-25_10-12-51.jpg
 categories:
+- debian
 - dwm
 - suckless
 - desktop
