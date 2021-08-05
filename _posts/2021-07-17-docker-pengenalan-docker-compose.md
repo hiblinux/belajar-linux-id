@@ -6,7 +6,7 @@ date: 2021-07-17 21:45 +0700
 layout: post
 featured: true
 author: leon
-image: http://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/cover-docker-compose.png
+image: https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/cover-docker-compose.png
 categories:
   - docker
   - linux
