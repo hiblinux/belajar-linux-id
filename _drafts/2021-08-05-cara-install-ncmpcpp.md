@@ -5,9 +5,15 @@ lang: id_ID
 date: yyyy-mm-dd HH:MM +0700
 layout: post
 featured: true
-author: Nama-Mu
+author: Radhitya
 image: https://s3-kita-com/gambar.png
 categories:
 - ncmpcpp
 - debian
 ---
+
+## Apa itu ncmpcpp?
+
+## Cara Install ncmpcpp di Debian GNU/Linux
+
+## Cara Konfigurasi ncmpcpp di Debian GNU/Linux
